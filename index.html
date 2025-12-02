@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>News Today</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #fafafa;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --text: #1a1a1a;
+      --text-light: #64748b;
+      --source: #2563eb;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--text);
+      line-height: 1.5;
+    }
+    header {
+      text-align: center;
+      padding: 2rem 1rem 1.5rem;
+      background: white;
+      border-bottom: 1px solid var(--border);
+    }
+    .day {
+      font-size: 1.1rem;
+      color: var(--text-light);
+      margin-bottom: 0.25rem;
+    }
+    .date {
+      font-size: 2rem;
+      font-weight: 600;
+      letter-spacing: -0.5px;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    .cards {
+      display: grid;
+      gap: 1rem;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1.5px solid var(--border);
+      border-radius: 14px;
+      padding: 1.25rem;
+      transition: border-color 0.2s;
+    }
+    .card:hover {
+      border-color: #94a3b8;
+    }
+    .headline {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin: 0 0 0.75rem 0;
+      line-height: 1.35;
+    }
+    .headline a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .headline a:hover {
+      color: #2563eb;
+    }
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.875rem;
+      color: var(--text-light);
+    }
+    .source {
+      font-weight: 600;
+      color: var(--source);
+    }
+    .loading {
+      text-align: center;
+      padding: 3rem;
+      color: var(--text-light);
+      font-size: 1.1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: var(--text-light);
+      font-size: 0.875rem;
+    }
+    @media (max-width: 600px) {
+      .date { font-size: 1.7rem; }
+      .headline { font-size: 1.15rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="day" id="day-name"></div>
+    <div class="date" id="full-date"></div>
+  </header>
+
+  <main>
+    <div id="loading" class="loading">Loading latest headlines...</div>
+    <div id="news" class="cards"></div>
+  </main>
+
+  <footer>
+    Last updated: <span id="last-updated"></span> • Refreshes every 5 minutes
+  </footer>
+
+  <script>
+    // === YOUR NEWS SOURCES (add/remove as you like) ===
+    const feeds = [
+      { name: "BBC News",     url: "http://feeds.bbci.co.uk/news/rss.xml" },
+      { name: "Reuters",      url: "https://feeds.reuters.com/reuters/topNews" },
+      { name: "Al Jazeera",   url: "https://www.aljazeera.com/xml/rss/all.xml" },
+      { name: "The Guardian", url: "https://www.theguardian.com/world/rss" },
+      { name: "AP News",      url: "https://feeds.feedburner.com/AssociatedPress" },
+      { name: "CNN",          url: "http://rss.cnn.com/rss/edition.rss" },
+      { name: "NPR",          url: "https://feeds.npr.org/1019/rss.xml" },
+    ];
+
+    const newsContainer = document.getElementById("news");
+    const loading = document.getElementById("loading");
+    const lastUpdated = document.getElementById("last-updated");
+
+    // Update date at the top
+    function updateDateHeader() {
+      const now = new Date();
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+      document.getElementById("day-name").textContent = now.toLocaleDateString('en-US', { weekday: 'long' });
+      document.getElementById("full-date").textContent = now.toLocaleDateString('en-US', options);
+    }
+
+    function timeAgo(date) {
+      const seconds = Math.floor((new Date() - date) / 1000);
+      const intervals = [
+        { unit: "year",   sec: 31536000 },
+        { unit: "month",  sec: 2592000 },
+        { unit: "day",    sec: 86400 },
+        { unit: "hour",   sec: 3600 },
+        { unit: "minute", sec: 60 },
+      ];
+      for (const i of intervals) {
+        const count = Math.floor(seconds / i.sec);
+        if (count >= 1) return count === 1 ? `1 ${i.unit} ago` : `${count} ${i.unit}s ago`;
+      }
+      return "Just now";
+    }
+
+    async function fetchFeed(feed) {
+      const proxy = "https://api.allorigins.us/get?url=";
+      try {
+        const res = await fetch(proxy + encodeURIComponent(feed.url));
+        const data = await res.json();
+        const xml = new DOMParser().parseFromString(data.contents, "text/xml");
+        const items = xml.querySelectorAll("item");
+        const results = [];
+
+        items.forEach(item => {
+          const title = item.querySelector("title")?.textContent || "No title";
+          const link = item.querySelector("link")?.textContent || "#";
+          const pubDate = item.querySelector("pubDate")?.textContent;
+          const date = pubDate ? new Date(pubDate) : new Date();
+          if (!isNaN(date)) {
+            results.push({ title, link, date, source: feed.name });
+          }
+        });
+        return results;
+      } catch (e) {
+        return [];
+      }
+    }
+
+    async function loadNews() {
+      loading.style.display = "block";
+      newsContainer.innerHTML = "";
+      let allNews = [];
+
+      try {
+        const results = await Promise.all(feeds.map(fetchFeed));
+        results.forEach(batch => allNews.push(...batch));
+
+        allNews.sort((a, b) => b.date - a.date);
+
+        allNews.slice(0, 60).forEach(item => {
+          const card = document.createElement("div");
+          card.className = "card";
+          card.innerHTML = `
+            <div class="headline">
+              <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+            </div>
+            <div class="meta">
+              <span class="source">${item.source}</span>
+              <span>${timeAgo(item.date)}</span>
+            </div>
+          `;
+          newsContainer.appendChild(card);
+        });
+
+        lastUpdated.textContent = new Date().toLocaleTimeString();
+      } catch (err) {
+        newsContainer.innerHTML = `<div class="card">Failed to load news. Retrying soon...</div>`;
+      } finally {
+        loading.style.display = "none";
+      }
+    }
+
+    // Run on load
+    updateDateHeader();
+    loadNews();
+    setInterval(loadNews, 5 * 60 * 1000); // every 5 mins
+  </script>
+</body>
+</html>
