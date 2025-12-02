@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 # Add your RSS feeds here
 # Note: Some feeds might be unreliable with times. These generally work well.
 feeds = [
+    {"source": "The Business Standard", "url": "https://www.tbsnews.net/bangladesh/rss.xml"},
     {"source": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"},
     {"source": "The Atlantic", "url": "https://www.theatlantic.com/feed/all/"},
     {"source": "BBC News", "url": "http://feeds.bbci.co.uk/news/rss.xml"},
@@ -62,3 +63,4 @@ print(f"Found {len(news_items)} articles from the last 24 hours.")
 # Save to JSON
 with open('news.json', 'w') as f:
     json.dump(news_items, f, indent=2)
+
