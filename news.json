@@ -1,5 +1,83 @@
 [
   {
+    "title": "How a 'fertility gap' is fuelling the rise of one-child families",
+    "link": "https://www.bbc.com/news/articles/cwyv7211jljo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-05T14:39:45+00:00"
+  },
+  {
+    "title": "Meta strikes AI licensing deals with CNN, Fox News, and USA Today",
+    "link": "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today",
+    "source": "The Verge",
+    "published": "2025-12-05T14:39:25+00:00"
+  },
+  {
+    "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
+    "link": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-05T14:35:38+00:00"
+  },
+  {
+    "title": "Trump Administration Says Europe Faces \u2018Civilizational Erasure\u2019",
+    "link": "https://www.nytimes.com/2025/12/05/world/europe/trump-europe.html",
+    "source": "New York Times",
+    "published": "2025-12-05T14:29:19+00:00"
+  },
+  {
+    "title": "Netflix to Buy Warner Bros in $83 Billion Deal",
+    "link": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html",
+    "source": "New York Times",
+    "published": "2025-12-05T14:25:49+00:00"
+  },
+  {
+    "title": "Residents still out of 200 homes with two in custody",
+    "link": "https://www.bbc.com/news/articles/c3e05enn9jqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-05T14:01:36+00:00"
+  },
+  {
+    "title": "The Kennedy Center Honors are coming up. This year's event will be different",
+    "link": "https://www.npr.org/2025/12/05/nx-s1-5607173/kennedy-center-honors-trump",
+    "source": "NPR",
+    "published": "2025-12-05T14:00:00+00:00"
+  },
+  {
+    "title": "Kim Cattrall marries fianc\u00e9 she met on BBC radio show",
+    "link": "https://www.bbc.com/news/articles/cdd5zelp7v6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-05T13:55:36+00:00"
+  },
+  {
+    "title": "'Hare Krishna Hari Bol, Daripalla Taine Tol': Jamaat\u2019s Hindu candidate for Khulna-1 launches unique campaign slogan",
+    "link": "https://www.tbsnews.net/bangladesh/hare-krishna-hari-bol-daripalla-taine-tol-jamaats-hindu-candidate-khulna-1-launches",
+    "source": "The Business Standard",
+    "published": "2025-12-05T13:55:00+00:00"
+  },
+  {
+    "title": "Wary of Russia, German Defense Minister Pistorius Is Growing His Army",
+    "link": "https://www.nytimes.com/2025/12/05/world/europe/germany-military-boris-pistorius-defense-minister.html",
+    "source": "New York Times",
+    "published": "2025-12-05T13:51:57+00:00"
+  },
+  {
+    "title": "Why the Battle for Warner Bros. Discovery May Not Be Over Yet",
+    "link": "https://www.nytimes.com/2025/12/05/business/dealbook/netflix-warner-bros-discovery.html",
+    "source": "New York Times",
+    "published": "2025-12-05T13:48:56+00:00"
+  },
+  {
+    "title": "Waymo&#8217;s robotaxis are under investigation for passing stopped school buses",
+    "link": "https://www.theverge.com/news/838879/waymo-school-buses-probe",
+    "source": "The Verge",
+    "published": "2025-12-05T13:45:35+00:00"
+  },
+  {
+    "title": "The Trump Lawyer Scandal Is About Something Much Deeper Than Legal Technicalities",
+    "link": "https://www.theatlantic.com/ideas/2025/12/us-attorney-disqualifications/685140/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-05T13:43:04+00:00"
+  },
+  {
     "title": "Trump\u2019s Boat Strikes Corrode America\u2019s Soul",
     "link": "https://www.nytimes.com/2025/12/05/opinion/trump-boat-strikes.html",
     "source": "New York Times",
@@ -18,28 +96,10 @@
     "published": "2025-12-05T13:30:00+00:00"
   },
   {
-    "title": "Netflix to Buy Warner Bros in $83 Billion Deal",
-    "link": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html",
-    "source": "New York Times",
-    "published": "2025-12-05T13:24:58+00:00"
-  },
-  {
     "title": "Lioness escapes enclosure at Mirpur Zoo, stays inside zoo grounds",
     "link": "https://www.tbsnews.net/bangladesh/lioness-escapes-enclosure-mirpur-zoo-stays-inside-zoo-grounds-1302521",
     "source": "The Business Standard",
     "published": "2025-12-05T13:20:00+00:00"
-  },
-  {
-    "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
-    "link": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-05T13:19:03+00:00"
-  },
-  {
-    "title": "Trump Administration Says Europe Faces \u2018Civilizational Erasure\u2019",
-    "link": "https://www.nytimes.com/2025/12/05/world/europe/trump-europe.html",
-    "source": "New York Times",
-    "published": "2025-12-05T13:17:32+00:00"
   },
   {
     "title": "Netflix is buying Warner Bros. for $83 billion",
@@ -75,10 +135,16 @@
     "title": "EU Hits Elon Musk\u2019s X With $140 Million Fine",
     "link": "https://www.nytimes.com/2025/12/05/technology/eu-elon-musk-x-140-million-fine.html",
     "source": "New York Times",
-    "published": "2025-12-05T13:05:56+00:00"
+    "published": "2025-12-05T13:05:57+00:00"
   },
   {
-    "title": "The Mystery of the Missing NFL Score",
+    "title": "Disruption as flights resume at Edinburgh Airport after outage",
+    "link": "https://www.bbc.com/news/articles/c773vn035plo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-05T13:02:07+00:00"
+  },
+  {
+    "title": "No NFL Game Has Ever Ended in a Score of 36\u201323",
     "link": "https://www.theatlantic.com/science/2025/12/nfl-scorigami-36-23/685136/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-05T13:01:00+00:00"
@@ -96,7 +162,7 @@
     "published": "2025-12-05T13:00:00+00:00"
   },
   {
-    "title": "You Had to Be There",
+    "title": "A Radical New Approach to Human History",
     "link": "https://www.theatlantic.com/magazine/2026/01/human-ancestors-emotion-history/684959/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-05T13:00:00+00:00"
@@ -106,12 +172,6 @@
     "link": "https://www.tbsnews.net/bangladesh/workers-rally-ctg-demanding-halt-nct-lease-plan-cancellation-laldia-pangaon-deals-1302501",
     "source": "The Business Standard",
     "published": "2025-12-05T12:55:00+00:00"
-  },
-  {
-    "title": "Why the Battle for Warner Bros. Discovery May Not Be Over Yet",
-    "link": "https://www.nytimes.com/2025/12/05/business/dealbook/netflix-warner-bros-discovery.html",
-    "source": "New York Times",
-    "published": "2025-12-05T12:53:58+00:00"
   },
   {
     "title": "What Putin and Modi got out of Delhi meeting",
@@ -130,12 +190,6 @@
     "link": "https://www.bbc.com/news/articles/c9vjrg1nky0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-05T12:33:40+00:00"
-  },
-  {
-    "title": "Residents remain out of 200 homes in major incident",
-    "link": "https://www.bbc.com/news/articles/c3e05enn9jqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-05T12:29:52+00:00"
   },
   {
     "title": "'It's worse than Covid,' says principal as 170 pupils off sick in one day",
@@ -228,12 +282,6 @@
     "published": "2025-12-05T11:15:00+00:00"
   },
   {
-    "title": "Alleged associate of synagogue attacker in court",
-    "link": "https://www.bbc.com/news/articles/cjrjl79p4y4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-05T11:14:19+00:00"
-  },
-  {
     "title": "Facebook and Instagram have a new hub to help get hijacked accounts back",
     "link": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub",
     "source": "The Verge",
@@ -318,12 +366,6 @@
     "published": "2025-12-05T10:00:27+00:00"
   },
   {
-    "title": "NPR battles Trump executive order in court",
-    "link": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court",
-    "source": "NPR",
-    "published": "2025-12-05T10:00:00+00:00"
-  },
-  {
     "title": "The World Cup draw is here. Here's why it matters \u2014 and how it will work",
     "link": "https://www.npr.org/2025/12/05/nx-s1-5633268/fifa-world-cup-draw-soccer",
     "source": "NPR",
@@ -332,6 +374,12 @@
   {
     "title": "Traffic congestion hits a record high, spreading to more hours of the week",
     "link": "https://www.npr.org/2025/12/05/nx-s1-5611164/traffic-congestion-record-high",
+    "source": "NPR",
+    "published": "2025-12-05T10:00:00+00:00"
+  },
+  {
+    "title": "NPR battles Trump executive order in court",
+    "link": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court",
     "source": "NPR",
     "published": "2025-12-05T10:00:00+00:00"
   },
@@ -394,12 +442,6 @@
     "link": "https://www.tbsnews.net/bangladesh/education/jahangirnagar-university-renames-4-halls-previously-named-after-sheikh-family",
     "source": "The Business Standard",
     "published": "2025-12-05T08:40:00+00:00"
-  },
-  {
-    "title": "At least 4 countries pull out of 2026 Eurovision contest over Israel's participation",
-    "link": "https://www.npr.org/2025/12/05/nx-s1-5634466/eurovision-contest-israel",
-    "source": "NPR",
-    "published": "2025-12-05T08:34:50+00:00"
   },
   {
     "title": "The World Cup draw is happening today - this is how it'll work",
@@ -480,12 +522,6 @@
     "published": "2025-12-05T05:11:31+00:00"
   },
   {
-    "title": "Arrival of Khaleda's air ambulance pushed to Saturday due to technical issues: Fakhrul",
-    "link": "https://www.tbsnews.net/bangladesh/qatar-air-ambulance-arrival-delay-pushes-khaleda-zias-london-transfer-plan-sunday-1302276",
-    "source": "The Business Standard",
-    "published": "2025-12-05T05:10:00+00:00"
-  },
-  {
     "title": "60 delivery riders face deportation after illegal work crackdown",
     "link": "https://www.bbc.com/news/articles/c709r8ekn8no?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -520,12 +556,6 @@
     "link": "https://www.nytimes.com/2025/12/04/opinion/china-dating-men-one-child-policy.html",
     "source": "New York Times",
     "published": "2025-12-05T01:17:23+00:00"
-  },
-  {
-    "title": "How a 'fertility gap' is fuelling the rise of one-child families",
-    "link": "https://www.bbc.com/news/articles/cwyv7211jljo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-05T01:06:02+00:00"
   },
   {
     "title": "The best noise-canceling headphones to buy right now",
@@ -570,22 +600,10 @@
     "published": "2025-12-04T22:37:44+00:00"
   },
   {
-    "title": "Nintendo\u2019s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off",
-    "link": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
-    "source": "The Verge",
-    "published": "2025-12-04T22:24:13+00:00"
-  },
-  {
     "title": "Pete Hegseth\u2019s Weak Excuses",
     "link": "https://www.theatlantic.com/ideas/2025/12/pete-hegseth-signalgate-unqualified/685145/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-04T22:24:09+00:00"
-  },
-  {
-    "title": "Pentagon\u2019s Signalgate report finds Pete Hegseth violated military policies",
-    "link": "https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth",
-    "source": "The Verge",
-    "published": "2025-12-04T21:55:09+00:00"
   },
   {
     "title": "The Strange Disappearance of an Anti-AI Activist",
