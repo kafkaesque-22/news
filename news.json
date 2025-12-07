@@ -1,5 +1,29 @@
 [
   {
+    "title": "Trump Set to Host the Kennedy Center Honors",
+    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html",
+    "source": "New York Times",
+    "published": "2025-12-07T23:21:03+00:00"
+  },
+  {
+    "title": "Murder investigation after child and woman die in house fire",
+    "link": "https://www.bbc.com/news/articles/cdd53m86dqgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-07T23:17:25+00:00"
+  },
+  {
+    "title": "I'm A Celebrity 2025 winner crowned in series final",
+    "link": "https://www.bbc.com/news/articles/ceq17gne2j3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-07T22:39:16+00:00"
+  },
+  {
+    "title": "Immigration Agents Target Family of Deported College Student",
+    "link": "https://www.nytimes.com/2025/12/07/us/immigration-agents-family-deported-student.html",
+    "source": "New York Times",
+    "published": "2025-12-07T22:38:31+00:00"
+  },
+  {
     "title": "Netflix CEO made a visit to the White House before buying Warner Bros.",
     "link": "https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros",
     "source": "The Verge",
@@ -12,22 +36,16 @@
     "published": "2025-12-07T22:30:07+00:00"
   },
   {
-    "title": "Immigration Agents Target Family of Deported College Student",
-    "link": "https://www.nytimes.com/2025/12/07/us/immigration-agents-family-deported-student.html",
-    "source": "New York Times",
-    "published": "2025-12-07T22:15:58+00:00"
-  },
-  {
-    "title": "Murder investigation after child and woman die in house fire",
-    "link": "https://www.bbc.com/news/articles/cdd53m86dqgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-07T22:10:15+00:00"
-  },
-  {
     "title": "Light from satellites will ruin majority of some space telescope images, study says",
     "link": "https://www.npr.org/2025/12/07/nx-s1-5636130/satellite-reflected-light-telescope-images-hubble-starlink",
     "source": "NPR",
     "published": "2025-12-07T22:07:21+00:00"
+  },
+  {
+    "title": "As Congress fights over ACA subsidies, another path emerges",
+    "link": "https://www.npr.org/2025/12/07/nx-s1-5634749/as-congress-fights-over-aca-subsidies-economist-argues-for-expanding-care",
+    "source": "NPR",
+    "published": "2025-12-07T22:01:15+00:00"
   },
   {
     "title": "Benin coup thwarted by loyalist troops, president tells nation",
@@ -72,12 +90,6 @@
     "published": "2025-12-07T21:20:56+00:00"
   },
   {
-    "title": "Trump Set to Host the Kennedy Center Honors",
-    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html",
-    "source": "New York Times",
-    "published": "2025-12-07T21:11:26+00:00"
-  },
-  {
     "title": "How Norris achieved his lifetime's ambition by 'winning it my way'",
     "link": "https://www.bbc.com/sport/formula1/articles/c3v136dv03po?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -94,6 +106,12 @@
     "link": "https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account",
     "source": "The Verge",
     "published": "2025-12-07T20:52:37+00:00"
+  },
+  {
+    "title": "Cold Case Inquiries Stall After Ancestry.com Revisits Policy for Users",
+    "link": "https://www.nytimes.com/2025/12/07/nyregion/ancestry-dna-police.html",
+    "source": "New York Times",
+    "published": "2025-12-07T20:46:27+00:00"
   },
   {
     "title": "Warning against mushroom foraging in California after fatal poisoning",
@@ -214,12 +232,6 @@
     "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-07T17:45:11+00:00"
-  },
-  {
-    "title": "Nightclub fire in India's Goa kills 25 staff and tourists",
-    "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-07T17:40:13+00:00"
   },
   {
     "title": "Handmade masterpieces by special-needs children steal the show at SME fair",
@@ -456,16 +468,16 @@
     "published": "2025-12-07T10:02:24+00:00"
   },
   {
+    "title": "Social Security at 70? Why the Gold Standard Advice Works for Only a Few",
+    "link": "https://www.nytimes.com/2025/12/07/business/social-security-70-retirement.html",
+    "source": "New York Times",
+    "published": "2025-12-07T10:01:58+00:00"
+  },
+  {
     "title": "A Small Illinois City at the Center of a Seismic Shift in Abortion Access",
     "link": "https://www.nytimes.com/2025/12/07/us/politics/abortion-carbondale.html",
     "source": "New York Times",
     "published": "2025-12-07T10:00:56+00:00"
-  },
-  {
-    "title": "The Married Scientists Torn Apart by a Covid Bioweapon Theory",
-    "link": "https://www.nytimes.com/2025/12/07/us/china-virologist-li-meng-yan-coronavirus.html",
-    "source": "New York Times",
-    "published": "2025-12-07T10:00:13+00:00"
   },
   {
     "title": "Benin's interior minister says a coup announced earlier has been foiled",
@@ -474,16 +486,22 @@
     "published": "2025-12-07T09:41:01+00:00"
   },
   {
-    "title": "A fire at a popular nightclub in India's Goa state kills at least 25, officials say",
-    "link": "https://www.npr.org/2025/12/07/nx-s1-5636547/fire-nightclub-india-goa",
-    "source": "NPR",
-    "published": "2025-12-07T07:51:59+00:00"
-  },
-  {
     "title": "Everyone Wants High-Quality Clothes. That\u2019s Become Its Own Trend.",
     "link": "https://www.nytimes.com/2025/12/07/opinion/fashion-quality-ethical-consumption.html",
     "source": "New York Times",
     "published": "2025-12-07T06:00:05+00:00"
+  },
+  {
+    "title": "Australia\u2019s Social Media Ban for Under-16s Is Coming. The Teenagers Are Skeptical.",
+    "link": "https://www.nytimes.com/2025/12/07/world/asia/australia-social-media-ban-under-16.html",
+    "source": "New York Times",
+    "published": "2025-12-07T05:03:25+00:00"
+  },
+  {
+    "title": "How Australia\u2019s Social Media Ban for Children Will Work",
+    "link": "https://www.nytimes.com/2025/12/07/world/asia/australia-social-media-ban-how-what.html",
+    "source": "New York Times",
+    "published": "2025-12-07T05:01:09+00:00"
   },
   {
     "title": "Can a new song really become Christmas number one?",
