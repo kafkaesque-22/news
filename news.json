@@ -1,5 +1,89 @@
 [
   {
+    "title": "Are we in a recession? Maybe professional Santas can tell us",
+    "link": "https://www.npr.org/sections/planet-money/2025/12/09/g-s1-101130/are-we-in-a-recession-maybe-professional-santas-can-tell-us",
+    "source": "NPR",
+    "published": "2025-12-09T11:30:00+00:00"
+  },
+  {
+    "title": "Trump says Nvidia can sell more powerful AI chips to China",
+    "link": "https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us",
+    "source": "The Verge",
+    "published": "2025-12-09T11:26:58+00:00"
+  },
+  {
+    "title": "Two charged over Heathrow suitcase robbery and suspected pepper spray attack",
+    "link": "https://www.bbc.com/news/articles/cdxeql929dgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-09T11:21:33+00:00"
+  },
+  {
+    "title": "Celtic legend Deans dies aged 79",
+    "link": "https://www.bbc.com/sport/football/articles/cy5g01yr6qeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-09T11:20:58+00:00"
+  },
+  {
+    "title": "The Business Strategy That Could Drive Up Your Grocery Bill, and Trump\u2019s $12 Billion Bailout",
+    "link": "https://www.nytimes.com/2025/12/09/podcasts/the-headlines/instacart-groceries-trump-bailout-netflix-warner-brothers.html",
+    "source": "New York Times",
+    "published": "2025-12-09T11:18:18+00:00"
+  },
+  {
+    "title": "DMP imposes ban on gatherings near CJ's residence, Judges Complex from Thursday",
+    "link": "https://www.tbsnews.net/bangladesh/dmp-imposes-ban-gatherings-near-supreme-court-jamuna-thursday-1305411",
+    "source": "The Business Standard",
+    "published": "2025-12-09T11:15:00+00:00"
+  },
+  {
+    "title": "Arrested army officials were not on DGFI duty during 'Aynaghar' tortures, defence lawyer tells ICT",
+    "link": "https://www.tbsnews.net/bangladesh/court/arrested-army-officials-were-not-dgfi-duty-during-aynaghar-tortures-defence-lawyer",
+    "source": "The Business Standard",
+    "published": "2025-12-09T11:15:00+00:00"
+  },
+  {
+    "title": "Man, 28, charged with raping two teenage girls",
+    "link": "https://www.bbc.com/news/articles/cd9zygpn81jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-09T11:08:15+00:00"
+  },
+  {
+    "title": "Same Product, Same Store, but on Instacart, Prices Might Differ",
+    "link": "https://www.nytimes.com/2025/12/09/business/instacart-algorithmic-pricing.html",
+    "source": "New York Times",
+    "published": "2025-12-09T11:00:16+00:00"
+  },
+  {
+    "title": "RAM is ruining everything",
+    "link": "https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones",
+    "source": "The Verge",
+    "published": "2025-12-09T11:00:00+00:00"
+  },
+  {
+    "title": "Black bear populations are bouncing back. Here's how these Texas towns are coping",
+    "link": "https://www.npr.org/2025/12/09/nx-s1-5504109/texas-black-bear-population",
+    "source": "NPR",
+    "published": "2025-12-09T11:00:00+00:00"
+  },
+  {
+    "title": "Mohammadpur murders: Chilling details emerge as hunt for domestic help intensifies",
+    "link": "https://www.tbsnews.net/bangladesh/crime/mohammadpur-murders-chilling-details-emerge-hunt-domestic-help-intensifies-1305401",
+    "source": "The Business Standard",
+    "published": "2025-12-09T10:55:00+00:00"
+  },
+  {
+    "title": "Protesters block Shahbagh demanding removal of IGP Baharul over Pintu murder case",
+    "link": "https://www.tbsnews.net/bangladesh/protesters-block-shahbagh-demanding-removal-igp-baharul-over-pintu-murder-case-1305396",
+    "source": "The Business Standard",
+    "published": "2025-12-09T10:50:00+00:00"
+  },
+  {
+    "title": "Another Front in the War in Ukraine: Who Gets to Claim a Famed Artist?",
+    "link": "https://www.nytimes.com/2025/12/09/world/europe/ukraine-malevich-artist.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:44:02+00:00"
+  },
+  {
     "title": "Intelligence officers dictated TV scrolls during July Uprising: Hasnat Abdullah",
     "link": "https://www.tbsnews.net/bangladesh/intelligence-officers-dictated-tv-scrolls-during-july-uprising-hasnat-abdullah-1305386",
     "source": "The Business Standard",
@@ -30,20 +114,62 @@
     "published": "2025-12-09T10:12:39+00:00"
   },
   {
+    "title": "A Key Question for the Supreme Court: What About the Fed?",
+    "link": "https://www.nytimes.com/2025/12/09/us/supreme-court-fed.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:04:01+00:00"
+  },
+  {
     "title": "Amy Klobuchar: Trump Should Not Replace A.I. Laws With an Executive Order",
     "link": "https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html",
     "source": "New York Times",
     "published": "2025-12-09T10:03:55+00:00"
   },
   {
-    "title": "The GOP has allowed Trump to expand his authority. Here's where they're pushing back",
-    "link": "https://www.npr.org/2025/12/09/g-s1-101183/gop-authority-trump-pushback",
-    "source": "NPR",
-    "published": "2025-12-09T10:00:00+00:00"
+    "title": "Three Years After Dobbs, the State Divide Over Abortion Deepens",
+    "link": "https://www.nytimes.com/2025/12/09/us/states-new-abortion-laws.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:03:46+00:00"
+  },
+  {
+    "title": "Supreme Court Is Asked to Take Another Ax to Campaign Finance Limits",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/supreme-court-campaign-finance.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:03:35+00:00"
+  },
+  {
+    "title": "Kamala Harris on \u2019107 Days,\u2019 2028 and the Democratic Party\u2019s Future",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/kamala-harris-interview-107-days-book-2028.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:02:20+00:00"
+  },
+  {
+    "title": "Top 10 Video Games of 2025",
+    "link": "https://www.nytimes.com/2025/12/09/arts/top-10-video-games-of-2025.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:02:02+00:00"
+  },
+  {
+    "title": "Canada\u2019s Northwest Territories Diamond Mines Are Closing",
+    "link": "https://www.nytimes.com/2025/12/09/world/canada/canada-northwest-territories-diamond-mines.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:00:31+00:00"
+  },
+  {
+    "title": "\u2018Alan\u2019s Universe\u2019 Shows What It Might Look Like to Win at YouTube",
+    "link": "https://www.nytimes.com/2025/12/09/arts/television/youtube-alans-universe.html",
+    "source": "New York Times",
+    "published": "2025-12-09T10:00:16+00:00"
   },
   {
     "title": "A 101-year-old runs the largest nutcracker museum in the U.S. Here's a look inside",
     "link": "https://www.npr.org/2025/12/09/nx-s1-5629014/nutcracker-museum-washington-leavenworth",
+    "source": "NPR",
+    "published": "2025-12-09T10:00:00+00:00"
+  },
+  {
+    "title": "The GOP has allowed Trump to expand his authority. Here's where they're pushing back",
+    "link": "https://www.npr.org/2025/12/09/g-s1-101183/gop-authority-trump-pushback",
     "source": "NPR",
     "published": "2025-12-09T10:00:00+00:00"
   },
@@ -162,6 +288,12 @@
     "published": "2025-12-09T08:10:00+00:00"
   },
   {
+    "title": "Wrenching Pain, a Severe Infection: An ICE Detainee Is Ordered Released",
+    "link": "https://www.nytimes.com/2025/12/09/nyregion/ice-detention-facilities-judges-criticism.html",
+    "source": "New York Times",
+    "published": "2025-12-09T08:00:06+00:00"
+  },
+  {
     "title": "Court orders to seize income tax records of former state minister Enamur Rahman",
     "link": "https://www.tbsnews.net/bangladesh/court/court-orders-seize-income-tax-records-former-state-minister-enamur-rahman-1305261",
     "source": "The Business Standard",
@@ -184,30 +316,6 @@
     "link": "https://www.tbsnews.net/infograph/numbers/which-vehicles-dominate-bangladesh-roads-1305251",
     "source": "The Business Standard",
     "published": "2025-12-09T07:45:00+00:00"
-  },
-  {
-    "title": "Rubhana, Kalpana, Ritu Porna, Nabila receive Begum Rokeya Award as CA says they are destined to lead the world",
-    "link": "https://www.tbsnews.net/bangladesh/ca-distributes-begum-rokeya-padak-2025-among-4-awardees-1305236",
-    "source": "The Business Standard",
-    "published": "2025-12-09T07:40:00+00:00"
-  },
-  {
-    "title": "CA for building new Bangladesh with women's participation",
-    "link": "https://www.tbsnews.net/bangladesh/ca-building-new-bangladesh-womens-participation-1305241",
-    "source": "The Business Standard",
-    "published": "2025-12-09T07:40:00+00:00"
-  },
-  {
-    "title": "CEC AMM Nasir meets Chief Justice Syed Refaat Ahmed",
-    "link": "https://www.tbsnews.net/bangladesh/cec-way-meet-chief-justice-syed-refaat-ahmed-1305226",
-    "source": "The Business Standard",
-    "published": "2025-12-09T07:20:00+00:00"
-  },
-  {
-    "title": "Evidence of IELTS cheating uncovered in Bangladesh, China: The Telegraph",
-    "link": "https://www.tbsnews.net/bangladesh/evidence-ielts-cheating-uncovered-bangladesh-china-telegraph-1305181",
-    "source": "The Business Standard",
-    "published": "2025-12-09T07:00:00+00:00"
   },
   {
     "title": "Honduras Issues Warrant for Juan Orlando Hern\u00e1ndez",
@@ -270,46 +378,16 @@
     "published": "2025-12-09T04:10:27+00:00"
   },
   {
-    "title": "Top N.Y. Cannabis Official Resigns as Major Investigation Is Dropped",
-    "link": "https://www.nytimes.com/2025/12/08/nyregion/cannabis-regulators-omnium.html",
-    "source": "New York Times",
-    "published": "2025-12-09T03:23:43+00:00"
-  },
-  {
     "title": "Supreme Court Questions N.Y. Ban on Religious Exemptions for Vaccines",
     "link": "https://www.nytimes.com/2025/12/08/nyregion/ny-school-vaccinations.html",
     "source": "New York Times",
     "published": "2025-12-09T02:54:32+00:00"
   },
   {
-    "title": "DeSantis Designates CAIR, Muslim Advocacy Group, a \u2018Terrorist Organization\u2019",
-    "link": "https://www.nytimes.com/2025/12/08/us/desantis-cair-muslim-terrorism-florida.html",
-    "source": "New York Times",
-    "published": "2025-12-09T02:39:53+00:00"
-  },
-  {
     "title": "Trump Insists Tariffs Will Buoy the Economy and Ease Cost Concerns",
     "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html",
     "source": "New York Times",
     "published": "2025-12-09T02:30:03+00:00"
-  },
-  {
-    "title": "Trump Plans $12 Billion Bailout to Aid Farmers Hit by Tariffs",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-farmers-aid-bailout.html",
-    "source": "New York Times",
-    "published": "2025-12-09T02:27:06+00:00"
-  },
-  {
-    "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
-    "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-09T02:13:58+00:00"
-  },
-  {
-    "title": "Why Some Doctors Say There Are Cancers That Shouldn\u2019t Be Treated",
-    "link": "https://www.nytimes.com/2025/12/08/health/cancer-young-people-deaths.html",
-    "source": "New York Times",
-    "published": "2025-12-09T01:55:17+00:00"
   },
   {
     "title": "John Noble Wilford, Times Reporter Who Covered the Moon Landing, Dies at 92",
@@ -322,12 +400,6 @@
     "link": "https://www.nytimes.com/2025/12/08/nyregion/ny-archdiocese-sex-abuse-settlement.html",
     "source": "New York Times",
     "published": "2025-12-09T01:49:00+00:00"
-  },
-  {
-    "title": "Dozens injured after magnitude 7.5 quake strikes northern Japan",
-    "link": "https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-09T01:38:00+00:00"
   },
   {
     "title": "Fines issued after disabled bay painted around car while owner was on holiday",
@@ -378,18 +450,6 @@
     "published": "2025-12-08T22:37:00+00:00"
   },
   {
-    "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China",
-    "link": "https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html",
-    "source": "New York Times",
-    "published": "2025-12-08T22:30:02+00:00"
-  },
-  {
-    "title": "University of Oklahoma Removes a Teacher It Says Urged Students to Protest",
-    "link": "https://www.nytimes.com/2025/12/08/us/oklahoma-university-removes-instructor-protest-bible-gender.html",
-    "source": "New York Times",
-    "published": "2025-12-08T22:29:38+00:00"
-  },
-  {
     "title": "Australia's social media ban for children has left big tech scrambling",
     "link": "https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -408,28 +468,10 @@
     "published": "2025-12-08T22:19:19+00:00"
   },
   {
-    "title": "Supreme Court Seems Poised to Give Trump More Power to Fire Independent Officials",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/supreme-court-trump-presidential-power.html",
-    "source": "New York Times",
-    "published": "2025-12-08T22:13:40+00:00"
-  },
-  {
-    "title": "Russian Court Sentences 4 Soldiers to Prison for Killing Texan",
-    "link": "https://www.nytimes.com/2025/12/08/world/europe/russia-soldiers-sentence-murder-texas.html",
-    "source": "New York Times",
-    "published": "2025-12-08T22:07:45+00:00"
-  },
-  {
     "title": "Why Are Leftists So Pessimistic About School Reform?",
     "link": "https://www.theatlantic.com/ideas/2025/12/school-reform-progressives/685179/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-08T21:59:00+00:00"
-  },
-  {
-    "title": "G.O.P. Senators Push Health Care Options as Vote Looms",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/obamacare-subsidy-vote-aca.html",
-    "source": "New York Times",
-    "published": "2025-12-08T21:39:04+00:00"
   },
   {
     "title": "The 34 best gifts that your teen will actually use",
@@ -510,40 +552,10 @@
     "published": "2025-12-08T19:13:32+00:00"
   },
   {
-    "title": "A.I. Videos Have Flooded Social Media. No One Was Ready.",
-    "link": "https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html",
-    "source": "New York Times",
-    "published": "2025-12-08T19:03:40+00:00"
-  },
-  {
     "title": "Anthropic is bringing Claude Code to Slack",
     "link": "https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration",
     "source": "The Verge",
     "published": "2025-12-08T19:01:00+00:00"
-  },
-  {
-    "title": "Sweaty Betty in new dispute over ad slogans",
-    "link": "https://www.bbc.com/news/articles/cj9yz0xmvk2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-08T18:47:07+00:00"
-  },
-  {
-    "title": "Lenovo\u2019s next gaming laptop may have a rollable OLED screen that stretches ultrawide",
-    "link": "https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor",
-    "source": "The Verge",
-    "published": "2025-12-08T18:33:51+00:00"
-  },
-  {
-    "title": "It\u2019s ugly, it\u2019s beautiful, it\u2019s how you know a game might be a classic",
-    "link": "https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest",
-    "source": "The Verge",
-    "published": "2025-12-08T18:30:00+00:00"
-  },
-  {
-    "title": "FBI agents sue after being fired for kneeling during racial justice protest",
-    "link": "https://www.npr.org/2025/12/08/g-s1-100970/fbi-agents-kneel-protest-lawsuit",
-    "source": "NPR",
-    "published": "2025-12-08T17:39:02+00:00"
   },
   {
     "title": "Sculpted by Stellar Winds",
@@ -556,24 +568,6 @@
     "link": "https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-08T17:01:30+00:00"
-  },
-  {
-    "title": "How Japan Built a Rare-Earth Supply Chain Without China",
-    "link": "https://www.nytimes.com/2025/12/08/business/japan-rare-earths-lynas.html",
-    "source": "New York Times",
-    "published": "2025-12-08T16:45:10+00:00"
-  },
-  {
-    "title": "Best New York City Dishes",
-    "link": "https://www.nytimes.com/2025/12/08/dining/best-nyc-dishes.html",
-    "source": "New York Times",
-    "published": "2025-12-08T16:42:19+00:00"
-  },
-  {
-    "title": "Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery",
-    "link": "https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix",
-    "source": "NPR",
-    "published": "2025-12-08T16:36:39+00:00"
   },
   {
     "title": "Why Thailand and Cambodia Are Fighting",
