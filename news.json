@@ -1,15 +1,279 @@
 [
   {
+    "title": "Author Sophie Kinsella dies aged 55",
+    "link": "https://www.bbc.com/news/articles/ce91d2m1gg7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T13:45:56+00:00"
+  },
+  {
+    "title": "Man guilty of murdering ex-girlfriend's sister and three children in house fire",
+    "link": "https://www.bbc.com/news/articles/c7vm7dm589do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T13:43:27+00:00"
+  },
+  {
+    "title": "British paratrooper who died in Ukraine named",
+    "link": "https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T13:41:06+00:00"
+  },
+  {
+    "title": "The fight to beat neglected tropical diseases was going well. 2025 could change that",
+    "link": "https://www.npr.org/sections/goats-and-soda/2025/12/10/g-s1-101411/neglected-tropical-diseases-usaid-cuts",
+    "source": "NPR",
+    "published": "2025-12-10T13:39:03+00:00"
+  },
+  {
+    "title": "Greetings from Andhra Pradesh, India, where a fragrant food stand feeds working women",
+    "link": "https://www.npr.org/2025/12/10/nx-s1-5638423/indian-food-women-workers",
+    "source": "NPR",
+    "published": "2025-12-10T13:38:22+00:00"
+  },
+  {
+    "title": "Nobel Peace Prize winner's daughter accepts award on her behalf",
+    "link": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T13:35:11+00:00"
+  },
+  {
+    "title": "How Gavin Newsom Became the Democrats\u2019 2028 Frontrunner",
+    "link": "https://www.nytimes.com/2025/12/10/opinion/ezra-klein-podcast-gavin-newsom.html",
+    "source": "New York Times",
+    "published": "2025-12-10T13:33:17+00:00"
+  },
+  {
+    "title": "Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits",
+    "link": "https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T13:31:40+00:00"
+  },
+  {
+    "title": "Your role in freeing the nation from fascist rule will be remembered: CA tells Asif, Mahfuj",
+    "link": "https://www.tbsnews.net/bangladesh/your-role-freeing-nation-fascist-rule-will-be-remembered-ca-tells-asif-mahfuj-1306641",
+    "source": "The Business Standard",
+    "published": "2025-12-10T13:30:00+00:00"
+  },
+  {
+    "title": "Joining bloc with Pakistan strategically possible: Touhid",
+    "link": "https://www.tbsnews.net/foreign-policy/joining-bloc-pakistan-strategically-possible-touhid-1306646",
+    "source": "The Business Standard",
+    "published": "2025-12-10T13:30:00+00:00"
+  },
+  {
+    "title": "Instagram gives you more control over your Reels algorithm",
+    "link": "https://www.theverge.com/news/841399/instagram-reels-tune-algorithm-feature",
+    "source": "The Verge",
+    "published": "2025-12-10T13:30:00+00:00"
+  },
+  {
+    "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
+    "link": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T13:25:11+00:00"
+  },
+  {
+    "title": "Mobile traders block roads at Karwan Bazar, Jamuna Future Park demanding NEIR reform",
+    "link": "https://www.tbsnews.net/bangladesh/mobile-traders-block-roads-karwan-bazar-jamuna-future-park-demanding-neir-reform-1306626",
+    "source": "The Business Standard",
+    "published": "2025-12-10T13:25:00+00:00"
+  },
+  {
+    "title": "Sophie Kinsella, \u2018Confessions of a Shopaholic\u2019 Author, Dies at 55",
+    "link": "https://www.nytimes.com/2025/12/10/books/sophie-kinsella-dead-madeleine-wickham.html",
+    "source": "New York Times",
+    "published": "2025-12-10T13:16:28+00:00"
+  },
+  {
+    "title": "Brad Lander Will Run for House Seat with Mamdani\u2019s Support",
+    "link": "https://www.nytimes.com/2025/12/10/nyregion/lander-goldman-mamdani-congress.html",
+    "source": "New York Times",
+    "published": "2025-12-10T13:16:11+00:00"
+  },
+  {
+    "title": "No mega projects if BNP comes to power; investment will focus on education, human resources: Tarique",
+    "link": "https://www.tbsnews.net/bangladesh/no-mega-projects-if-bnp-comes-power-investment-will-focus-education-human-resources",
+    "source": "The Business Standard",
+    "published": "2025-12-10T13:15:00+00:00"
+  },
+  {
+    "title": "House Democrat Seeks to Impeach RFK Jr. for Undercutting Public Health",
+    "link": "https://www.nytimes.com/2025/12/10/us/politics/haley-stevens-impeach-kennedy.html",
+    "source": "New York Times",
+    "published": "2025-12-10T13:11:18+00:00"
+  },
+  {
+    "title": "Weak governance and policy gaps slowing Bangladesh\u2019s clean energy transition, experts warn",
+    "link": "https://www.tbsnews.net/bangladesh/weak-governance-and-policy-gaps-slowing-bangladeshs-clean-energy-transition-experts-warn",
+    "source": "The Business Standard",
+    "published": "2025-12-10T13:10:00+00:00"
+  },
+  {
+    "title": "Machado's daughter accepts Nobel Peace Prize in Venezuelan opposition leader's absence",
+    "link": "https://www.npr.org/2025/12/10/nx-s1-5639764/machado-nobel-peace-prize-ceremony",
+    "source": "NPR",
+    "published": "2025-12-10T13:03:12+00:00"
+  },
+  {
+    "title": "Govt to launch NEIR on 16 December, 3-month grace period granted to grey-market traders",
+    "link": "https://www.tbsnews.net/bangladesh/govt-launch-neir-16-december-3-month-grace-period-granted-grey-market-traders-1306581",
+    "source": "The Business Standard",
+    "published": "2025-12-10T13:00:00+00:00"
+  },
+  {
+    "title": "Madaripur liberated after 36 hours of fierce fighting: District observes historic day",
+    "link": "https://www.tbsnews.net/bangladesh/madaripur-liberated-after-36-hours-fierce-fighting-district-observes-historic-day-1306586",
+    "source": "The Business Standard",
+    "published": "2025-12-10T13:00:00+00:00"
+  },
+  {
+    "title": "The Most Impractical Tool in My Kitchen",
+    "link": "https://www.theatlantic.com/culture/2025/12/carbon-steel-knives/685182/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-10T13:00:00+00:00"
+  },
+  {
+    "title": "ChatGPT can now use Adobe apps to edit your photos and PDFs for free",
+    "link": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express",
+    "source": "The Verge",
+    "published": "2025-12-10T13:00:00+00:00"
+  },
+  {
+    "title": "NCP leaves out Samantha Sharmin from nominations, names 14 other women candidates",
+    "link": "https://www.tbsnews.net/bangladesh/politics/ncp-leaves-out-samantha-sharmin-nominations-names-14-other-women-candidates",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:50:00+00:00"
+  },
+  {
+    "title": "Why Markets Are Getting Anxious About the Fed",
+    "link": "https://www.nytimes.com/2025/12/10/business/dealbook/fed-rates-powell-trump.html",
+    "source": "New York Times",
+    "published": "2025-12-10T12:48:59+00:00"
+  },
+  {
+    "title": "Experts urge labour reform as women expose deep inequalities in informal sectors",
+    "link": "https://www.tbsnews.net/bangladesh/experts-urge-labour-reform-women-expose-deep-inequalities-informal-sectors-1306561",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:45:00+00:00"
+  },
+  {
+    "title": "Shipping adviser won't be allowed to enter Ctg without clarifying extortion claims: Mayor Shahadat",
+    "link": "https://www.tbsnews.net/bangladesh/shipping-adviser-cant-enter-ctg-without-extortion-claims-clarification-mayor-shahadat",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:40:00+00:00"
+  },
+  {
+    "title": "DMP Commissioner orders full impartiality, stricter crime control ahead of polls",
+    "link": "https://www.tbsnews.net/bangladesh/dmp-commissioner-orders-full-impartiality-stricter-crime-control-ahead-polls-1306551",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:35:00+00:00"
+  },
+  {
+    "title": "US jets tracked circling Gulf of Venezuela as tensions mount",
+    "link": "https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T12:34:44+00:00"
+  },
+  {
+    "title": "Trump\u2019s New Imperialism",
+    "link": "https://www.theatlantic.com/ideas/2025/12/trump-imperialism-foreign-policy/685196/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-10T12:31:00+00:00"
+  },
+  {
+    "title": "Govt facilitates treatment of 159 July fighters abroad: Touhid",
+    "link": "https://www.tbsnews.net/bangladesh/govt-facilitates-treatment-159-july-fighters-abroad-touhid-1306541",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:25:00+00:00"
+  },
+  {
+    "title": "Nothing can be done if India refuses to send Sheikh Hasina back: Foreign adviser",
+    "link": "https://www.tbsnews.net/bangladesh/nothing-can-be-done-if-india-refuses-send-sheikh-hasina-back-foreign-adviser-1306531",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:20:00+00:00"
+  },
+  {
+    "title": "Asserting a Personal Role in Warner Bros. Battle, Trump Seeks to Expand His Powers Again",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-warner-bros.html",
+    "source": "New York Times",
+    "published": "2025-12-10T12:16:40+00:00"
+  },
+  {
+    "title": "McDonald's pulls AI Christmas ad after backlash",
+    "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T12:14:14+00:00"
+  },
+  {
+    "title": "Govt plans programmes to celebrate great Victory Day",
+    "link": "https://www.tbsnews.net/bangladesh/govt-takes-programmes-celebrate-great-victory-day-1306521",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:10:00+00:00"
+  },
+  {
+    "title": "Bangladesh begins institutional reforms to strengthen environmental governance: Rizwana",
+    "link": "https://www.tbsnews.net/bangladesh/environment/bangladesh-begins-institutional-reforms-strengthen-environmental-governance",
+    "source": "The Business Standard",
+    "published": "2025-12-10T12:00:00+00:00"
+  },
+  {
+    "title": "2025 in Photos: Wrapping Up the Year",
+    "link": "https://www.theatlantic.com/photography/2025/12/2025-photos-wrapping-year/685184/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-10T12:00:00+00:00"
+  },
+  {
+    "title": "The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.",
+    "link": "https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters",
+    "source": "NPR",
+    "published": "2025-12-10T11:47:30+00:00"
+  },
+  {
+    "title": "Asif Mahmud, Mahfuj Alam resign from interim govt",
+    "link": "https://www.tbsnews.net/bangladesh/asif-mahmud-mahfuj-alam-resign-interim-govt-1306476",
+    "source": "The Business Standard",
+    "published": "2025-12-10T11:45:00+00:00"
+  },
+  {
+    "title": "Who is Waki, the NCP candidate running against Tarique at Bogura-6?",
+    "link": "https://www.tbsnews.net/bangladesh/politics/who-waki-ncp-candidate-running-against-tarique-bogura-6-1306481",
+    "source": "The Business Standard",
+    "published": "2025-12-10T11:45:00+00:00"
+  },
+  {
+    "title": "Machado Will Not Pick Up Peace Prize in Person, Organizers Say",
+    "link": "https://www.nytimes.com/2025/12/10/world/europe/machado-nobel-venezuela-ceremony.html",
+    "source": "New York Times",
+    "published": "2025-12-10T11:43:21+00:00"
+  },
+  {
+    "title": "Can you solve GCHQ's Christmas code-cracking challenge?",
+    "link": "https://www.bbc.com/news/articles/c04vgn6xlzno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T11:43:03+00:00"
+  },
+  {
+    "title": "Trump Says Americans Are Doing Great, Even as Views on the Economy Sour",
+    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-affordability-economy-pennsylvania.html",
+    "source": "New York Times",
+    "published": "2025-12-10T11:30:24+00:00"
+  },
+  {
+    "title": "US could ask UK tourists for five-year social media history before entry",
+    "link": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-10T11:26:19+00:00"
+  },
+  {
+    "title": "2-year-old falls into 50ft hole meant for deep tube-well in Rajshahi; rescue efforts underway",
+    "link": "https://www.tbsnews.net/bangladesh/2-year-old-falls-50ft-hole-meant-deep-tube-well-rajshahi-rescue-efforts-underway-1306486",
+    "source": "The Business Standard",
+    "published": "2025-12-10T11:20:00+00:00"
+  },
+  {
     "title": "I.M.F. Prods China, Gently, on Its Weak Currency",
     "link": "https://www.nytimes.com/2025/12/10/business/imf-china-currency.html",
     "source": "New York Times",
-    "published": "2025-12-10T11:06:00+00:00"
-  },
-  {
-    "title": "BBC to show Scotland's first World Cup game since 1998",
-    "link": "https://www.bbc.com/sport/football/articles/cgjnd28w56po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T11:02:03+00:00"
+    "published": "2025-12-10T11:06:01+00:00"
   },
   {
     "title": "Democrats Press to Expand House Map, Targeting 5 New G.O.P. Seats",
@@ -36,12 +300,6 @@
     "published": "2025-12-10T10:45:00+00:00"
   },
   {
-    "title": "Coast Guard arrests 12 smugglers with food products bound for Myanmar",
-    "link": "https://www.tbsnews.net/bangladesh/coast-guard-arrests-12-smugglers-food-products-bound-myanmar-1306416",
-    "source": "The Business Standard",
-    "published": "2025-12-10T10:40:00+00:00"
-  },
-  {
     "title": "Meghan sends letter to estranged father in hospital",
     "link": "https://www.bbc.com/news/articles/cy47089ql14o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -54,61 +312,7 @@
     "published": "2025-12-10T10:28:11+00:00"
   },
   {
-    "title": "Police block workers' red-flag march toward Chattogram Port",
-    "link": "https://www.tbsnews.net/bangladesh/police-block-workers-red-flag-march-toward-chattogram-port-1306406",
-    "source": "The Business Standard",
-    "published": "2025-12-10T10:25:00+00:00"
-  },
-  {
-    "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
-    "link": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T10:21:14+00:00"
-  },
-  {
-    "title": "Govt enacted new legal provisions to prevent false cases after July Uprising: Attorney General",
-    "link": "https://www.tbsnews.net/bangladesh/govt-enacted-new-legal-provisions-prevent-false-cases-after-july-uprising-attorney",
-    "source": "The Business Standard",
-    "published": "2025-12-10T10:20:00+00:00"
-  },
-  {
-    "title": "Will contest polls, CA Office will inform about my resignation: Asif",
-    "link": "https://www.tbsnews.net/bangladesh/will-contest-polls-ca-office-will-inform-regarding-my-resignation-asif-mahmud-1306411",
-    "source": "The Business Standard",
-    "published": "2025-12-10T10:20:00+00:00"
-  },
-  {
-    "title": "Crimes against humanity: Salman, Anisul seek permission to hire foreign lawyers",
-    "link": "https://www.tbsnews.net/bangladesh/court/crimes-against-humanity-salman-anisul-seek-permission-hire-foreign-lawyers-1306391",
-    "source": "The Business Standard",
-    "published": "2025-12-10T10:15:00+00:00"
-  },
-  {
-    "title": "Number of winning seats not NCP's primary objective: Nahid",
-    "link": "https://www.tbsnews.net/bangladesh/number-winning-seats-not-ncps-primary-objective-nahid-islam-1306366",
-    "source": "The Business Standard",
-    "published": "2025-12-10T10:10:00+00:00"
-  },
-  {
-    "title": "Teaching assistant lied to pupils about killing 250 people as a sniper",
-    "link": "https://www.bbc.com/news/articles/cly09ez1207o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T10:08:54+00:00"
-  },
-  {
-    "title": "Supreme Court Hears Death Penalty Case on Intellectual Disability",
-    "link": "https://www.nytimes.com/2025/12/10/us/politics/supreme-court-death-penalty-disability.html",
-    "source": "New York Times",
-    "published": "2025-12-10T10:04:13+00:00"
-  },
-  {
-    "title": "The Contradictions of Gavin Newsom",
-    "link": "https://www.nytimes.com/2025/12/10/opinion/ezra-klein-podcast-gavin-newsom.html",
-    "source": "New York Times",
-    "published": "2025-12-10T10:03:55+00:00"
-  },
-  {
-    "title": "Trump Administratio Rules Threaten Nobel Prizes Won by Immigrants",
+    "title": "Trump Administration Rules Threaten Nobel Prizes Won by Immigrants",
     "link": "https://www.nytimes.com/2025/12/10/science/nobel-prize-immigrants-science.html",
     "source": "New York Times",
     "published": "2025-12-10T10:03:40+00:00"
@@ -120,16 +324,10 @@
     "published": "2025-12-10T10:03:33+00:00"
   },
   {
-    "title": "Brad Lander Will Run for House Seat with Mamdani\u2019s Support",
-    "link": "https://www.nytimes.com/2025/12/10/nyregion/lander-goldman-mamdani-congress.html",
-    "source": "New York Times",
-    "published": "2025-12-10T10:03:28+00:00"
-  },
-  {
     "title": "Fed Divisions Will Cloud Interest Rate Decision at Final 2025 Meeting",
     "link": "https://www.nytimes.com/2025/12/10/business/economy/fed-meeting-interest-rate-decision.html",
     "source": "New York Times",
-    "published": "2025-12-10T10:03:20+00:00"
+    "published": "2025-12-10T10:03:21+00:00"
   },
   {
     "title": "The Challenges to Europe\u2019s Security Go Beyond Trump\u2019s Lack of Support",
@@ -156,6 +354,12 @@
     "published": "2025-12-10T10:00:00+00:00"
   },
   {
+    "title": "How Trump is remaking one agency to aid his deportation push",
+    "link": "https://www.npr.org/2025/12/10/nx-s1-5611495/trump-citizenship-immigration-services-changes",
+    "source": "NPR",
+    "published": "2025-12-10T10:00:00+00:00"
+  },
+  {
     "title": "Useful tips from NPR's most popular self-help stories of the year",
     "link": "https://www.npr.org/2025/12/10/nx-s1-5634757/useful-tips-npr-most-popular-self-help-stories-of-year",
     "source": "NPR",
@@ -168,26 +372,8 @@
     "published": "2025-12-10T10:00:00+00:00"
   },
   {
-    "title": "How Trump is remaking one agency to aid his deportation push",
-    "link": "https://www.npr.org/2025/12/10/nx-s1-5611495/trump-citizenship-immigration-services-changes",
-    "source": "NPR",
-    "published": "2025-12-10T10:00:00+00:00"
-  },
-  {
     "title": "Education Department recalls fired attorneys amid civil rights complaint backlog",
     "link": "https://www.npr.org/2025/12/10/nx-s1-5637464/education-department-layoffs-civil-rights",
-    "source": "NPR",
-    "published": "2025-12-10T10:00:00+00:00"
-  },
-  {
-    "title": "A divided Fed is expected to cut rates for a 3rd straight time",
-    "link": "https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs",
-    "source": "NPR",
-    "published": "2025-12-10T10:00:00+00:00"
-  },
-  {
-    "title": "Brett Cooper says she makes up her own mind \u2014  about Trump and everything else",
-    "link": "https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers",
     "source": "NPR",
     "published": "2025-12-10T10:00:00+00:00"
   },
@@ -198,115 +384,13 @@
     "published": "2025-12-10T10:00:00+00:00"
   },
   {
-    "title": "Afghan CIA fighters, like National Guard attack suspect, face stark reality in U.S.",
-    "link": "https://www.npr.org/2025/12/10/nx-s1-5637440/afghan-zero-unit-lakanwal-national-guard",
-    "source": "NPR",
-    "published": "2025-12-10T10:00:00+00:00"
-  },
-  {
-    "title": "Hundreds of youth centres planned to reach 'isolated' generation",
-    "link": "https://www.bbc.com/news/articles/ckg9qpqpwz3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T09:59:33+00:00"
-  },
-  {
-    "title": "Starmer urges European leaders to reform human rights laws to tackle illegal migration",
-    "link": "https://www.bbc.com/news/articles/cx2g03gv2z6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T09:56:17+00:00"
-  },
-  {
-    "title": "Recording of CEC speech on election schedule this afternoon: EC secy",
-    "link": "https://www.tbsnews.net/bangladesh/cecs-speech-be-recorded-4pm-today-ec-secretary-1306361",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:55:00+00:00"
-  },
-  {
-    "title": "NCP unveils nominees for 125 seats: Expatriates dominate Sylhet line-up",
-    "link": "https://www.tbsnews.net/bangladesh/politics/ncp-unveils-nominees-125-seats-expatriates-dominate-sylhet-line-1306386",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:55:00+00:00"
-  },
-  {
-    "title": "CA calls upcoming election a historic chance to shape 'new Bangladesh'",
-    "link": "https://www.tbsnews.net/bangladesh/ca-calls-upcoming-election-historic-chance-shape-new-bangladesh-1306341",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:45:00+00:00"
-  },
-  {
-    "title": "SI\u2019s body found hanging in CID\u2019s training school dormitory in Dhaka",
-    "link": "https://www.tbsnews.net/bangladesh/sis-body-found-hanging-cids-training-school-dormitory-dhaka-1306326",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:40:00+00:00"
-  },
-  {
-    "title": "Machado Won\u2019t Pick Up Peace Prize in Person, Nobel Director Says",
-    "link": "https://www.nytimes.com/2025/12/10/world/europe/machado-nobel-venezuela-ceremony.html",
-    "source": "New York Times",
-    "published": "2025-12-10T09:25:43+00:00"
-  },
-  {
-    "title": "Secretariat officials confine finance adviser to his office demanding 20% allowance",
-    "link": "https://www.tbsnews.net/bangladesh/secretariat-officials-confine-finance-adviser-his-office-demanding-20-allowance-1306316",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:20:00+00:00"
-  },
-  {
     "title": "Madeleine McCann's father tells BBC how his family was hounded by press",
     "link": "https://www.bbc.com/news/articles/czdgje5p3qdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-10T09:17:23+00:00"
   },
   {
-    "title": "Rishad joins defending champions Hobart for Big Bash return",
-    "link": "https://www.tbsnews.net/sports/rishad-joins-defending-champions-hobart-big-bash-return-1306306",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:05:00+00:00"
-  },
-  {
-    "title": "Climate finance must be fair, transparent, community-centric: Rizwana",
-    "link": "https://www.tbsnews.net/bangladesh/environment/climate-finance-must-be-fair-transparent-community-centric-rizwana-1306281",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:00:00+00:00"
-  },
-  {
-    "title": "Panchagarh shivers as cold spell drags on",
-    "link": "https://www.tbsnews.net/bangladesh/panchagarh-shivers-cold-spell-drags-1306291",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:00:00+00:00"
-  },
-  {
-    "title": "Urgent reforms needed to curb VAT leakage, expand tax net: Finance adviser",
-    "link": "https://www.tbsnews.net/bangladesh/urgent-reforms-needed-curb-vat-leakage-expand-tax-net-finance-adviser-1306296",
-    "source": "The Business Standard",
-    "published": "2025-12-10T09:00:00+00:00"
-  },
-  {
-    "title": "ICT orders newspaper notice summoning Joy in crimes against humanity case",
-    "link": "https://www.tbsnews.net/bangladesh/court/ict-orders-newspaper-notice-summoning-joy-crimes-against-humanity-case-1306261",
-    "source": "The Business Standard",
-    "published": "2025-12-10T08:45:00+00:00"
-  },
-  {
-    "title": "Ctg customs seizes 4,200kg of banned artificial sweetener Sodium Cyclamate",
-    "link": "https://www.tbsnews.net/bangladesh/ctg-customs-seizes-banned-artificial-sweetener-sodium-cyclamate-1306266",
-    "source": "The Business Standard",
-    "published": "2025-12-10T08:40:00+00:00"
-  },
-  {
-    "title": "Govt working to establish a hassle-free VAT system: CA",
-    "link": "https://www.tbsnews.net/bangladesh/govt-working-establish-hassle-free-vat-system-ca-1306256",
-    "source": "The Business Standard",
-    "published": "2025-12-10T08:35:00+00:00"
-  },
-  {
     "title": "Biggest rule change ever and Brit teen - what's new in Formula 1 in 2026?",
-    "link": "https://www.bbc.com/sport/formula1/articles/cj38l751k4xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T08:24:00+00:00"
-  },
-  {
-    "title": "Biggest rule change ever and Brit teen - what's new in F1 in 2026?",
     "link": "https://www.bbc.com/sport/formula1/articles/cj38l751k4xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-10T08:24:00+00:00"
@@ -330,34 +414,16 @@
     "published": "2025-12-10T07:11:10+00:00"
   },
   {
-    "title": "Democrat wins Miami mayor's race for the first time in nearly 30 years",
-    "link": "https://www.npr.org/2025/12/10/g-s1-101511/democrat-wins-miami-mayor-race",
-    "source": "NPR",
-    "published": "2025-12-10T07:08:58+00:00"
-  },
-  {
-    "title": "Sledged on the beach - England's break in Noosa",
-    "link": "https://www.bbc.com/sport/cricket/articles/cwyv5p19qw8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T07:00:05+00:00"
-  },
-  {
     "title": "Rod Paige, Education Secretary Who Defended \u2018No Child Left Behind,\u2019 Dies at 92",
     "link": "https://www.nytimes.com/2025/12/10/obituaries/rod-paige-dead.html",
     "source": "New York Times",
     "published": "2025-12-10T06:38:35+00:00"
   },
   {
-    "title": "Late Night Doesn\u2019t Want to Sweat at the Airport",
-    "link": "https://www.nytimes.com/2025/12/10/arts/television/late-night-airport-pullup-sean-duffy-rfk-jr.html",
-    "source": "New York Times",
-    "published": "2025-12-10T06:24:31+00:00"
-  },
-  {
-    "title": "Scotland fans spend thousands to realise World Cup dream",
-    "link": "https://www.bbc.com/news/articles/c208vyegveeo?at_medium=RSS&at_campaign=rss",
+    "title": "Brief encounter on train leads to marriage proposal",
+    "link": "https://www.bbc.com/news/articles/cwywrvw9n3eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2025-12-10T06:20:10+00:00"
+    "published": "2025-12-10T06:09:03+00:00"
   },
   {
     "title": "Spat at, attacked and threatened by schoolkids - life as a bus driver in Britain",
@@ -396,28 +462,10 @@
     "published": "2025-12-10T05:00:08+00:00"
   },
   {
-    "title": "Trump Administration Withdraws Plan to Overhaul Homeless Aid",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-homeless-aid-hud.html",
-    "source": "New York Times",
-    "published": "2025-12-10T04:29:11+00:00"
-  },
-  {
-    "title": "Thousands of flood defences below standard as Storm Bram hit",
-    "link": "https://www.bbc.com/news/articles/cgkexm0gpvpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T03:49:27+00:00"
-  },
-  {
     "title": "Trump\u2019s Speech on Economy Veers Into an Anti-Immigrant Tirade",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-somalis-immigrants.html",
     "source": "New York Times",
     "published": "2025-12-10T03:49:17+00:00"
-  },
-  {
-    "title": "Trump Says Americans Are Doing Great, Even as Views on the Economy Sour",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-affordability-economy-pennsylvania.html",
-    "source": "New York Times",
-    "published": "2025-12-10T03:45:37+00:00"
   },
   {
     "title": "Democrats Say Hegseth Balked at Call for Full Video of Boat Strike",
@@ -429,19 +477,13 @@
     "title": "Inside the Pentagon\u2019s Scramble to Deal With Boat Strike Survivors",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html",
     "source": "New York Times",
-    "published": "2025-12-10T03:17:04+00:00"
+    "published": "2025-12-10T03:17:05+00:00"
   },
   {
     "title": "At State Dept., a Typeface Falls Victim in the War Against Woke",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/rubio-state-department-font.html",
     "source": "New York Times",
     "published": "2025-12-10T03:07:28+00:00"
-  },
-  {
-    "title": "Man who grabbed Ariana Grande kicked out of Lady Gaga concert",
-    "link": "https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T03:03:53+00:00"
   },
   {
     "title": "Utah Tries Relocating Beavers to Save Them, and Remake the Landscape",
@@ -462,12 +504,6 @@
     "published": "2025-12-10T01:32:20+00:00"
   },
   {
-    "title": "Asserting a Personal Role in Warner Bros. Battle, Trump Seeks to Expand His Powers Again",
-    "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-warner-bros.html",
-    "source": "New York Times",
-    "published": "2025-12-10T01:26:00+00:00"
-  },
-  {
     "title": "Trump\u2019s Nvidia Chip Deal Reverses Decades of Technology Restrictions",
     "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-nvidia-ai-chips-china.html",
     "source": "New York Times",
@@ -486,22 +522,10 @@
     "published": "2025-12-10T00:24:11+00:00"
   },
   {
-    "title": "UK asylum system hit by inefficiencies and wasted funds, watchdog finds",
-    "link": "https://www.bbc.com/news/articles/c9qen9pwlzwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T00:16:55+00:00"
-  },
-  {
     "title": "How long Britain could really fight for if war broke out tomorrow",
     "link": "https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-10T00:11:37+00:00"
-  },
-  {
-    "title": "People spending even more time online now than during the pandemic",
-    "link": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-10T00:04:38+00:00"
   },
   {
     "title": "Stephen Miller\u2019s Stock Sale Raises Questions, Ethics Experts Say",
@@ -532,12 +556,6 @@
     "link": "https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil",
     "source": "The Verge",
     "published": "2025-12-09T22:43:54+00:00"
-  },
-  {
-    "title": "'What's your name?' - Moment police confront Luigi Mangione at McDonald's",
-    "link": "https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-09T22:18:12+00:00"
   },
   {
     "title": "Netflix and Paramount Battle for Warner Bros. \u2014 Have We Seen This Show Before?",
@@ -600,18 +618,6 @@
     "published": "2025-12-09T19:59:10+00:00"
   },
   {
-    "title": "Google brings back Black Friday prices for earbuds, phones, and more",
-    "link": "https://www.theverge.com/gadgets/841072/google-pixel-9a-pixel-watch-4-holiday-gifts-deal-sale",
-    "source": "The Verge",
-    "published": "2025-12-09T19:47:46+00:00"
-  },
-  {
-    "title": "I\u2019m obsessed with Redfin\u2019s AI search",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot",
-    "source": "The Verge",
-    "published": "2025-12-09T19:15:00+00:00"
-  },
-  {
     "title": "The Trump Administration Actually Backed Down",
     "link": "https://www.theatlantic.com/politics/2025/12/alina-habba-resignation-new-jersey/685191/?utm_source=feed",
     "source": "The Atlantic",
@@ -640,35 +646,5 @@
     "link": "https://www.theatlantic.com/culture/2025/12/best-movies-2025-one-battle-after-another-weapons/685007/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-09T14:16:26+00:00"
-  },
-  {
-    "title": "2025 in Photos: A Look at the Middle Months",
-    "link": "https://www.theatlantic.com/photography/2025/12/2025-in-photos-middle-months/685177/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-09T13:00:00+00:00"
-  },
-  {
-    "title": "The Most Egregious Double Standard in Sports",
-    "link": "https://www.theatlantic.com/ideas/2025/12/college-football-coach-double-standard-lane-kiffin/685186/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-09T12:00:00+00:00"
-  },
-  {
-    "title": "The Neocons Were Right",
-    "link": "https://www.theatlantic.com/magazine/2026/01/neoconservativism-morality-values-trumpism/684950/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-09T12:00:00+00:00"
-  },
-  {
-    "title": "Can Jollibee Beat American Fast Food at Its Own Game?",
-    "link": "https://www.theatlantic.com/magazine/2026/01/jollibee-fried-chicken-american-fast-food/684949/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-09T12:00:00+00:00"
-  },
-  {
-    "title": "\u2018Sudan Is a Good Place to Wage Peace\u2019",
-    "link": "https://www.theatlantic.com/magazine/2026/01/the-commons/684945/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-09T12:00:00+00:00"
   }
 ]
