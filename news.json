@@ -1,5 +1,167 @@
 [
   {
+    "title": "WhatsApp is trying to reinvent voicemail",
+    "link": "https://www.theverge.com/news/842485/whatsapp-voice-mail-video-message-call-feature",
+    "source": "The Verge",
+    "published": "2025-12-11T17:00:00+00:00"
+  },
+  {
+    "title": "Why is flu so bad this winter - and should you buy a vaccine?",
+    "link": "https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T16:58:29+00:00"
+  },
+  {
+    "title": "Sandie Peggie says 'I will not give up legal fight' with tribunal appeal",
+    "link": "https://www.bbc.com/news/articles/cx2pnzwl2r4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T16:58:12+00:00"
+  },
+  {
+    "title": "Nobel Peace Prize Winner Machado Says U.S. Helped Her Leave Venezuela",
+    "link": "https://www.nytimes.com/2025/12/11/world/americas/maria-corina-machado-nobel-venezuela-maduro-trump.html",
+    "source": "New York Times",
+    "published": "2025-12-11T16:51:16+00:00"
+  },
+  {
+    "title": "'Monumental betrayal' - cheapest World Cup final ticket to cost \u00a33,119",
+    "link": "https://www.bbc.com/sport/football/articles/c80x38e04yro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T16:41:11+00:00"
+  },
+  {
+    "title": "Looking for Signs of a Black Hole",
+    "link": "https://www.theatlantic.com/photography/2025/12/day-11-2025-space-telescope-advent-calendar-looking-signs-black-hole/685221/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-11T16:39:22+00:00"
+  },
+  {
+    "title": "HC orders digital registration of marriage, divorce",
+    "link": "https://www.tbsnews.net/bangladesh/court/hc-orders-digital-registration-marriage-divorce-1307681",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:35:00+00:00"
+  },
+  {
+    "title": "Hundreds of items taken in 'high value' Bristol Museum archive raid",
+    "link": "https://www.bbc.com/news/articles/c8dyr37qzrno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T16:34:44+00:00"
+  },
+  {
+    "title": "32 hours of effort in vain as doctors declare 2-yr-old Sajid dead after being rescued from tube-well shaft in Rajshahi",
+    "link": "https://www.tbsnews.net/bangladesh/2-year-old-sajid-dies-after-being-rescued-deep-tube-well-shaft-rajshahi-1307661",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:30:00+00:00"
+  },
+  {
+    "title": "Ignoring bank failures creates a 'zombie financial system': Economists",
+    "link": "https://www.tbsnews.net/economy/banking/ignoring-bank-failures-creates-zombie-financial-system-economists-1307666",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:30:00+00:00"
+  },
+  {
+    "title": "Khaleda Zia placed on elective ventilator support at Evercare: Medical board",
+    "link": "https://www.tbsnews.net/bangladesh/khaleda-zia-placed-elective-ventilator-support-1307671",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:30:00+00:00"
+  },
+  {
+    "title": "Relax, grown-ups: VR is doing fine",
+    "link": "https://www.theverge.com/column/842359/vr-teens-gaming",
+    "source": "The Verge",
+    "published": "2025-12-11T16:30:00+00:00"
+  },
+  {
+    "title": "Lawsuit claims ChatGPT put a \u2018target\u2019 on murdered woman",
+    "link": "https://www.theverge.com/news/842494/openai-chatgpt-wrongful-death-suzanne-adams-delusions",
+    "source": "The Verge",
+    "published": "2025-12-11T16:29:05+00:00"
+  },
+  {
+    "title": "Flu in four charts -  how this year's winter outbreak is different",
+    "link": "https://www.bbc.com/news/articles/c5yq9wr3pnro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T16:25:24+00:00"
+  },
+  {
+    "title": "HC issues show-cause notice on liquidation of 9 NBFIs",
+    "link": "https://www.tbsnews.net/bangladesh/court/hc-issues-show-cause-notice-liquidation-9-nbfis-1307656",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:25:00+00:00"
+  },
+  {
+    "title": "State AGs warn Google, Meta, and OpenAI that their chatbots could be breaking the law",
+    "link": "https://www.theverge.com/news/842512/google-meta-openai-state-attorneys-general-ai-letter",
+    "source": "The Verge",
+    "published": "2025-12-11T16:21:17+00:00"
+  },
+  {
+    "title": "What IndiGo Airline\u2019s Meltdown Reveals About India\u2019s Economy",
+    "link": "https://www.nytimes.com/2025/12/11/business/india-indigo-competition-antitrust.html",
+    "source": "New York Times",
+    "published": "2025-12-11T16:20:53+00:00"
+  },
+  {
+    "title": "EC must closely monitor political parties to protect poll environment: Jasmine Tuli",
+    "link": "https://www.tbsnews.net/bangladesh/ec-must-closely-monitor-political-parties-protect-poll-environment-jasmine-tuli-1307646",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:15:00+00:00"
+  },
+  {
+    "title": "Disney Agrees to Bring Its Characters to OpenAI\u2019s Sora Videos",
+    "link": "https://www.nytimes.com/2025/12/11/business/media/disney-openai-sora-deal.html",
+    "source": "New York Times",
+    "published": "2025-12-11T16:12:15+00:00"
+  },
+  {
+    "title": "20% of Bangladeshi Hajj pilgrims must enter Saudi Arabia via Madinah next year",
+    "link": "https://www.tbsnews.net/bangladesh/20-bangladeshi-hajj-pilgrims-must-enter-saudi-arabia-madinah-next-year-1307621",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:10:00+00:00"
+  },
+  {
+    "title": "A pair of Nintendo Switch 2 Joy-Con 2 controllers are $20 off at BJ&#8217;s",
+    "link": "https://www.theverge.com/gadgets/842386/nintendo-switch-2-joy-con-2-controller-sonos-era-100-refurb-deal-sale",
+    "source": "The Verge",
+    "published": "2025-12-11T16:07:29+00:00"
+  },
+  {
+    "title": "BSEC warns of action as most listed firms fail to appoint women independent directors",
+    "link": "https://www.tbsnews.net/economy/stocks/bsec-warns-action-most-listed-firms-fail-appoint-women-independent-directors-1307631",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:05:00+00:00"
+  },
+  {
+    "title": "Chinese investors eye opportunities in Bangladesh's renewable energy sector",
+    "link": "https://www.tbsnews.net/bangladesh/chinese-investors-eye-opportunities-bangladeshs-renewable-energy-sector-1307616",
+    "source": "The Business Standard",
+    "published": "2025-12-11T16:05:00+00:00"
+  },
+  {
+    "title": "Watch: Cameras on killer whales record first evidence of joint hunt with dolphins",
+    "link": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T16:01:59+00:00"
+  },
+  {
+    "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
+    "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T16:00:08+00:00"
+  },
+  {
+    "title": "A Different Kind of Materialism",
+    "link": "https://www.theatlantic.com/culture/2025/12/tamar-adler-feast-on-your-life-kitchen-scraps/685210/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-11T16:00:00+00:00"
+  },
+  {
+    "title": "33 practical smart home gifts that make everyday life a little easier",
+    "link": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
+    "source": "The Verge",
+    "published": "2025-12-11T16:00:00+00:00"
+  },
+  {
     "title": "Elite Coast Guard squad and 'dark fleet' ship - what we know about US seizure of oil tanker",
     "link": "https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -18,34 +180,28 @@
     "published": "2025-12-11T15:41:48+00:00"
   },
   {
+    "title": "Ukraine hands US revised peace plan proposal, Germany says",
+    "link": "https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T15:40:25+00:00"
+  },
+  {
     "title": "Sen. Ed Markey wants media companies to fight for the First Amendment",
     "link": "https://www.theverge.com/podcast/842340/trump-ai-tiktok-democracy-carr-first-amendment-ed-markey",
     "source": "The Verge",
     "published": "2025-12-11T15:40:00+00:00"
   },
   {
-    "title": "Syria, Rebuilding its Military, Relies on Loyalists and Religious Teaching",
-    "link": "https://www.nytimes.com/2025/12/11/world/middleeast/syria-government-religion.html",
-    "source": "New York Times",
-    "published": "2025-12-11T15:38:35+00:00"
-  },
-  {
-    "title": "Nobel Peace Prize Winner Machado Vows to End Maduro\u2019s Rule in Venezuela",
-    "link": "https://www.nytimes.com/2025/12/11/world/americas/maria-corina-machado-nobel-venezuela-maduro-trump.html",
-    "source": "New York Times",
-    "published": "2025-12-11T15:28:05+00:00"
+    "title": "'Aynabaji-style' jail fraud in Gazipur: Case filed, lawyer issued show-cause notice",
+    "link": "https://www.tbsnews.net/bangladesh/crime/aynabaji-style-jail-fraud-gazipur-case-filed-lawyer-issued-show-cause-notice",
+    "source": "The Business Standard",
+    "published": "2025-12-11T15:20:00+00:00"
   },
   {
     "title": "Washington Flooding Intensifies as Atmospheric River Forces Evacuations",
     "link": "https://www.nytimes.com/2025/12/10/weather/washington-rivers-flood-evacuations.html",
     "source": "New York Times",
     "published": "2025-12-11T15:17:31+00:00"
-  },
-  {
-    "title": "Disney Agrees to Bring Its Characters to OpenAI\u2019s Sora Videos",
-    "link": "https://www.nytimes.com/2025/12/11/business/media/disney-openai-sora-deal.html",
-    "source": "New York Times",
-    "published": "2025-12-11T15:16:07+00:00"
   },
   {
     "title": "The curious case of February elections in Bangladesh",
@@ -90,6 +246,12 @@
     "published": "2025-12-11T15:00:00+00:00"
   },
   {
+    "title": "This Isn\u2019t the First Time the Fed Has Struggled for Independence",
+    "link": "https://www.nytimes.com/2025/12/11/business/federal-reserve-independence-trump.html",
+    "source": "New York Times",
+    "published": "2025-12-11T14:57:17+00:00"
+  },
+  {
     "title": "Bulgaria\u2019s Prime Minister Resigns in the Face of Mass Protests",
     "link": "https://www.nytimes.com/2025/12/11/world/europe/bulgaria-prime-minister-resigns-protests.html",
     "source": "New York Times",
@@ -108,40 +270,22 @@
     "published": "2025-12-11T14:55:00+00:00"
   },
   {
-    "title": "New York\u2019s Environmental Agenda Stalls Under Kathy Hochul",
-    "link": "https://www.nytimes.com/2025/12/11/nyregion/kathy-hochul-new-york-climate-issues.html",
-    "source": "New York Times",
-    "published": "2025-12-11T14:54:24+00:00"
-  },
-  {
-    "title": "Why is flu so bad this winter - and should you buy a vaccine?",
-    "link": "https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T14:42:40+00:00"
-  },
-  {
     "title": "The kid-friendly console that outsold Xbox during Black Friday is $50 off",
     "link": "https://www.theverge.com/gadgets/841831/nex-playground-console-deal-holiday-sale",
     "source": "The Verge",
     "published": "2025-12-11T14:42:15+00:00"
   },
   {
+    "title": "Senate Expected to Deadlock Over Obamacare Subsidies in Dueling Votes",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/health-care-senate-affordable-care-act.html",
+    "source": "New York Times",
+    "published": "2025-12-11T14:38:33+00:00"
+  },
+  {
     "title": "Police apologise to family of first child killed in Troubles",
     "link": "https://www.bbc.com/news/articles/cvgjw7pljy8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-11T14:33:17+00:00"
-  },
-  {
-    "title": "OpenAI\u2019s billion-dollar Disney deal puts Mickey Mouse and Marvel in Sora",
-    "link": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images",
-    "source": "The Verge",
-    "published": "2025-12-11T14:32:21+00:00"
-  },
-  {
-    "title": "Bulgarian PM and government resign after mass protests",
-    "link": "https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T14:32:11+00:00"
   },
   {
     "title": "Trump Doesn\u2019t Want to Talk About Affordability. Democrats Say That\u2019s a Gift.",
@@ -168,12 +312,6 @@
     "published": "2025-12-11T14:10:00+00:00"
   },
   {
-    "title": "Sandie Peggie tribunal judgement amended after 'made up' quote row",
-    "link": "https://www.bbc.com/news/articles/cx2pnzwl2r4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T14:05:36+00:00"
-  },
-  {
     "title": "Millstone tragedy victims to get financial assistance",
     "link": "https://www.tbsnews.net/bangladesh/millstone-tragedy-victims-get-financial-assistance-1307511",
     "source": "The Business Standard",
@@ -192,76 +330,16 @@
     "published": "2025-12-11T14:00:00+00:00"
   },
   {
-    "title": "Bangladesh's democratic journey reaches milestone with polls schedule: CA Yunus",
-    "link": "https://www.tbsnews.net/bangladesh/bangladeshs-democratic-journey-reaches-milestone-polls-schedule-ca-yunus-1307496",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:55:00+00:00"
-  },
-  {
     "title": "'Architects of AI' named Time Magazine's Person of the Year",
     "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-11T13:52:11+00:00"
   },
   {
-    "title": "Hundreds of items taken in 'high value' Bristol Museum archive raid",
-    "link": "https://www.bbc.com/news/articles/c8dyr37qzrno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T13:50:32+00:00"
-  },
-  {
-    "title": "EC asks to recruit 2 executive magistrates in each upazila",
-    "link": "https://www.tbsnews.net/bangladesh/ec-asks-recruit-2-executive-magistrates-each-upazila-1307481",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:50:00+00:00"
-  },
-  {
-    "title": "Coast Guard provides free medical services to 450 people in Chandpur",
-    "link": "https://www.tbsnews.net/bangladesh/coast-guard-provides-free-medical-services-450-people-chandpur-1307446",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:40:00+00:00"
-  },
-  {
-    "title": "ACC files 5 cases against S Alam Group for misappropriating Tk9,429cr",
-    "link": "https://www.tbsnews.net/bangladesh/acc-files-5-cases-against-s-alam-group-misappropriating-tk9429cr-1307451",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:40:00+00:00"
-  },
-  {
     "title": "Why Oracle Is Worrying Investors About the A.I. Boom",
     "link": "https://www.nytimes.com/2025/12/11/business/dealbook/ai-spending-oracle-openai.html",
     "source": "New York Times",
     "published": "2025-12-11T13:37:41+00:00"
-  },
-  {
-    "title": "Private depots postpone container operation stoppage for one month",
-    "link": "https://www.tbsnews.net/bangladesh/private-depots-postpone-container-operation-stoppage-one-month-1307436",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:35:00+00:00"
-  },
-  {
-    "title": "President Shahabuddin says 'felt very much humiliated', wants to quit after February election: Reuters",
-    "link": "https://www.tbsnews.net/bangladesh/president-shahabuddin-wants-quit-halfway-through-term-after-february-election-1307456",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:35:00+00:00"
-  },
-  {
-    "title": "\u2018Pretty Strong Words\u2019 Used on Ukraine Call With European Leaders, Trump Says",
-    "link": "https://www.nytimes.com/2025/12/11/world/europe/trump-ukraine-european-leaders.html",
-    "source": "New York Times",
-    "published": "2025-12-11T13:30:55+00:00"
-  },
-  {
-    "title": "President accepts resignations of Asif and Mahfuj; 3 ministries reassigned to 3 advisers",
-    "link": "https://www.tbsnews.net/bangladesh/president-accepts-resignations-asif-and-mahfuj-3-ministries-reassigned-3-advisers-1307426",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:30:00+00:00"
-  },
-  {
-    "title": "HC upholds RPO provision requiring political alliance partners to contest polls with own party symbols",
-    "link": "https://www.tbsnews.net/bangladesh/hc-upholds-rpo-provision-requiring-political-alliance-partners-contest-polls-own-party",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:25:00+00:00"
   },
   {
     "title": "Former King Juan Carlos I of Spain, Seeking Relevance, Publishes Book",
@@ -294,21 +372,9 @@
     "published": "2025-12-11T13:05:12+00:00"
   },
   {
-    "title": "Tarique Rahman warns of tough election, urges party to engage people",
-    "link": "https://www.tbsnews.net/bangladesh/politics/tarique-rahman-warns-tough-election-urges-party-engage-people-1307386",
-    "source": "The Business Standard",
-    "published": "2025-12-11T13:00:00+00:00"
-  },
-  {
     "title": "The Return of MAGA\u2019s Favorite Forbidden Book",
     "link": "https://www.theatlantic.com/ideas/2025/12/camp-of-saints-jean-raspail/685213/?utm_source=feed",
     "source": "The Atlantic",
-    "published": "2025-12-11T13:00:00+00:00"
-  },
-  {
-    "title": "The Game Awards are losing their luster",
-    "link": "https://www.theverge.com/games/841710/the-game-awards-2025-preview-geoff-keighley",
-    "source": "The Verge",
     "published": "2025-12-11T13:00:00+00:00"
   },
   {
@@ -316,12 +382,6 @@
     "link": "https://www.nytimes.com/2025/12/11/podcasts/cannonball-great-performers.html",
     "source": "New York Times",
     "published": "2025-12-11T12:48:25+00:00"
-  },
-  {
-    "title": "Election schedule ends uncertainty: BKMEA chief Hatem",
-    "link": "https://www.tbsnews.net/bangladesh/election-schedule-ends-uncertainty-bkmea-chief-hatem-1307366",
-    "source": "The Business Standard",
-    "published": "2025-12-11T12:30:00+00:00"
   },
   {
     "title": "Venezuelan Nobel winner tells BBC she knows 'risks' of Oslo trip after months in hiding",
@@ -348,7 +408,7 @@
     "published": "2025-12-11T12:11:12+00:00"
   },
   {
-    "title": "Trump\u2019s AI-Regulation Ban Is a Threat to National Security",
+    "title": "Banning AI Regulation Would Be a Disaster",
     "link": "https://www.theatlantic.com/ideas/2025/12/ai-regulation-moratorium-threat/685216/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-11T12:00:00+00:00"
@@ -378,18 +438,6 @@
     "published": "2025-12-11T11:50:46+00:00"
   },
   {
-    "title": "Adobe sees a bright future as AI bet pays off",
-    "link": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth",
-    "source": "The Verge",
-    "published": "2025-12-11T11:06:44+00:00"
-  },
-  {
-    "title": "FEMA Is Forcing Towns to Fend for Themselves, and Trump Opens \u2018Gold Card\u2019 Visa Applications",
-    "link": "https://www.nytimes.com/2025/12/11/podcasts/the-headlines/fema-flooding-maryland-trump-gold-card.html",
-    "source": "New York Times",
-    "published": "2025-12-11T11:00:10+00:00"
-  },
-  {
     "title": "Sir Chris Hoy breaks leg in 'worst' crash of his life while riding mountain bike",
     "link": "https://www.bbc.com/sport/cycling/articles/cp845e5ev1eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -408,12 +456,6 @@
     "published": "2025-12-11T11:00:00+00:00"
   },
   {
-    "title": "UK pharma boss says US is the best country to invest in",
-    "link": "https://www.bbc.com/news/articles/cwywp3y35ryo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T10:53:38+00:00"
-  },
-  {
     "title": "With Republicans Divided, Indiana Senate Set to Vote on Redistricting",
     "link": "https://www.nytimes.com/2025/12/11/us/indiana-senate-redistricting-republicans.html",
     "source": "New York Times",
@@ -426,10 +468,16 @@
     "published": "2025-12-11T10:00:58+00:00"
   },
   {
-    "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
-    "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
-    "source": "NPR",
-    "published": "2025-12-11T10:00:00+00:00"
+    "title": "The Hollywood Studio Tour Has Become a Lot of Nothing",
+    "link": "https://www.nytimes.com/2025/12/11/business/media/hollywood-tours.html",
+    "source": "New York Times",
+    "published": "2025-12-11T10:00:34+00:00"
+  },
+  {
+    "title": "Hatching the Automobile\u2019s Future in a Cloistered Los Angeles Lab",
+    "link": "https://www.nytimes.com/2025/12/11/business/ford-electric-vehicles-china.html",
+    "source": "New York Times",
+    "published": "2025-12-11T10:00:25+00:00"
   },
   {
     "title": "This refugee's family faced persecution in Bhutan. Now, he could be deported there",
@@ -456,7 +504,13 @@
     "published": "2025-12-11T10:00:00+00:00"
   },
   {
-    "title": "Race Across the World has proved we can do something hard together",
+    "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
+    "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
+    "source": "NPR",
+    "published": "2025-12-11T10:00:00+00:00"
+  },
+  {
+    "title": "Roman Kemp: I didn't want to be seen as a 'nepo kid' in Race Across the World",
     "link": "https://www.bbc.com/news/articles/cd9zy545dxwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-11T09:53:43+00:00"
@@ -466,18 +520,6 @@
     "link": "https://www.bbc.com/news/articles/c3d0ny71nrlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-11T09:52:13+00:00"
-  },
-  {
-    "title": "New Archbishop of Canterbury faces complaint about abuse case handling",
-    "link": "https://www.bbc.com/news/articles/cd6x7p761v0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T09:42:03+00:00"
-  },
-  {
-    "title": "Ayaneo\u2019s first Android phone looks like a return of the Xperia Play",
-    "link": "https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play",
-    "source": "The Verge",
-    "published": "2025-12-11T09:16:52+00:00"
   },
   {
     "title": "Venezuelan opposition leader Machado reappears in Oslo as a Nobel laureate",
@@ -516,24 +558,6 @@
     "published": "2025-12-11T06:12:57+00:00"
   },
   {
-    "title": "'I am to be executed like a criminal': Mary Queen of Scots' final letter to go on rare display",
-    "link": "https://www.bbc.com/news/articles/cg4nzy3r5zyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T06:10:06+00:00"
-  },
-  {
-    "title": "Mexico Approves 50% Tariffs on Many Chinese Imports",
-    "link": "https://www.nytimes.com/2025/12/11/world/americas/mexico-tariffs-china.html",
-    "source": "New York Times",
-    "published": "2025-12-11T05:15:01+00:00"
-  },
-  {
-    "title": "Oil Tanker U.S. Seized Off Venezuela Has Faked Its Location Before, Data Shows",
-    "link": "https://www.nytimes.com/2025/12/10/us/politics/oil-tanker-venezuela-tracking-data.html",
-    "source": "New York Times",
-    "published": "2025-12-11T05:09:40+00:00"
-  },
-  {
     "title": "One of the Last Times Square Dive Bars Faces Eviction",
     "link": "https://www.nytimes.com/2025/12/10/nyregion/jimmys-corner-bar-times-square-boxing.html",
     "source": "New York Times",
@@ -544,12 +568,6 @@
     "link": "https://www.nytimes.com/2025/12/10/us/politics/trump-preoccupation-biden.html",
     "source": "New York Times",
     "published": "2025-12-11T00:26:15+00:00"
-  },
-  {
-    "title": "The Swiss city that lets you pay for most things with bitcoin",
-    "link": "https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T00:22:58+00:00"
   },
   {
     "title": "Why so many people break 20mph speed limits (it's more complicated than you think)",
@@ -564,28 +582,10 @@
     "published": "2025-12-11T00:01:00+00:00"
   },
   {
-    "title": "Donald Trump reminds the entire world he has no idea what 6G means",
-    "link": "https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g",
-    "source": "The Verge",
-    "published": "2025-12-10T23:37:26+00:00"
-  },
-  {
-    "title": "Trump could introduce \u2018mandatory\u2019 social media reviews for travelers",
-    "link": "https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers",
-    "source": "The Verge",
-    "published": "2025-12-10T23:21:05+00:00"
-  },
-  {
     "title": "The Media CEOs Jockeying for Trump\u2019s Support",
     "link": "https://www.theatlantic.com/newsletters/2025/12/netflix-warner-bros-trump-paramount/685215/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-10T22:58:00+00:00"
-  },
-  {
-    "title": "George Altman, Slugger in Negro Leagues, M.L.B. and Japan, Dies at 92",
-    "link": "https://www.nytimes.com/2025/12/10/sports/george-altman-dead.html",
-    "source": "New York Times",
-    "published": "2025-12-10T22:55:05+00:00"
   },
   {
     "title": "How to Stop Trump\u2019s Plan to Steal the 2026 Elections",
@@ -594,16 +594,16 @@
     "published": "2025-12-10T22:10:47+00:00"
   },
   {
+    "title": "How Andrew Tate, Manosphere Star Accused of Rape and Trafficking, Was Freed",
+    "link": "https://www.nytimes.com/2025/12/10/us/andrew-tate-barron-trump-romania.html",
+    "source": "New York Times",
+    "published": "2025-12-10T21:12:44+00:00"
+  },
+  {
     "title": "Today\u2019s <em>Atlantic </em>Trivia: Brain Rot Is So Last Year",
     "link": "https://www.theatlantic.com/newsletters/2025/12/daily-trivia-questions-answers-week-11/685185/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-10T20:50:00+00:00"
-  },
-  {
-    "title": "What Menopause Does to the Body",
-    "link": "https://www.nytimes.com/2025/12/10/well/menopause-symptoms.html",
-    "source": "New York Times",
-    "published": "2025-12-10T19:40:40+00:00"
   },
   {
     "title": "The New Allowance",
@@ -622,23 +622,5 @@
     "link": "https://www.theatlantic.com/culture/2025/12/netflix-warner-bros-deal-movie-theaters/685211/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-10T17:19:07+00:00"
-  },
-  {
-    "title": "Ukraine\u2019s Latest Attacks Showcase Its Desperation",
-    "link": "https://www.theatlantic.com/national-security/2025/12/russia-ukraine-war-putin-zelensky-oil/685194/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-10T16:37:02+00:00"
-  },
-  {
-    "title": "A Cosmic Tornado",
-    "link": "https://www.theatlantic.com/photography/2025/12/day-10-2025-space-telescope-advent-calendar-cosmic-tornado/685209/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-10T16:36:57+00:00"
-  },
-  {
-    "title": "What Explains Trump\u2019s Aggression Toward Venezuela? Who Knows.",
-    "link": "https://www.theatlantic.com/politics/2025/12/trump-boat-strikes-war-venezuela/685199/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-10T16:14:00+00:00"
   }
 ]
