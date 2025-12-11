@@ -1,5 +1,107 @@
 [
   {
+    "title": "Why is flu so bad this winter - and should you buy a vaccine?",
+    "link": "https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T14:42:40+00:00"
+  },
+  {
+    "title": "The kid-friendly console that outsold Xbox during Black Friday is $50 off",
+    "link": "https://www.theverge.com/gadgets/841831/nex-playground-console-deal-holiday-sale",
+    "source": "The Verge",
+    "published": "2025-12-11T14:42:15+00:00"
+  },
+  {
+    "title": "Highways to Vancouver Closed After Flooding and Landslides",
+    "link": "https://www.nytimes.com/2025/12/11/world/canada/british-columbia-vancouver-floods.html",
+    "source": "New York Times",
+    "published": "2025-12-11T14:35:25+00:00"
+  },
+  {
+    "title": "OpenAI\u2019s billion-dollar Disney deal puts Mickey Mouse and Marvel in Sora",
+    "link": "https://www.theverge.com/news/842348/disney-openai-sora-chatgpt-images",
+    "source": "The Verge",
+    "published": "2025-12-11T14:32:21+00:00"
+  },
+  {
+    "title": "Bulgarian PM and government resign after mass protests",
+    "link": "https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T14:32:11+00:00"
+  },
+  {
+    "title": "Trump Doesn\u2019t Want to Talk About Affordability. Democrats Say That\u2019s a Gift.",
+    "link": "https://www.nytimes.com/2025/12/11/us/politics/trump-affordability-democrats.html",
+    "source": "New York Times",
+    "published": "2025-12-11T14:24:28+00:00"
+  },
+  {
+    "title": "Trump\u2019s Tariffs Shrank the U.S. Trade Deficit in September",
+    "link": "https://www.nytimes.com/2025/12/11/business/economy/trump-tariffs-trade-deficit.html",
+    "source": "New York Times",
+    "published": "2025-12-11T14:19:47+00:00"
+  },
+  {
+    "title": "Trump Gets to Pick a New Fed Chair but a Divided Board Still Gets a Say",
+    "link": "https://www.nytimes.com/2025/12/11/business/fed-divisions-trump.html",
+    "source": "New York Times",
+    "published": "2025-12-11T14:17:42+00:00"
+  },
+  {
+    "title": "Jamaat also welcomes election schedule announcement",
+    "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-also-welcomes-election-schedule-announcement-1307531",
+    "source": "The Business Standard",
+    "published": "2025-12-11T14:15:00+00:00"
+  },
+  {
+    "title": "Washington Flooding Intensifies as Atmospheric River Forces Evacuations",
+    "link": "https://www.nytimes.com/2025/12/10/weather/washington-rivers-flood-evacuations.html",
+    "source": "New York Times",
+    "published": "2025-12-11T14:10:20+00:00"
+  },
+  {
+    "title": "Govt redistributes portfolios of four advisers",
+    "link": "https://www.tbsnews.net/bangladesh/govt-redistributes-portfolios-four-advisers-1307526",
+    "source": "The Business Standard",
+    "published": "2025-12-11T14:10:00+00:00"
+  },
+  {
+    "title": "Sandie Peggie tribunal judgement amended after 'made up' quote row",
+    "link": "https://www.bbc.com/news/articles/cx2pnzwl2r4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T14:05:36+00:00"
+  },
+  {
+    "title": "Millstone tragedy victims to get financial assistance",
+    "link": "https://www.tbsnews.net/bangladesh/millstone-tragedy-victims-get-financial-assistance-1307511",
+    "source": "The Business Standard",
+    "published": "2025-12-11T14:05:00+00:00"
+  },
+  {
+    "title": "This election will mark beginning of a new era for Bangladesh: NCP's Patwary",
+    "link": "https://www.tbsnews.net/bangladesh/politics/election-will-mark-beginning-new-era-bangladesh-ncps-patwary-1307521",
+    "source": "The Business Standard",
+    "published": "2025-12-11T14:05:00+00:00"
+  },
+  {
+    "title": "I lost 3st and was sick 40 times a day during pregnancy",
+    "link": "https://www.bbc.com/news/articles/cm2vz5y0664o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T14:00:28+00:00"
+  },
+  {
+    "title": "Court rulings on constituency changes raising questions: EC secretary",
+    "link": "https://www.tbsnews.net/bangladesh/court-rulings-constituency-changes-raising-questions-ec-secretary-akhtar-1307506",
+    "source": "The Business Standard",
+    "published": "2025-12-11T14:00:00+00:00"
+  },
+  {
+    "title": "Bangladesh's democratic journey reaches milestone with polls schedule: CA Yunus",
+    "link": "https://www.tbsnews.net/bangladesh/bangladeshs-democratic-journey-reaches-milestone-polls-schedule-ca-yunus-1307496",
+    "source": "The Business Standard",
+    "published": "2025-12-11T13:55:00+00:00"
+  },
+  {
     "title": "'Architects of AI' named Time Magazine's Person of the Year",
     "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -12,10 +114,16 @@
     "published": "2025-12-11T13:50:32+00:00"
   },
   {
-    "title": "Sandie Peggie tribunal judgement amended after 'made up' quote row",
-    "link": "https://www.bbc.com/news/articles/cx2pnzwl2r4o?at_medium=RSS&at_campaign=rss",
+    "title": "EC asks to recruit 2 executive magistrates in each upazila",
+    "link": "https://www.tbsnews.net/bangladesh/ec-asks-recruit-2-executive-magistrates-each-upazila-1307481",
+    "source": "The Business Standard",
+    "published": "2025-12-11T13:50:00+00:00"
+  },
+  {
+    "title": "Poland arrests Russian archaeologist wanted for alleged illegal digs in Crimea",
+    "link": "https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2025-12-11T13:43:09+00:00"
+    "published": "2025-12-11T13:41:23+00:00"
   },
   {
     "title": "Coast Guard provides free medical services to 450 people in Chandpur",
@@ -30,14 +138,14 @@
     "published": "2025-12-11T13:40:00+00:00"
   },
   {
-    "title": "Private depots postpone container operation stoppage for one month",
-    "link": "https://www.tbsnews.net/bangladesh/private-depots-postpone-container-operation-stoppage-one-month-1307436",
+    "title": "President Shahabuddin says 'felt very much humiliated', wants to quit after February election: Reuters",
+    "link": "https://www.tbsnews.net/bangladesh/president-shahabuddin-wants-quit-halfway-through-term-after-february-election-1307456",
     "source": "The Business Standard",
     "published": "2025-12-11T13:35:00+00:00"
   },
   {
-    "title": "President Shahabuddin wants to quit halfway through term, after February election: Reuters",
-    "link": "https://www.tbsnews.net/bangladesh/president-shahabuddin-wants-quit-halfway-through-term-after-february-election-1307456",
+    "title": "Private depots postpone container operation stoppage for one month",
+    "link": "https://www.tbsnews.net/bangladesh/private-depots-postpone-container-operation-stoppage-one-month-1307436",
     "source": "The Business Standard",
     "published": "2025-12-11T13:35:00+00:00"
   },
@@ -70,6 +178,12 @@
     "link": "https://www.nytimes.com/2025/12/11/world/europe/juan-carlos-king-spain-book.html",
     "source": "New York Times",
     "published": "2025-12-11T13:21:27+00:00"
+  },
+  {
+    "title": "Residents' 'anger' as illegal waste dumps appear near homes",
+    "link": "https://www.bbc.com/news/articles/c74x9gqynp9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-11T13:19:43+00:00"
   },
   {
     "title": "Austria bans headscarves in schools for under-14s",
@@ -130,12 +244,6 @@
     "link": "https://www.nytimes.com/2025/12/11/world/americas/maria-corina-machado-nobel-venezuela-maduro-trump.html",
     "source": "New York Times",
     "published": "2025-12-11T12:25:09+00:00"
-  },
-  {
-    "title": "Washington Faces Heavy Rain and Flooding From Atmospheric River",
-    "link": "https://www.nytimes.com/2025/12/10/weather/washington-rivers-flood-evacuations.html",
-    "source": "New York Times",
-    "published": "2025-12-11T12:20:47+00:00"
   },
   {
     "title": "Senate to vote on 2 health care proposals. And, the latest U.S. move against Venezuela",
@@ -228,24 +336,6 @@
     "published": "2025-12-11T11:30:00+00:00"
   },
   {
-    "title": "Protesters besiege Police HQ for an hour demanding action against IGP Baharul over killing of BNP leader",
-    "link": "https://www.tbsnews.net/bangladesh/protesters-besiege-police-hq-hour-demanding-action-against-igp-baharul-over-killing-bnp",
-    "source": "The Business Standard",
-    "published": "2025-12-11T11:25:00+00:00"
-  },
-  {
-    "title": "Historic Battle of Shiromoni; 17 December marks liberation of Khulna",
-    "link": "https://www.tbsnews.net/bangladesh/historic-battle-shiromoni-17-december-marks-liberation-khulna-1307291",
-    "source": "The Business Standard",
-    "published": "2025-12-11T11:20:00+00:00"
-  },
-  {
-    "title": "Court orders to seize 1,936 acres of land linked to S Alam family",
-    "link": "https://www.tbsnews.net/bangladesh/court/court-orders-seize-1936-acres-land-linked-s-alam-family-1307286",
-    "source": "The Business Standard",
-    "published": "2025-12-11T11:10:00+00:00"
-  },
-  {
     "title": "Adobe sees a bright future as AI bet pays off",
     "link": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth",
     "source": "The Verge",
@@ -256,12 +346,6 @@
     "link": "https://www.nytimes.com/2025/12/11/world/asia/trump-call-cambodia-thailand.html",
     "source": "New York Times",
     "published": "2025-12-11T11:05:07+00:00"
-  },
-  {
-    "title": "Messi to unveil 70ft statue of himself on 'GOAT' tour",
-    "link": "https://www.bbc.com/sport/football/articles/c2k4p7xjn2zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T11:02:21+00:00"
   },
   {
     "title": "FEMA Is Forcing Towns to Fend for Themselves, and Trump Opens \u2018Gold Card\u2019 Visa Applications",
@@ -276,20 +360,14 @@
     "published": "2025-12-11T11:00:09+00:00"
   },
   {
-    "title": "Pedestrian shot during police firing exercise in Chuadanga",
-    "link": "https://www.tbsnews.net/bangladesh/pedestrian-shot-during-police-firing-exercise-chuadanga-1307281",
-    "source": "The Business Standard",
+    "title": "Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
+    "link": "https://www.npr.org/2025/12/11/nx-s1-5640109/early-humans-fire-making-oldest-discovery-archaeology",
+    "source": "NPR",
     "published": "2025-12-11T11:00:00+00:00"
   },
   {
     "title": "I hate getting Pap smears. Is there a safe alternative?",
     "link": "https://www.npr.org/2025/12/11/nx-s1-5639221/pap-smear-hpv-test-cervical-cancer",
-    "source": "NPR",
-    "published": "2025-12-11T11:00:00+00:00"
-  },
-  {
-    "title": "Fire-making materials at 400,000-year-old site are the oldest evidence of humans making fire",
-    "link": "https://www.npr.org/2025/12/11/nx-s1-5640109/early-humans-fire-making-oldest-discovery-archaeology",
     "source": "NPR",
     "published": "2025-12-11T11:00:00+00:00"
   },
@@ -306,30 +384,6 @@
     "published": "2025-12-11T10:48:02+00:00"
   },
   {
-    "title": "UP Bangladesh member killed in Mirsharai BNP factional clash",
-    "link": "https://www.tbsnews.net/bangladesh/bangladesh-member-killed-mirsharai-bnp-factional-clash-1307261",
-    "source": "The Business Standard",
-    "published": "2025-12-11T10:25:00+00:00"
-  },
-  {
-    "title": "Banks to tell you where you might invest your money",
-    "link": "https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T10:05:16+00:00"
-  },
-  {
-    "title": "Fed Divisions Underscore Challenge for Trump\u2019s Next Chair",
-    "link": "https://www.nytimes.com/2025/12/11/business/fed-divisions-trump.html",
-    "source": "New York Times",
-    "published": "2025-12-11T10:02:34+00:00"
-  },
-  {
-    "title": "Trump Doesn\u2019t Want to Talk About Affordability. Democrats Say That\u2019s a Gift.",
-    "link": "https://www.nytimes.com/2025/12/11/us/politics/trump-affordability-democrats.html",
-    "source": "New York Times",
-    "published": "2025-12-11T10:02:29+00:00"
-  },
-  {
     "title": "With Republicans Divided, Indiana Senate Set to Vote on Redistricting",
     "link": "https://www.nytimes.com/2025/12/11/us/indiana-senate-redistricting-republicans.html",
     "source": "New York Times",
@@ -340,12 +394,6 @@
     "link": "https://www.nytimes.com/2025/12/11/arts/television/best-comedy-of-2025.html",
     "source": "New York Times",
     "published": "2025-12-11T10:00:58+00:00"
-  },
-  {
-    "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
-    "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
-    "source": "NPR",
-    "published": "2025-12-11T10:00:00+00:00"
   },
   {
     "title": "This refugee's family faced persecution in Bhutan. Now, he could be deported there",
@@ -360,14 +408,20 @@
     "published": "2025-12-11T10:00:00+00:00"
   },
   {
-    "title": "Will U.S. military strikes slow drug overdose deaths? Experts say no",
-    "link": "https://www.npr.org/2025/12/11/nx-s1-5639205/drug-cartels-will-shrug-off-u-s-military-strikes-on-smuggling-boats",
+    "title": "Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers",
+    "link": "https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix",
     "source": "NPR",
     "published": "2025-12-11T10:00:00+00:00"
   },
   {
-    "title": "Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers",
-    "link": "https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix",
+    "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
+    "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
+    "source": "NPR",
+    "published": "2025-12-11T10:00:00+00:00"
+  },
+  {
+    "title": "Will U.S. military strikes slow drug overdose deaths? Experts say no",
+    "link": "https://www.npr.org/2025/12/11/nx-s1-5639205/drug-cartels-will-shrug-off-u-s-military-strikes-on-smuggling-boats",
     "source": "NPR",
     "published": "2025-12-11T10:00:00+00:00"
   },
@@ -384,34 +438,10 @@
     "published": "2025-12-11T09:52:13+00:00"
   },
   {
-    "title": "20% of Bangladeshi pilgrims to go to Saudi Arabia via Madinah next year",
-    "link": "https://www.tbsnews.net/bangladesh/20-bangladeshi-pilgrims-go-saudi-arabia-madinah-next-year-1307241",
-    "source": "The Business Standard",
-    "published": "2025-12-11T09:45:00+00:00"
-  },
-  {
-    "title": "Why is flu so bad this winter - and should you buy a vaccine?",
-    "link": "https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T09:42:38+00:00"
-  },
-  {
     "title": "New Archbishop of Canterbury faces complaint about abuse case handling",
     "link": "https://www.bbc.com/news/articles/cd6x7p761v0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-11T09:42:03+00:00"
-  },
-  {
-    "title": "HC orders government to digitise marriage, divorce registration",
-    "link": "https://www.tbsnews.net/bangladesh/court/hc-orders-government-digitise-marriage-divorce-registration-1307236",
-    "source": "The Business Standard",
-    "published": "2025-12-11T09:40:00+00:00"
-  },
-  {
-    "title": "Canada Closes Highways to Vancouver After Flooding and Landslides",
-    "link": "https://www.nytimes.com/2025/12/11/world/canada/british-columbia-vancouver-floods.html",
-    "source": "New York Times",
-    "published": "2025-12-11T09:27:59+00:00"
   },
   {
     "title": "Ayaneo\u2019s first Android phone looks like a return of the Xperia Play",
@@ -432,7 +462,7 @@
     "published": "2025-12-11T08:00:10+00:00"
   },
   {
-    "title": "Sports Personality of the Year shortlist announced",
+    "title": "Who is up for the Sports Personality of the Year award?",
     "link": "https://www.bbc.com/sport/articles/cx2d33y4gzwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-11T07:52:31+00:00"
@@ -468,16 +498,16 @@
     "published": "2025-12-11T06:10:06+00:00"
   },
   {
+    "title": "Mexico Approves 50% Tariffs on Many Chinese Imports",
+    "link": "https://www.nytimes.com/2025/12/11/world/americas/mexico-tariffs-china.html",
+    "source": "New York Times",
+    "published": "2025-12-11T05:15:01+00:00"
+  },
+  {
     "title": "Oil Tanker U.S. Seized Off Venezuela Has Faked Its Location Before, Data Shows",
     "link": "https://www.nytimes.com/2025/12/10/us/politics/oil-tanker-venezuela-tracking-data.html",
     "source": "New York Times",
     "published": "2025-12-11T05:09:40+00:00"
-  },
-  {
-    "title": "I lost 3st and was sick 40 times a day during pregnancy",
-    "link": "https://www.bbc.com/news/articles/cm2vz5y0664o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T02:28:58+00:00"
   },
   {
     "title": "One of the Last Times Square Dive Bars Faces Eviction",
@@ -496,12 +526,6 @@
     "link": "https://www.nytimes.com/2025/12/10/us/politics/trump-preoccupation-biden.html",
     "source": "New York Times",
     "published": "2025-12-11T00:26:15+00:00"
-  },
-  {
-    "title": "Rolling Stones finally approve Fatboy Slim sample after 25 years",
-    "link": "https://www.bbc.com/news/articles/c2dzre3z96go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-11T00:01:52+00:00"
   },
   {
     "title": "Why so many people break 20mph speed limits (it's more complicated than you think)",
@@ -564,22 +588,10 @@
     "published": "2025-12-10T21:31:06+00:00"
   },
   {
-    "title": "The Verge\u2019s favorite holiday gifts under $100",
-    "link": "https://www.theverge.com/tech/800440/best-gifts-under-100-2025",
-    "source": "The Verge",
-    "published": "2025-12-10T21:00:00+00:00"
-  },
-  {
     "title": "Today\u2019s <em>Atlantic </em>Trivia: Brain Rot Is So Last Year",
     "link": "https://www.theatlantic.com/newsletters/2025/12/daily-trivia-questions-answers-week-11/685185/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-10T20:50:00+00:00"
-  },
-  {
-    "title": "The best smart rings for tracking sleep and health",
-    "link": "https://www.theverge.com/tech/647901/best-smart-rings",
-    "source": "The Verge",
-    "published": "2025-12-10T20:29:50+00:00"
   },
   {
     "title": "What Menopause Does to the Body",
@@ -622,11 +634,5 @@
     "link": "https://www.theatlantic.com/politics/2025/12/trump-boat-strikes-war-venezuela/685199/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-10T16:14:00+00:00"
-  },
-  {
-    "title": "The Star Who Represents Iran\u2019s Golden Age\u2014And Its Future",
-    "link": "https://www.theatlantic.com/books/2025/12/googoosh-exiled-pop-star-who-united-iran/685202/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-10T14:00:00+00:00"
   }
 ]
