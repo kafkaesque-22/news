@@ -1,9 +1,51 @@
 [
   {
+    "title": "Active Shooter Alert Issued at Brown University in Rhode Island",
+    "link": "https://www.nytimes.com/2025/12/13/us/brown-university-shooting.html",
+    "source": "New York Times",
+    "published": "2025-12-13T22:34:29+00:00"
+  },
+  {
+    "title": "All police forces to get specialist sexual offence teams, Mahmood pledges",
+    "link": "https://www.bbc.com/news/articles/cj69w7kezdzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-13T22:30:05+00:00"
+  },
+  {
+    "title": "United Airlines flight returns to Dulles airport after engine loses power during takeoff",
+    "link": "https://www.npr.org/2025/12/13/nx-s1-5643589/united-airlines-flight-dulles-airport-engine",
+    "source": "NPR",
+    "published": "2025-12-13T22:16:27+00:00"
+  },
+  {
     "title": "3 Americans Killed in ISIS Attack in Syria, Trump Says, Vowing to Retaliate",
     "link": "https://www.nytimes.com/2025/12/13/world/middleeast/us-forces-attacked-syria.html",
     "source": "New York Times",
-    "published": "2025-12-13T21:24:34+00:00"
+    "published": "2025-12-13T22:09:32+00:00"
+  },
+  {
+    "title": "Glasgow mount incredible comeback to stun Toulouse",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/cq60vg3118po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-13T21:53:37+00:00"
+  },
+  {
+    "title": "Jo Ann Allen Boyce Dies at 84; Braved Mobs in Integrating a School",
+    "link": "https://www.nytimes.com/2025/12/13/us/jo-ann-allen-boyce-dead.html",
+    "source": "New York Times",
+    "published": "2025-12-13T21:49:53+00:00"
+  },
+  {
+    "title": "Trump\u2019s \u2018Pardon\u2019 of Tina Peters Rejected by Colorado Officials",
+    "link": "https://www.nytimes.com/2025/12/13/us/politics/trump-tina-peters.html",
+    "source": "New York Times",
+    "published": "2025-12-13T21:49:42+00:00"
+  },
+  {
+    "title": "Three Americans killed by IS gunman in Syria, US military says",
+    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-13T21:42:05+00:00"
   },
   {
     "title": "After failure in the Senate, House GOP has its own health care proposal",
@@ -60,14 +102,14 @@
     "published": "2025-12-13T20:33:17+00:00"
   },
   {
-    "title": "Central Pharma may face regulatory sanctions over unpaid fees, audit flags",
-    "link": "https://www.tbsnews.net/economy/stocks/central-pharma-may-face-regulatory-sanctions-over-unpaid-fees-audit-flags-1309171",
+    "title": "Square Pharma's Kenya unit hits profitability in just two years",
+    "link": "https://www.tbsnews.net/economy/stocks/square-pharmas-kenya-unit-hits-profitability-just-two-years-1309176",
     "source": "The Business Standard",
     "published": "2025-12-13T20:30:00+00:00"
   },
   {
-    "title": "Square Pharma's Kenya unit hits profitability in just two years",
-    "link": "https://www.tbsnews.net/economy/stocks/square-pharmas-kenya-unit-hits-profitability-just-two-years-1309176",
+    "title": "Central Pharma may face regulatory sanctions over unpaid fees, audit flags",
+    "link": "https://www.tbsnews.net/economy/stocks/central-pharma-may-face-regulatory-sanctions-over-unpaid-fees-audit-flags-1309171",
     "source": "The Business Standard",
     "published": "2025-12-13T20:30:00+00:00"
   },
@@ -108,12 +150,6 @@
     "published": "2025-12-13T19:40:00+00:00"
   },
   {
-    "title": "Three Americans killed by IS gunman in Syria, US military says",
-    "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-13T19:32:51+00:00"
-  },
-  {
     "title": "Chile votes in polarizing presidential runoff as far-right takes lead",
     "link": "https://www.npr.org/2025/12/13/nx-s1-5643538/chile-election-kast-jara",
     "source": "NPR",
@@ -130,12 +166,6 @@
     "link": "https://www.npr.org/2025/12/13/nx-s1-5643557/2-u-s-service-members-and-1-civilian-are-killed-in-isis-attack-in-syria",
     "source": "NPR",
     "published": "2025-12-13T18:56:08+00:00"
-  },
-  {
-    "title": "Jo Ann Allen Boyce Dies at 84; Braved Mobs in Integrating a School",
-    "link": "https://www.nytimes.com/2025/12/13/us/jo-ann-allen-boyce-dead.html",
-    "source": "New York Times",
-    "published": "2025-12-13T18:47:59+00:00"
   },
   {
     "title": "Israel targets senior Hamas official in deadly Gaza strike",
@@ -276,12 +306,6 @@
     "published": "2025-12-13T16:30:00+00:00"
   },
   {
-    "title": "Trump\u2019s \u2018Pardon\u2019 of Tina Peters Rejected by Colorado Officials",
-    "link": "https://www.nytimes.com/2025/12/13/us/politics/trump-tina-peters.html",
-    "source": "New York Times",
-    "published": "2025-12-13T16:20:37+00:00"
-  },
-  {
     "title": "6 Bangladeshi peacekeepers killed, 8 injured in Sudan UN base attack: ISPR",
     "link": "https://www.tbsnews.net/bangladesh/6-bangladeshi-peacekeepers-killed-8-injured-terrorist-attack-un-base-sudan-ispr-1309111",
     "source": "The Business Standard",
@@ -310,12 +334,6 @@
     "link": "https://www.bbc.com/news/articles/cvgr1djewxko?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-13T15:59:58+00:00"
-  },
-  {
-    "title": "Men arrested after village Christmas tree cut down",
-    "link": "https://www.bbc.com/news/articles/c62nnpez1l4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-13T15:46:01+00:00"
   },
   {
     "title": "EC asks ministries to promote postal vote registration among govt staff, election officials",
@@ -432,18 +450,6 @@
     "published": "2025-12-13T13:00:00+00:00"
   },
   {
-    "title": "Fewer characters on TV had abortions this year \u2014 and more stories reinforced shame",
-    "link": "https://www.npr.org/2025/12/13/nx-s1-5639998/abortion-tv-2025-trends-the-pitt-call-the-midwife",
-    "source": "NPR",
-    "published": "2025-12-13T12:00:00+00:00"
-  },
-  {
-    "title": "Eric Adams Swaggered Into City Hall, and Now He\u2019s Swaggering Out",
-    "link": "https://www.nytimes.com/2025/12/13/nyregion/eric-adams-interview.html",
-    "source": "New York Times",
-    "published": "2025-12-13T11:52:03+00:00"
-  },
-  {
     "title": "Trump Knows What He Wants, Just Not How to Get There",
     "link": "https://www.theatlantic.com/national-security/2025/12/trump-venezuela-strategy-war-maduro/685225/?utm_source=feed",
     "source": "The Atlantic",
@@ -472,12 +478,6 @@
     "link": "https://www.bbc.co.uk/sounds/play/p0mnc4k5?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-13T04:15:00+00:00"
-  },
-  {
-    "title": "Eyebrows, McDonald's and a backpack: New evidence unveiled in Mangione case",
-    "link": "https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-13T01:18:21+00:00"
   },
   {
     "title": "Chocolate is getting smaller, more expensive and less chocolatey - and that might leave a bad taste",
@@ -514,29 +514,5 @@
     "link": "https://www.theatlantic.com/newsletters/2025/12/fed-reserve-rate-jerome-powell-trump/685245/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-12T23:29:00+00:00"
-  },
-  {
-    "title": "The Last MAGA Prisoner",
-    "link": "https://www.theatlantic.com/politics/2025/12/tina-peters-maga-colorado-trump-pardon/685240/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-12T22:27:53+00:00"
-  },
-  {
-    "title": "Parents call for New York governor to sign landmark AI safety bill",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
-    "source": "The Verge",
-    "published": "2025-12-12T22:16:09+00:00"
-  },
-  {
-    "title": "Today\u2019s <em>Atlantic </em>Trivia: The Bat Goes Crack (Crack, Crack)",
-    "link": "https://www.theatlantic.com/newsletters/2025/12/daily-trivia-questions-answers-week-11/685185/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-12T21:50:00+00:00"
-  },
-  {
-    "title": "The Indiana Vote Is an Inflection Point",
-    "link": "https://www.theatlantic.com/ideas/2025/12/indiana-gerrymandering-trump-midterms/685242/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-12T21:40:00+00:00"
   }
 ]
