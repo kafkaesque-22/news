@@ -1,15 +1,99 @@
 [
   {
-    "title": "Ajax trial paused after soldier falls ill in another vehicle",
-    "link": "https://www.bbc.com/news/articles/c74xv4yp4v9o?at_medium=RSS&at_campaign=rss",
+    "title": "Microsoft&#8217;s holiday Copilot ad is wrapped in empty promises",
+    "link": "https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad",
+    "source": "The Verge",
+    "published": "2025-12-18T15:30:00+00:00"
+  },
+  {
+    "title": "Zelensky gives stark warning as EU leaders hold crunch talks on Russia's frozen assets",
+    "link": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2025-12-18T14:45:06+00:00"
+    "published": "2025-12-18T15:25:50+00:00"
+  },
+  {
+    "title": "Crude bombs explode in Moghbazar, Mouchak, Shantinagar; 1 injured",
+    "link": "https://www.tbsnews.net/bangladesh/crude-bombs-explode-moghbazar-mouchak-shantinagar-1-injured-1313421",
+    "source": "The Business Standard",
+    "published": "2025-12-18T15:25:00+00:00"
+  },
+  {
+    "title": "Robi questions pre-election 700MHz spectrum auction",
+    "link": "https://www.tbsnews.net/bangladesh/robi-questions-pre-election-700mhz-spectrum-auction-1313406",
+    "source": "The Business Standard",
+    "published": "2025-12-18T15:25:00+00:00"
+  },
+  {
+    "title": "Biman's Dhaka-London flight tickets sold out from 24 December ahead of Tarique's return",
+    "link": "https://www.tbsnews.net/bangladesh/bimans-dhaka-london-flight-tickets-sold-out-24-december-ahead-tariques-return-1313416",
+    "source": "The Business Standard",
+    "published": "2025-12-18T15:25:00+00:00"
   },
   {
     "title": "Interest Rate Cut and Slower Inflation Offer Britons a Reprieve",
     "link": "https://www.nytimes.com/2025/12/18/business/britain-interest-rates-economy.html",
     "source": "New York Times",
-    "published": "2025-12-18T14:44:27+00:00"
+    "published": "2025-12-18T15:22:20+00:00"
+  },
+  {
+    "title": "Palo Alto Confronts Billionaires Over Their Housing Compounds",
+    "link": "https://www.nytimes.com/2025/12/18/us/palo-alto-billionaire-compound-law.html",
+    "source": "New York Times",
+    "published": "2025-12-18T15:21:27+00:00"
+  },
+  {
+    "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
+    "link": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
+    "source": "The Verge",
+    "published": "2025-12-18T15:14:24+00:00"
+  },
+  {
+    "title": "Europe\u2019s Fight Over Russian Assets Is Testing Its Ability to Support Ukraine",
+    "link": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html",
+    "source": "New York Times",
+    "published": "2025-12-18T15:12:35+00:00"
+  },
+  {
+    "title": "Trump Media to merge with nuclear fusion firm in $6bn deal",
+    "link": "https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-18T15:11:11+00:00"
+  },
+  {
+    "title": "673 candidates of 27th BCS appointed after two-decade legal battle",
+    "link": "https://www.tbsnews.net/bangladesh/673-candidates-27th-bcs-appointed-after-two-decade-legal-battle-1313396",
+    "source": "The Business Standard",
+    "published": "2025-12-18T15:00:00+00:00"
+  },
+  {
+    "title": "\u2018All chaos and panic\u2019: Nilay\u00a0answers your burning Decoder questions",
+    "link": "https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025",
+    "source": "The Verge",
+    "published": "2025-12-18T15:00:00+00:00"
+  },
+  {
+    "title": "Rob Reiner Family Tragedy Strikes a Nerve for Families Fighting Addiction",
+    "link": "https://www.nytimes.com/2025/12/18/us/rob-reiner-family-murder-addiction.html",
+    "source": "New York Times",
+    "published": "2025-12-18T14:56:01+00:00"
+  },
+  {
+    "title": "Waterloo Road actor William Rush dies aged 31",
+    "link": "https://www.bbc.com/news/articles/cvg10gx4qe7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-18T14:52:22+00:00"
+  },
+  {
+    "title": "Trump Announces $1,776 \u2018Warrior Dividend\u2019 for Military",
+    "link": "https://www.nytimes.com/2025/12/18/us/trump-address-warrior-dividend-military-check-1776.html",
+    "source": "New York Times",
+    "published": "2025-12-18T14:46:44+00:00"
+  },
+  {
+    "title": "Ajax trial paused after soldier falls ill in another vehicle",
+    "link": "https://www.bbc.com/news/articles/c74xv4yp4v9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-18T14:45:06+00:00"
   },
   {
     "title": "Boys to be sent on courses to tackle misogyny in schools",
@@ -34,6 +118,12 @@
     "link": "https://www.nytimes.com/2025/12/18/us/bishop-ronald-hicks-cardinal-timothy-dolan-archbishop-new-york.html",
     "source": "New York Times",
     "published": "2025-12-18T14:21:39+00:00"
+  },
+  {
+    "title": "Interest rates cut to 3.75% but further reductions to be 'closer call'",
+    "link": "https://www.bbc.com/news/articles/cj01v7z73q1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-18T14:13:46+00:00"
   },
   {
     "title": "Over 1,000 Were Killed in Attack on Camp in Darfur, Sudan, U.N. Says",
@@ -88,12 +178,6 @@
     "link": "https://www.tbsnews.net/bangladesh/politics/chhatra-shakti-burns-home-advisers-effigy-du-will-hold-gayebana-janaza-tomorrow",
     "source": "The Business Standard",
     "published": "2025-12-18T13:55:00+00:00"
-  },
-  {
-    "title": "European Leaders Face Off Over Whether to Tap Russian Frozen Assets for Ukraine",
-    "link": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html",
-    "source": "New York Times",
-    "published": "2025-12-18T13:43:30+00:00"
   },
   {
     "title": "Farmers 'bewildered and frightened' over inheritance tax, report finds",
@@ -168,7 +252,7 @@
     "published": "2025-12-18T12:55:00+00:00"
   },
   {
-    "title": "Govt okays ordinance to declare missing persons 'disappeared' after 5 years",
+    "title": "Govt okays ordinance allowing official 'disappeared' status after 5 years",
     "link": "https://www.tbsnews.net/bangladesh/govt-okays-ordinance-declare-missing-persons-disappeared-after-5-years-1313341",
     "source": "The Business Standard",
     "published": "2025-12-18T12:55:00+00:00"
@@ -330,30 +414,6 @@
     "published": "2025-12-18T11:41:08+00:00"
   },
   {
-    "title": "Osman Hadi's family approves surgery in Singapore",
-    "link": "https://www.tbsnews.net/bangladesh/osman-hadis-family-approves-surgery-singapore-1313221",
-    "source": "The Business Standard",
-    "published": "2025-12-18T11:30:00+00:00"
-  },
-  {
-    "title": "NBR launches pilot digital system to monitor truck movement at land ports",
-    "link": "https://www.tbsnews.net/bangladesh/nbr-launches-pilot-digital-system-monitor-truck-movement-land-ports-1313226",
-    "source": "The Business Standard",
-    "published": "2025-12-18T11:30:00+00:00"
-  },
-  {
-    "title": "Zelensky gives stark warning as EU leaders start crunch talks on Russia's frozen assets",
-    "link": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-18T11:25:49+00:00"
-  },
-  {
-    "title": "Three Bangladeshi women successfully summit Chulu Far East",
-    "link": "https://www.tbsnews.net/bangladesh/three-bangladeshi-women-successfully-summit-chulu-far-east-1313276",
-    "source": "The Business Standard",
-    "published": "2025-12-18T11:25:00+00:00"
-  },
-  {
     "title": "79,600 criminal cases are still outstanding in England and Wales. How did we get here?",
     "link": "https://www.bbc.com/news/articles/czdg7r8de2lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -366,12 +426,6 @@
     "published": "2025-12-18T11:10:48+00:00"
   },
   {
-    "title": "Prayers most needed for Hadi now: Home Adviser",
-    "link": "https://www.tbsnews.net/bangladesh/prayers-most-needed-hadi-now-home-adviser-1313206",
-    "source": "The Business Standard",
-    "published": "2025-12-18T11:10:00+00:00"
-  },
-  {
     "title": "The \u2018Filthy Little Slum Child\u2019 Who Remade the American Right",
     "link": "https://www.theatlantic.com/ideas/2025/12/norman-podhoretz-neoconservative-intellectual-obituary/685301/?utm_source=feed",
     "source": "The Atlantic",
@@ -382,12 +436,6 @@
     "link": "https://www.bbc.com/news/articles/cdj87z42gv4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-18T10:25:53+00:00"
-  },
-  {
-    "title": "Rob Reiner Family Tragedy Strikes a Nerve for Families Fighting Addiction",
-    "link": "https://www.nytimes.com/2025/12/18/us/rob-reiner-family-murder-addiction.html",
-    "source": "New York Times",
-    "published": "2025-12-18T10:03:41+00:00"
   },
   {
     "title": "Iran\u2019s President Says He Can\u2019t Make \u2018Miracles\u2019 to Solve the Country\u2019s Woes",
@@ -408,26 +456,20 @@
     "published": "2025-12-18T10:01:59+00:00"
   },
   {
-    "title": "A 'novice' who can 'punch a bit' - how good is Paul?",
-    "link": "https://www.bbc.com/sport/boxing/articles/czxg4l01ygdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-18T10:00:50+00:00"
-  },
-  {
     "title": "\u2018Don\u2019s Best Friend\u2019: How Epstein and Trump Bonded Over the Pursuit of Women",
     "link": "https://www.nytimes.com/2025/12/18/us/jeffrey-epstein-donald-trump.html",
     "source": "New York Times",
     "published": "2025-12-18T10:00:30+00:00"
   },
   {
-    "title": "Under Trump, 317,000 workers are out of the government. Here are 3 of their stories",
-    "link": "https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants",
+    "title": "Where we went: NPR's U.S. travel guide for the curious",
+    "link": "https://www.npr.org/2025/12/18/nx-s1-5615255/travel-guide-odd-weird-america-vacations",
     "source": "NPR",
     "published": "2025-12-18T10:00:00+00:00"
   },
   {
-    "title": "Where we went: NPR's U.S. travel guide for the curious",
-    "link": "https://www.npr.org/2025/12/18/nx-s1-5615255/travel-guide-odd-weird-america-vacations",
+    "title": "Under Trump, 317,000 workers are out of the government. Here are 3 of their stories",
+    "link": "https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants",
     "source": "NPR",
     "published": "2025-12-18T10:00:00+00:00"
   },
@@ -442,12 +484,6 @@
     "link": "https://www.npr.org/2025/12/18/nx-s1-5647750/venezuela-oil-trump-maduro",
     "source": "NPR",
     "published": "2025-12-18T09:42:30+00:00"
-  },
-  {
-    "title": "Don't let Matilda's death fuel anger, say family of Bondi victim, 10, at funeral",
-    "link": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-18T08:29:56+00:00"
   },
   {
     "title": "City Council Introduces Bill to Create Mamdani\u2019s Community Safety Agency",
@@ -468,22 +504,16 @@
     "published": "2025-12-18T07:16:41+00:00"
   },
   {
-    "title": "Search for Suspect in Brown University Shooting Stretches to 4th Day",
+    "title": "Search for Suspect in Brown University Shooting Stretches to 5th Day",
     "link": "https://www.nytimes.com/2025/12/17/us/brown-shooter-suspect-providence.html",
     "source": "New York Times",
-    "published": "2025-12-18T07:13:38+00:00"
+    "published": "2025-12-18T07:13:39+00:00"
   },
   {
     "title": "Late Night Shades Trump\u2019s Impromptu \u2018Liar-Side Chat\u2019",
     "link": "https://www.nytimes.com/2025/12/18/arts/television/late-night-trump-address.html",
     "source": "New York Times",
     "published": "2025-12-18T07:07:39+00:00"
-  },
-  {
-    "title": "Cowboy saddles up with a new owner",
-    "link": "https://www.theverge.com/news/847097/cowboy-acquired-by-rebirth-recycles-bankruptcy",
-    "source": "The Verge",
-    "published": "2025-12-18T07:02:10+00:00"
   },
   {
     "title": "The surprising truth about the generations that suffer loneliness the most",
@@ -516,12 +546,6 @@
     "published": "2025-12-18T06:06:28+00:00"
   },
   {
-    "title": "Rare wolf pups' birth spark zoo celebrations",
-    "link": "https://www.bbc.com/news/articles/c3e0wypp91ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-18T06:04:59+00:00"
-  },
-  {
     "title": "Shock and Sadness Hang Over the Reiners\u2019 Neighborhood",
     "link": "https://www.nytimes.com/2025/12/17/us/reiner-brentwood-mourning-scene.html",
     "source": "New York Times",
@@ -534,28 +558,10 @@
     "published": "2025-12-18T04:54:50+00:00"
   },
   {
-    "title": "Peter Arnett, Pulitzer-Winning War Correspondent, Dies at 91",
-    "link": "https://www.nytimes.com/2025/12/17/world/peter-arnett-dead.html",
-    "source": "New York Times",
-    "published": "2025-12-18T04:38:09+00:00"
-  },
-  {
     "title": "Fact-Checking Trump\u2019s Prime-Time Address on the Economy",
     "link": "https://www.nytimes.com/2025/12/17/us/politics/fact-check-trump-economy-address.html",
     "source": "New York Times",
     "published": "2025-12-18T04:30:53+00:00"
-  },
-  {
-    "title": "The ChatGPT app store is here",
-    "link": "https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt",
-    "source": "The Verge",
-    "published": "2025-12-18T04:27:39+00:00"
-  },
-  {
-    "title": "Sony&#8217;s legal battle against Tencent&#8217;s Horizon \u2018clone\u2019 is already over",
-    "link": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
-    "source": "The Verge",
-    "published": "2025-12-18T03:57:42+00:00"
   },
   {
     "title": "This Is What Presidential Panic Looks Like",
