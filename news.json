@@ -1,18 +1,216 @@
 [
   {
-    "title": "Vince Zampella, Call of Duty co-creator, dies in California car crash",
-    "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T23:29:45+00:00"
+    "title": "BNP seeks SSF security for Tarique Rahman; govt yet to decide",
+    "link": "https://www.tbsnews.net/bangladesh/politics/bnp-seeks-ssf-security-tarique-rahman-govt-yet-decide-1316806",
+    "source": "The Business Standard",
+    "published": "2025-12-23T03:40:00+00:00"
   },
   {
-    "title": "Federal judge rules the U.S. violated due process with Alien Enemies Act deportations",
+    "title": "May Britt, 91, Dies; Her Marriage to Sammy Davis Jr. Sparked Outrage",
+    "link": "https://www.nytimes.com/2025/12/22/movies/may-britt-dead.html",
+    "source": "New York Times",
+    "published": "2025-12-23T03:30:56+00:00"
+  },
+  {
+    "title": "White House Invitees Are Asked About Donations to Trump\u2019s Ballroom",
+    "link": "https://www.nytimes.com/2025/12/22/us/politics/white-house-donations-ballroom.html",
+    "source": "New York Times",
+    "published": "2025-12-23T03:26:18+00:00"
+  },
+  {
+    "title": "After Power Outage, San Francisco Wonders: Can Waymo Taxis Handle a Big Earthquake?",
+    "link": "https://www.nytimes.com/2025/12/22/us/waymo-san-francisco-power-earthquake.html",
+    "source": "New York Times",
+    "published": "2025-12-23T03:10:34+00:00"
+  },
+  {
+    "title": "\u2018It\u2019s Very Controversial, but I Love Nick Fuentes\u2019",
+    "link": "https://www.theatlantic.com/technology/2025/12/americafest-charlie-kirk-nick-fuentes/685402/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-23T03:09:00+00:00"
+  },
+  {
+    "title": "Amazon blocks 1,800 job applications from suspected North Korean agents",
+    "link": "https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T02:49:45+00:00"
+  },
+  {
+    "title": "English councils warned against adopting four-day week",
+    "link": "https://www.bbc.com/news/articles/cgl6j8n04eno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T02:44:50+00:00"
+  },
+  {
+    "title": "Turmoil at CBS News After Bari Weiss Pulls a \u201860 Minutes\u2019 Segment",
+    "link": "https://www.nytimes.com/2025/12/22/business/media/cbs-news-bari-weiss-60-minutes.html",
+    "source": "New York Times",
+    "published": "2025-12-23T01:58:49+00:00"
+  },
+  {
+    "title": "The Economy Survived 2025, But Many Americans Are Reeling",
+    "link": "https://www.nytimes.com/2025/12/22/business/economy-unemployment-wages-affordability.html",
+    "source": "New York Times",
+    "published": "2025-12-23T01:58:18+00:00"
+  },
+  {
+    "title": "What do Christmas cracker jokes do to our brains?",
+    "link": "https://www.bbc.com/news/articles/c741jg9k2dgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T01:56:40+00:00"
+  },
+  {
+    "title": "UK white Christmas unlikely despite a chilly festive forecast",
+    "link": "https://www.bbc.com/weather/articles/cr7l1zy32e5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T01:54:19+00:00"
+  },
+  {
+    "title": "Trump announces plans for new Navy 'battleship' as part of a 'Golden Fleet'",
+    "link": "https://www.npr.org/2025/12/22/g-s1-103408/trump-navy-battleship-golden-fleet",
+    "source": "NPR",
+    "published": "2025-12-23T01:53:28+00:00"
+  },
+  {
+    "title": "Trump\u2019s Vanity Fleet",
+    "link": "https://www.theatlantic.com/politics/2025/12/trumps-vanity-fleet/685399/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-23T01:43:09+00:00"
+  },
+  {
+    "title": "Lawmaker Sues to Remove Trump\u2019s Name From the Kennedy Center",
+    "link": "https://www.nytimes.com/2025/12/22/us/politics/lawsuit-trump-name-removal-kennedy-center.html",
+    "source": "New York Times",
+    "published": "2025-12-23T01:35:49+00:00"
+  },
+  {
+    "title": "Human rights groups warn of rising attacks on media and activists in Bangladesh",
+    "link": "https://www.tbsnews.net/bangladesh/human-rights-groups-warn-rising-attacks-media-and-activists-bangladesh-1316776",
+    "source": "The Business Standard",
+    "published": "2025-12-23T01:35:00+00:00"
+  },
+  {
+    "title": "New era for weight-loss drugs after US approves pill version of Wegovy",
+    "link": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T01:29:07+00:00"
+  },
+  {
+    "title": "Big players reshaping Bangladesh's retail pharmacy landscape",
+    "link": "https://www.tbsnews.net/bangladesh/health/big-players-reshaping-bangladeshs-retail-pharmacy-landscape-1316766",
+    "source": "The Business Standard",
+    "published": "2025-12-23T01:20:00+00:00"
+  },
+  {
+    "title": "Mexican Medical Plane Crashes in Galveston Bay, Killing at Least 2",
+    "link": "https://www.nytimes.com/2025/12/22/us/galveston-plane-crash-mexico-navy.html",
+    "source": "New York Times",
+    "published": "2025-12-23T01:14:02+00:00"
+  },
+  {
+    "title": "The FCC\u2019s foreign drone ban is here",
+    "link": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
+    "source": "The Verge",
+    "published": "2025-12-23T01:13:51+00:00"
+  },
+  {
+    "title": "The Papers:  'Chris Rea dies at Xmas' and 'King of Industry'",
+    "link": "https://www.bbc.com/news/articles/ckgd9k7xj7wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:54:17+00:00"
+  },
+  {
+    "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
+    "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:48:58+00:00"
+  },
+  {
+    "title": "Vince Zampella, Formative Designer of Call of Duty Games, Dies at 55",
+    "link": "https://www.nytimes.com/2025/12/22/arts/vince-zampella-dead.html",
+    "source": "New York Times",
+    "published": "2025-12-23T00:37:18+00:00"
+  },
+  {
+    "title": "Trump unveils plans for 'Golden Fleet' battleships named after himself",
+    "link": "https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:36:38+00:00"
+  },
+  {
+    "title": "What the underwhelming Epstein files release means for Trump and Maga",
+    "link": "https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:24:25+00:00"
+  },
+  {
+    "title": "At Turning Point USA\u2019s AmericaFest, Attendees Find Conservative Squabbling Distracting",
+    "link": "https://www.nytimes.com/2025/12/22/style/americafest-turning-point-usa-charlie-kirk.html",
+    "source": "New York Times",
+    "published": "2025-12-23T00:23:33+00:00"
+  },
+  {
+    "title": "Royal Christmas cards have a touchy-feely look this year",
+    "link": "https://www.bbc.com/news/articles/cvg80n2yxmko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:06:39+00:00"
+  },
+  {
+    "title": "The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband",
+    "link": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+    "source": "The Verge",
+    "published": "2025-12-23T00:06:04+00:00"
+  },
+  {
+    "title": "The showers and baths keeping data centre tech cool",
+    "link": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:04:45+00:00"
+  },
+  {
+    "title": "Our son can't come home for Christmas after insulation mould took over",
+    "link": "https://www.bbc.com/news/articles/cz0ne0k70dro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:01:43+00:00"
+  },
+  {
+    "title": "2025 likely to be UK's hottest on record, says Met Office",
+    "link": "https://www.bbc.com/news/articles/cvgjzpglw4yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-23T00:00:09+00:00"
+  },
+  {
+    "title": "F.D.A. Approves Wegovy Weight-Loss Pill",
+    "link": "https://www.nytimes.com/2025/12/22/well/fda-approves-wegovy-weight-loss-pill.html",
+    "source": "New York Times",
+    "published": "2025-12-22T23:45:09+00:00"
+  },
+  {
+    "title": "Trump says US 'has to have' Greenland after naming special envoy",
+    "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-22T23:40:18+00:00"
+  },
+  {
+    "title": "No Democrat Should \u2018Rerun the Biden Strategy\u2019",
+    "link": "https://www.nytimes.com/2025/12/22/opinion/next-american-story-michelle-goldberg-immigration.html",
+    "source": "New York Times",
+    "published": "2025-12-22T23:40:13+00:00"
+  },
+  {
+    "title": "Two New Banksy Murals Appear in London",
+    "link": "https://www.nytimes.com/2025/12/22/world/europe/uk-banksy-mural-children-homeless.html",
+    "source": "New York Times",
+    "published": "2025-12-22T23:31:35+00:00"
+  },
+  {
+    "title": "Federal judge says U.S. must give due process to deported Venezuelans",
     "link": "https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case",
     "source": "NPR",
     "published": "2025-12-22T23:18:12+00:00"
   },
   {
-    "title": "The Perils of a Politicized Justice Department",
+    "title": "The DOJ Is Losing Public Trust",
     "link": "https://www.theatlantic.com/newsletters/2025/12/doj-epstein-benefit-of-doubt-politicized/685396/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-22T23:13:00+00:00"
@@ -30,10 +228,22 @@
     "published": "2025-12-22T23:00:14+00:00"
   },
   {
+    "title": "Sports stars fear disappearance of playing fields amid reforms",
+    "link": "https://www.bbc.com/sport/articles/crl9751l612o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-22T22:59:54+00:00"
+  },
+  {
     "title": "Epstein Victims Ask Congress to Ensure Justice Dept. Releases All Files",
     "link": "https://www.nytimes.com/2025/12/22/business/epstein-victims-justice-dept-files-released.html",
     "source": "New York Times",
     "published": "2025-12-22T22:59:52+00:00"
+  },
+  {
+    "title": "The police report of my sexual assault was published by the tabloids",
+    "link": "https://www.bbc.com/news/articles/c9qe5rljpgno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-22T22:55:31+00:00"
   },
   {
     "title": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot",
@@ -66,46 +276,16 @@
     "published": "2025-12-22T21:52:45+00:00"
   },
   {
-    "title": "At Turning Point USA\u2019s AmericaFest, Attendees Find Conservative Squabbling Distracting",
-    "link": "https://www.nytimes.com/2025/12/22/style/americafest-turning-point-usa-charlie-kirk.html",
-    "source": "New York Times",
-    "published": "2025-12-22T21:50:17+00:00"
-  },
-  {
     "title": "Jim Beam Halts Production at Flagship Distillery as Whiskey and Bourbon Markets Struggle",
     "link": "https://www.nytimes.com/2025/12/22/dining/jim-beam-production-pause-whiskey-bourbon.html",
     "source": "New York Times",
     "published": "2025-12-22T21:48:36+00:00"
   },
   {
-    "title": "Driving Home for Christmas singer Chris Rea dies aged 74",
-    "link": "https://www.bbc.com/news/articles/c8r3ne23e4go?at_medium=RSS&at_campaign=rss",
+    "title": "Ros Atkins on\u2026 the oil tanker being pursued by the US",
+    "link": "https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2025-12-22T21:46:33+00:00"
-  },
-  {
-    "title": "Wildfire-hit town wins \u20ac468m in Spain's Christmas lottery",
-    "link": "https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T21:39:04+00:00"
-  },
-  {
-    "title": "Trump Halts 5 Wind Farms Off the East Coast",
-    "link": "https://www.nytimes.com/2025/12/22/climate/trump-offshore-wind-farms.html",
-    "source": "New York Times",
-    "published": "2025-12-22T21:38:12+00:00"
-  },
-  {
-    "title": "Vince Zampella, Formative Designer of Call of Duty Games, Dies at 55",
-    "link": "https://www.nytimes.com/2025/12/22/arts/vince-zampella-dead.html",
-    "source": "New York Times",
-    "published": "2025-12-22T21:37:20+00:00"
-  },
-  {
-    "title": "Two men jailed for Grindr targeted thefts",
-    "link": "https://www.bbc.com/news/articles/cqlkx2z4zgwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T21:27:13+00:00"
+    "published": "2025-12-22T21:27:01+00:00"
   },
   {
     "title": "Russia escalates attacks on key Ukrainian region of Odesa",
@@ -138,6 +318,12 @@
     "published": "2025-12-22T21:02:53+00:00"
   },
   {
+    "title": "Liverpool striker Isak has surgery on broken leg",
+    "link": "https://www.bbc.com/sport/football/articles/c5y9d7xl8dvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-22T21:02:33+00:00"
+  },
+  {
     "title": "<em>The Atlantic</em> Announces Henry Grabar and Judith Shulevitz as Staff Writers and Chris Suellentrop as Senior Editor; Uzodinma Iweala Joins as Contributing Writer",
     "link": "https://www.theatlantic.com/press-releases/2025/12/atlantic-announces-new-writers-and-senior-editor/685391/?utm_source=feed",
     "source": "The Atlantic",
@@ -168,12 +354,6 @@
     "published": "2025-12-22T20:06:00+00:00"
   },
   {
-    "title": "Third Palestine Action hunger striker on remand ends protest",
-    "link": "https://www.bbc.com/news/articles/c93n592320do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T19:48:31+00:00"
-  },
-  {
     "title": "Bitcoin does cultural diplomacy in a dive bar",
     "link": "https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar",
     "source": "The Verge",
@@ -192,18 +372,6 @@
     "published": "2025-12-22T19:36:01+00:00"
   },
   {
-    "title": "Ex-C.I.A. Chief Wants to Block Judge Cannon From Inquiry Pushed by Trump\u2019s Allies",
-    "link": "https://www.nytimes.com/2025/12/22/us/politics/trump-doj-investigation-judge-cannon-brennan-cia.html",
-    "source": "New York Times",
-    "published": "2025-12-22T19:31:45+00:00"
-  },
-  {
-    "title": "Cat poo row goes to high court after neighbours kick up a stink",
-    "link": "https://www.bbc.com/news/articles/c5yj3lkegm0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T19:29:48+00:00"
-  },
-  {
     "title": "Pirate library rips 86 million of the most popular songs on Spotify",
     "link": "https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download",
     "source": "The Verge",
@@ -216,64 +384,16 @@
     "published": "2025-12-22T19:21:53+00:00"
   },
   {
-    "title": "Barry Manilow Is Diagnosed With Lung Cancer",
-    "link": "https://www.nytimes.com/2025/12/22/arts/music/barry-manilow-lung-cancer-surgery.html",
-    "source": "New York Times",
-    "published": "2025-12-22T19:21:48+00:00"
-  },
-  {
-    "title": "Did Charlie Javice\u2019s 147-Member Legal Team Expense $529 in Gummy Bears?",
-    "link": "https://www.nytimes.com/2025/12/22/business/charlie-javice-jpmorgan-legal-bills.html",
-    "source": "New York Times",
-    "published": "2025-12-22T19:12:25+00:00"
-  },
-  {
     "title": "Indie Game Awards retracts Expedition 33 prizes due to generative AI",
     "link": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro",
     "source": "The Verge",
     "published": "2025-12-22T18:47:58+00:00"
   },
   {
-    "title": "Stone Roses star Mani's coffin carried by Liam Gallagher as hundreds attend funeral",
-    "link": "https://www.bbc.com/news/articles/cr5zj532002o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T18:46:14+00:00"
-  },
-  {
-    "title": "Larry Ellison Personally Guarantees Paramount Bid for Warner Bros.",
-    "link": "https://www.nytimes.com/2025/12/22/business/larry-ellison-paramount-warner-brothers-bid.html",
-    "source": "New York Times",
-    "published": "2025-12-22T18:34:46+00:00"
-  },
-  {
-    "title": "What Happened When I Asked ChatGPT to Solve an 800-Year-Old Italian Mystery",
-    "link": "https://www.nytimes.com/2025/12/22/opinion/ai-florence-baptistery.html",
-    "source": "New York Times",
-    "published": "2025-12-22T18:30:09+00:00"
-  },
-  {
     "title": "Post Office had deal with Fujitsu to fix Horizon errors 19 years ago",
     "link": "https://www.bbc.com/news/articles/cqlkx6n15ero?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-22T18:25:38+00:00"
-  },
-  {
-    "title": "Canal boats swallowed by giant hole as major incident declared",
-    "link": "https://www.bbc.com/news/articles/c2lvq0yk9dko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T18:14:50+00:00"
-  },
-  {
-    "title": "Cowboy builder jailed for 14 years for \u00a31.25m fraud",
-    "link": "https://www.bbc.com/news/articles/c5yj3rvgeg1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T18:10:04+00:00"
-  },
-  {
-    "title": "Two identical Banksy murals appear in London",
-    "link": "https://www.bbc.com/news/articles/c62d16q93x4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T18:05:04+00:00"
   },
   {
     "title": "Husband and five other men charged with sex offences against ex-wife",
@@ -286,12 +406,6 @@
     "link": "https://www.nytimes.com/2025/12/22/world/middleeast/assad-syria-enforcers-lives-now.html",
     "source": "New York Times",
     "published": "2025-12-22T17:40:24+00:00"
-  },
-  {
-    "title": "Barry Manilow to have surgery for 'cancerous spot' on lung",
-    "link": "https://www.bbc.com/news/articles/c62dvg1zn95o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T17:25:06+00:00"
   },
   {
     "title": "The Trump administration pauses wind projects off New England, New York and Virginia",
@@ -330,12 +444,6 @@
     "published": "2025-12-22T16:45:00+00:00"
   },
   {
-    "title": "How U.S. Defense Industry Dodged a Rare-Earth Shortage After China\u2019s Curbs",
-    "link": "https://www.nytimes.com/2025/12/22/business/defense-industry-rare-earth-restrictions-china.html",
-    "source": "New York Times",
-    "published": "2025-12-22T16:41:13+00:00"
-  },
-  {
     "title": "Dhaka stocks snap five-days losing streak amid buying appetite",
     "link": "https://www.tbsnews.net/economy/stocks/dhaka-stocks-snap-five-days-losing-streak-amid-buying-appetite-1316706",
     "source": "The Business Standard",
@@ -348,20 +456,14 @@
     "published": "2025-12-22T16:35:00+00:00"
   },
   {
-    "title": "Instacart scraps AI pricing tests that made some products more expensive",
-    "link": "https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight",
-    "source": "The Verge",
-    "published": "2025-12-22T16:32:17+00:00"
-  },
-  {
-    "title": "Russia wants Dhaka to reduce tensions domestically, also with India",
-    "link": "https://www.tbsnews.net/bangladesh/russia-wants-dhaka-reduce-tensions-domestically-also-india-1316701",
+    "title": "BNP will ensure economic democratisation if elected: Amir Khasru",
+    "link": "https://www.tbsnews.net/bangladesh/politics/bnp-will-ensure-economic-democratisation-if-elected-amir-khasru-1316696",
     "source": "The Business Standard",
     "published": "2025-12-22T16:30:00+00:00"
   },
   {
-    "title": "BNP will ensure economic democratisation if elected: Amir Khasru",
-    "link": "https://www.tbsnews.net/bangladesh/politics/bnp-will-ensure-economic-democratisation-if-elected-amir-khasru-1316696",
+    "title": "Russia wants Dhaka to reduce tensions domestically, also with India",
+    "link": "https://www.tbsnews.net/bangladesh/russia-wants-dhaka-reduce-tensions-domestically-also-india-1316701",
     "source": "The Business Standard",
     "published": "2025-12-22T16:30:00+00:00"
   },
@@ -372,40 +474,16 @@
     "published": "2025-12-22T16:14:34+00:00"
   },
   {
-    "title": "Chipwrecked",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud",
-    "source": "The Verge",
-    "published": "2025-12-22T16:00:00+00:00"
-  },
-  {
     "title": "NCP's labour wing launches probe over shooting of Motaleb Sikder",
     "link": "https://www.tbsnews.net/bangladesh/politics/ncps-labour-wing-launches-probe-over-shooting-motaleb-sikder-1316676",
     "source": "The Business Standard",
     "published": "2025-12-22T15:55:00+00:00"
   },
   {
-    "title": "New Trump envoy says he will serve to make Greenland part of US",
-    "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T15:49:12+00:00"
-  },
-  {
-    "title": "The Economy Survived 2025, But Many Americans Are Reeling",
-    "link": "https://www.nytimes.com/2025/12/22/business/economy-unemployment-wages-affordability.html",
-    "source": "New York Times",
-    "published": "2025-12-22T15:47:48+00:00"
-  },
-  {
     "title": "Unregulated 'Banglar Tesla' growth risks public health and economy: CPD study",
     "link": "https://www.tbsnews.net/economy/unregulated-banglar-tesla-growth-risks-public-health-and-economy-cpd-study-1316666",
     "source": "The Business Standard",
     "published": "2025-12-22T15:45:00+00:00"
-  },
-  {
-    "title": "Zendaya and Tom Holland in surprise curry house stop",
-    "link": "https://www.bbc.com/news/articles/c4g9j2wzg5qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T15:44:37+00:00"
   },
   {
     "title": "Shipbreaking deaths fall sharply in 2025, but accidents remain widespread: BILS",
@@ -486,30 +564,6 @@
     "published": "2025-12-22T14:20:00+00:00"
   },
   {
-    "title": "15 arrested over attack on Prothom Alo office sent to jail",
-    "link": "https://www.tbsnews.net/bangladesh/court/15-arrested-over-attack-prothom-alo-office-sent-jail-1316566",
-    "source": "The Business Standard",
-    "published": "2025-12-22T14:15:00+00:00"
-  },
-  {
-    "title": "Shipping Corporation reports record net profit of Tk306.56cr, plans fleet expansion",
-    "link": "https://www.tbsnews.net/economy/shipping-corporation-reports-record-net-profit-tk30656cr-plans-fleet-expansion-1316551",
-    "source": "The Business Standard",
-    "published": "2025-12-22T14:10:00+00:00"
-  },
-  {
-    "title": "Bangladesh suspends visa services in New Delhi, Shiliguri, Agartala",
-    "link": "https://www.tbsnews.net/bangladesh/visa-services-bangladesh-high-commission-delhi-temporarily-suspended-1316546",
-    "source": "The Business Standard",
-    "published": "2025-12-22T13:50:00+00:00"
-  },
-  {
-    "title": "Jimmy Kimmel to say 'fascism has had a great year' in Channel 4 Christmas message",
-    "link": "https://www.bbc.com/news/articles/cr4d9n13z0eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T13:46:23+00:00"
-  },
-  {
     "title": "CBS and CNN Are Being Sacrificed to Trump",
     "link": "https://www.theatlantic.com/ideas/2025/12/trump-paramount-netflix-cnn-cbs/685349/?utm_source=feed",
     "source": "The Atlantic",
@@ -522,22 +576,10 @@
     "published": "2025-12-22T13:00:00+00:00"
   },
   {
-    "title": "As Trump Clings to Tariffs, His Argentine Ally Is Opening Up to Trade",
-    "link": "https://www.nytimes.com/2025/12/22/world/americas/argentina-trade.html",
-    "source": "New York Times",
-    "published": "2025-12-22T12:59:57+00:00"
-  },
-  {
     "title": "DOJ releases more Epstein files. And, immigration court 'no-shows' surged, NPR finds",
     "link": "https://www.npr.org/2025/12/22/g-s1-103305/up-first-newsletter-us-venezuela-oil-tankers-epstein-files-immigration-court",
     "source": "NPR",
     "published": "2025-12-22T12:50:10+00:00"
-  },
-  {
-    "title": "Bondi gunmen 'meticulously' planned attack for months, police allege",
-    "link": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T12:32:58+00:00"
   },
   {
     "title": "There Were Two Charlie Kirks",
@@ -588,45 +630,9 @@
     "published": "2025-12-22T10:00:00+00:00"
   },
   {
-    "title": "How systemic failures turn state mental hospitals into prisons",
-    "link": "https://www.npr.org/sections/shots-health-news/2025/12/22/nx-s1-5644745/serious-mental-illness-psychosis-psychiatric-hospital-schizophrenia-crime-prison-ohio",
-    "source": "NPR",
-    "published": "2025-12-22T10:00:00+00:00"
-  },
-  {
-    "title": "Who's leading the race for the Golden Shoe?",
-    "link": "https://www.bbc.com/sport/football/articles/c2k42j72ld1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T09:18:48+00:00"
-  },
-  {
-    "title": "From Netflix hit to GCSEs - Adolescence star reflects on remarkable year",
-    "link": "https://www.bbc.com/news/articles/c3w7yy7ndgeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T07:41:07+00:00"
-  },
-  {
     "title": "'Still excited': Record breaking darts-pro aged 71 shares his secret to longevity",
     "link": "https://www.bbc.com/sport/darts/articles/cwyl9pz0wp5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-22T06:07:13+00:00"
-  },
-  {
-    "title": "\u201960 Minutes\u2019 Pulls Segment on Venezuelans Deported by Trump Administration, Drawing Criticism",
-    "link": "https://www.nytimes.com/2025/12/21/business/60-minutes-trump-bari-weiss.html",
-    "source": "New York Times",
-    "published": "2025-12-22T04:39:00+00:00"
-  },
-  {
-    "title": "Why the railways often seem to be in such chaos over Christmas",
-    "link": "https://www.bbc.com/news/articles/czdg795m5epo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-22T00:03:12+00:00"
-  },
-  {
-    "title": "Christopher Nolan's epic biopic starring Cillian Murphy",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m002p1fr?at_mid=8PiucSontB&at_campaign=Oppenheimer&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002p1fr&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Oppenheimer&at_bbc_team=BBC&at_creation=Film",
-    "source": "BBC News",
-    "published": "2025-12-21T23:52:18+00:00"
   }
 ]
