@@ -1,5 +1,17 @@
 [
   {
+    "title": "Intense Storm in Southern California Brings Heavy Rain and Forces Evacuations",
+    "link": "https://www.nytimes.com/2025/12/24/weather/rain-flooding-los-angeles-storm.html",
+    "source": "New York Times",
+    "published": "2025-12-24T23:11:42+00:00"
+  },
+  {
+    "title": "Officials discover a million more documents potentially related to Epstein case",
+    "link": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-24T22:55:25+00:00"
+  },
+  {
     "title": "Honduras Declares Nasry Asfura, Trump Ally, Winner of Presidential Election",
     "link": "https://www.nytimes.com/2025/12/24/world/americas/honduras-election-results-asfura.html",
     "source": "New York Times",
@@ -18,16 +30,10 @@
     "published": "2025-12-24T22:31:55+00:00"
   },
   {
-    "title": "Trump-backed candidate Nasry Asfura wins Honduras presidential election",
+    "title": "Trump-backed candidate wins in knife-edge Honduran election",
     "link": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-24T22:25:29+00:00"
-  },
-  {
-    "title": "Intense Storm in Southern California Brings Heavy Rain and Forces Evacuations",
-    "link": "https://www.nytimes.com/2025/12/24/weather/rain-flooding-los-angeles-storm.html",
-    "source": "New York Times",
-    "published": "2025-12-24T22:11:29+00:00"
   },
   {
     "title": "Take on our BBC Gameshows ultimate football quiz",
@@ -60,6 +66,12 @@
     "published": "2025-12-24T21:31:37+00:00"
   },
   {
+    "title": "Attempted murder arrest after boy, 14, stabbed",
+    "link": "https://www.bbc.com/news/articles/clyzq980q21o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-24T21:30:59+00:00"
+  },
+  {
     "title": "The Epstein File Drop Is Not About Justice",
     "link": "https://www.nytimes.com/2025/12/24/opinion/epstein-file-release-truth.html",
     "source": "New York Times",
@@ -70,12 +82,6 @@
     "link": "https://www.nytimes.com/2025/12/24/us/trump-harvard-letters-deal.html",
     "source": "New York Times",
     "published": "2025-12-24T21:09:01+00:00"
-  },
-  {
-    "title": "Officials discover a million more documents potentially related to Epstein case",
-    "link": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-24T20:58:26+00:00"
   },
   {
     "title": "Catherine and Charlotte perform piano duet for Christmas carol concert",
@@ -214,12 +220,6 @@
     "link": "https://www.tbsnews.net/bangladesh/bangladesh-bans-internet-shutdowns-restores-btrc-autonomy-under-amended-telecom-ordinance",
     "source": "The Business Standard",
     "published": "2025-12-24T16:30:00+00:00"
-  },
-  {
-    "title": "Two police officers killed in explosion in Moscow",
-    "link": "https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-24T16:28:22+00:00"
   },
   {
     "title": "IDRA scraps commission payments in non-life insurance sector",
@@ -592,23 +592,5 @@
     "link": "https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-24T00:03:08+00:00"
-  },
-  {
-    "title": "The Epstein Files Only Get Worse",
-    "link": "https://www.theatlantic.com/technology/2025/12/holiday-epstein-purgatory/685435/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-23T23:28:02+00:00"
-  },
-  {
-    "title": "Companies\u2019 \u2018Wrapped\u2019 Features Keep Getting Weirder",
-    "link": "https://www.theatlantic.com/newsletters/2025/12/companies-2025-year-in-review/685441/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2025-12-23T23:14:00+00:00"
-  },
-  {
-    "title": "Apple is going to allow third-party app stores in Brazil, too",
-    "link": "https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems",
-    "source": "The Verge",
-    "published": "2025-12-23T23:00:51+00:00"
   }
 ]
