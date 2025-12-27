@@ -1,9 +1,57 @@
 [
   {
+    "title": "Good Calls",
+    "link": "https://www.nytimes.com/2025/12/27/briefing/good-calls.html",
+    "source": "New York Times",
+    "published": "2025-12-27T11:16:16+00:00"
+  },
+  {
+    "title": "Ukraine Sees the Future of Naval Warfare. Trump Doesn\u2019t.",
+    "link": "https://www.theatlantic.com/ideas/2025/12/trump-navy-drones-ships/685445/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2025-12-27T11:00:00+00:00"
+  },
+  {
+    "title": "New Yorkers Wake Up to Snow, Though Not as Much as Forecast",
+    "link": "https://www.nytimes.com/2025/12/27/nyregion/new-york-city-snow-storm.html",
+    "source": "New York Times",
+    "published": "2025-12-27T10:58:39+00:00"
+  },
+  {
+    "title": "Treasury to cover Bayeux Tapestry for estimated \u00a3800m",
+    "link": "https://www.bbc.com/news/articles/c79x21wdlgeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-27T10:47:17+00:00"
+  },
+  {
+    "title": "Russia attacks Kyiv, killing 1 and wounding many ahead of Ukraine-US talks",
+    "link": "https://www.npr.org/2025/12/27/g-s1-103802/russia-attacks-kyiv-ahead-of-talks",
+    "source": "NPR",
+    "published": "2025-12-27T10:44:57+00:00"
+  },
+  {
     "title": "Fisheries adviser highlights export gaps, urges global compliance",
     "link": "https://www.tbsnews.net/bangladesh/fisheries-adviser-highlights-export-gaps-urges-global-compliance-1319961",
     "source": "The Business Standard",
     "published": "2025-12-27T10:35:00+00:00"
+  },
+  {
+    "title": "Navy detains 11 with boat smuggling diesel, cement to Myanmar",
+    "link": "https://www.tbsnews.net/bangladesh/crime/navy-detains-11-boat-smuggling-diesel-cement-myanmar-1319971",
+    "source": "The Business Standard",
+    "published": "2025-12-27T10:35:00+00:00"
+  },
+  {
+    "title": "Family cremates wrong body after hospital mistake",
+    "link": "https://www.bbc.com/news/articles/ce8q9y8z958o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-27T10:19:42+00:00"
+  },
+  {
+    "title": "Park Chan-wook and the Funny Thing About Stomach-Churning Horror",
+    "link": "https://www.nytimes.com/2025/12/27/movies/park-chan-wook-no-other-choice-korea.html",
+    "source": "New York Times",
+    "published": "2025-12-27T10:01:45+00:00"
   },
   {
     "title": "Myanmar is set to hold phased elections. Here's why they're being called a 'sham'",
@@ -12,16 +60,28 @@
     "published": "2025-12-27T10:01:00+00:00"
   },
   {
+    "title": "This Ukrainian Soldier Spent More Than a Year on the Front Line",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/ukraine-russia-frontline.html",
+    "source": "New York Times",
+    "published": "2025-12-27T10:00:31+00:00"
+  },
+  {
+    "title": "Trump\u2019s Second-Term Promises: What He\u2019s Done So Far on Immigration, Trade, DEI and More",
+    "link": "https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-actions.html",
+    "source": "New York Times",
+    "published": "2025-12-27T10:00:21+00:00"
+  },
+  {
+    "title": "How One Father Created an Organ Empire",
+    "link": "https://www.nytimes.com/2025/12/27/us/national-kidney-registry-paired-organ-donation.html",
+    "source": "New York Times",
+    "published": "2025-12-27T10:00:14+00:00"
+  },
+  {
     "title": "Blast in Keraniganj madrasa: Bomb-making materials seized",
     "link": "https://www.tbsnews.net/bangladesh/blast-keraniganj-madrasa-bomb-making-materials-seized-1319946",
     "source": "The Business Standard",
     "published": "2025-12-27T09:55:00+00:00"
-  },
-  {
-    "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks",
-    "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-27T09:52:05+00:00"
   },
   {
     "title": "Russia Pummels Kyiv Before Trump-Zelensky Meeting",
@@ -48,12 +108,6 @@
     "published": "2025-12-27T09:10:58+00:00"
   },
   {
-    "title": "Man and dog found dead after canal boat fire",
-    "link": "https://www.bbc.com/news/articles/cly0lvrz9jeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-27T08:55:10+00:00"
-  },
-  {
     "title": "Bangladesh shivers as first cold wave hits",
     "link": "https://www.tbsnews.net/bangladesh/bangladesh-shivers-first-cold-wave-hits-1319906",
     "source": "The Business Standard",
@@ -70,12 +124,6 @@
     "link": "https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-27T08:31:47+00:00"
-  },
-  {
-    "title": "Thailand and Cambodia Reach Cease-Fire in Brutal Border War",
-    "link": "https://www.nytimes.com/2025/12/26/world/asia/thailand-cambodia-cease-fire-border-war.html",
-    "source": "New York Times",
-    "published": "2025-12-27T08:28:27+00:00"
   },
   {
     "title": "Judge to hold hearing on whether Kilmar Abrego Garcia is being vindictively prosecuted",
@@ -100,12 +148,6 @@
     "link": "https://www.tbsnews.net/bangladesh/dhakas-water-atm-users-grow-booth-expansion-fails-keep-pace-1319746",
     "source": "The Business Standard",
     "published": "2025-12-27T07:30:00+00:00"
-  },
-  {
-    "title": "Snow Begins Falling in New York City, Threatening Havoc",
-    "link": "https://www.nytimes.com/2025/12/26/nyregion/new-york-winter-storm-what-to-know.html",
-    "source": "New York Times",
-    "published": "2025-12-27T07:09:13+00:00"
   },
   {
     "title": "Over 1.14 lakh students to sit for postponed DU Science unit test today",
@@ -150,18 +192,6 @@
     "published": "2025-12-27T05:47:47+00:00"
   },
   {
-    "title": "'Who needs sleep?' says embroiderer recreating the entire Bayeux Tapestry",
-    "link": "https://www.bbc.com/news/articles/crmd3dw98p3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-27T05:44:52+00:00"
-  },
-  {
-    "title": "Man Arrested in Fatal Stabbing of CVS Worker on Long Island",
-    "link": "https://www.nytimes.com/2025/12/26/nyregion/stabbing-cvs-christmas-lindenhurst.html",
-    "source": "New York Times",
-    "published": "2025-12-27T05:34:42+00:00"
-  },
-  {
     "title": "Karoline Leavitt Says She\u2019s Expecting Her Second Child",
     "link": "https://www.nytimes.com/2025/12/26/us/karoline-leavitt-pregnant-second-child.html",
     "source": "New York Times",
@@ -178,12 +208,6 @@
     "link": "https://www.bbc.com/news/articles/cz7nxzpvgj1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-27T05:20:50+00:00"
-  },
-  {
-    "title": "Before This Physicist Studied the Stars, He Was One",
-    "link": "https://www.nytimes.com/2025/12/27/world/europe/brian-cox-astronomy-profile.html",
-    "source": "New York Times",
-    "published": "2025-12-27T05:01:06+00:00"
   },
   {
     "title": "Fire breaks out on Cox's Bazar-St Martin tourist vessel, one crew member killed",
@@ -216,12 +240,6 @@
     "published": "2025-12-27T01:44:39+00:00"
   },
   {
-    "title": "Perry Bamonte, Guitarist and Keyboardist in the Cure, Dies at 65",
-    "link": "https://www.nytimes.com/2025/12/26/arts/music/perry-bamonte-dead.html",
-    "source": "New York Times",
-    "published": "2025-12-27T01:42:10+00:00"
-  },
-  {
     "title": "James concert cancelled after attack, vandalism at Faridpur Zilla School; at least 20 injured",
     "link": "https://www.tbsnews.net/bangladesh/james-concert-cancelled-after-attack-vandalism-faridpur-zilla-school-least-20-injured",
     "source": "The Business Standard",
@@ -240,22 +258,10 @@
     "published": "2025-12-27T01:36:28+00:00"
   },
   {
-    "title": "Trump\u2019s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
-    "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
-    "source": "New York Times",
-    "published": "2025-12-27T01:23:22+00:00"
-  },
-  {
     "title": "A paper plan to curb health treatment abroad",
     "link": "https://www.tbsnews.net/bangladesh/health/paper-plan-curb-health-treatment-abroad-1319666",
     "source": "The Business Standard",
     "published": "2025-12-27T01:20:00+00:00"
-  },
-  {
-    "title": "The Race to Save the Sacramento Mountains Checkerspot Butterfly",
-    "link": "https://www.nytimes.com/2025/12/26/climate/sacramento-mountains-checkerspot-butterfly.html",
-    "source": "New York Times",
-    "published": "2025-12-27T01:01:57+00:00"
   },
   {
     "title": "One general, one mathematician: The men competing for power in two African elections",
@@ -276,7 +282,7 @@
     "published": "2025-12-27T00:43:58+00:00"
   },
   {
-    "title": "From a dino superhighway to origins of fire-making: The incredible discoveries in 2025",
+    "title": "From gigantic Jurassic footprints to a rare planetary parade: This year's incredible discoveries",
     "link": "https://www.bbc.com/news/articles/c3v17ylvn57o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-27T00:42:00+00:00"
@@ -318,12 +324,6 @@
     "published": "2025-12-27T00:10:50+00:00"
   },
   {
-    "title": "Some G.O.P. Senators Join Democrats in Urging Trump to Adopt Hard Line With Putin",
-    "link": "https://www.nytimes.com/2025/12/26/us/politics/trump-putin-russia-senate-republicans.html",
-    "source": "New York Times",
-    "published": "2025-12-26T23:53:36+00:00"
-  },
-  {
     "title": "Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession",
     "link": "https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -352,12 +352,6 @@
     "link": "https://www.theatlantic.com/newsletters/2025/12/2025-top-10-ranking-katie-miller/685437/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2025-12-26T21:30:00+00:00"
-  },
-  {
-    "title": "What to Know About U.S. Military Action in Nigeria",
-    "link": "https://www.nytimes.com/2025/11/03/world/africa/trump-nigeria-military-christians.html",
-    "source": "New York Times",
-    "published": "2025-12-26T20:56:13+00:00"
   },
   {
     "title": "The Cure guitarist Perry Bamonte dies aged 65",
@@ -414,22 +408,10 @@
     "published": "2025-12-26T17:03:44+00:00"
   },
   {
-    "title": "Why Sears\u2019s Last Great Hope Was a Promise That Never Materialized",
-    "link": "https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html",
-    "source": "New York Times",
-    "published": "2025-12-26T16:25:26+00:00"
-  },
-  {
     "title": "Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off",
     "link": "https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off",
     "source": "The Verge",
     "published": "2025-12-26T16:08:50+00:00"
-  },
-  {
-    "title": "3-day Bangladesh Model United Nations kicks off, urging justice in energy transition",
-    "link": "https://www.tbsnews.net/events/3-day-bangladesh-model-united-nations-kicks-urging-justice-energy-transition-1319626",
-    "source": "The Business Standard",
-    "published": "2025-12-26T16:00:00+00:00"
   },
   {
     "title": "Google is letting some people change their @gmail address",
@@ -490,11 +472,5 @@
     "link": "https://www.npr.org/2025/12/26/g-s1-103724/up-first-newsletter-nigeria-isis-congress-holiday-spending",
     "source": "NPR",
     "published": "2025-12-26T11:48:56+00:00"
-  },
-  {
-    "title": "Should the U.S. model its vaccine policy on Denmark's? Experts say we're nothing alike",
-    "link": "https://www.npr.org/2025/12/26/nx-s1-5656214/childhood-vaccination-denmark-rfk-policy",
-    "source": "NPR",
-    "published": "2025-12-26T11:00:00+00:00"
   }
 ]
