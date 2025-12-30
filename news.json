@@ -1,5 +1,41 @@
 [
   {
+    "title": "Match of the Day",
+    "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-30T23:46:30+00:00"
+  },
+  {
+    "title": "Israel to bar 37 aid groups from Gaza",
+    "link": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-30T22:36:43+00:00"
+  },
+  {
+    "title": "6 Takeaways on the Unwinding U.S.-Ukraine Alliance",
+    "link": "https://www.nytimes.com/2025/12/30/world/europe/ukraine-us-russia-takeaways.html",
+    "source": "New York Times",
+    "published": "2025-12-30T22:16:56+00:00"
+  },
+  {
+    "title": "Gaza Aid Groups Face Suspensions Under New Israeli Rules",
+    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/gaza-aid-group-suspensions-israel.html",
+    "source": "New York Times",
+    "published": "2025-12-30T22:07:21+00:00"
+  },
+  {
+    "title": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html",
+    "source": "New York Times",
+    "published": "2025-12-30T21:50:43+00:00"
+  },
+  {
+    "title": "Why Does Trump Get Away With It?",
+    "link": "https://www.nytimes.com/2025/12/30/opinion/trump-pardons-republican-party.html",
+    "source": "New York Times",
+    "published": "2025-12-30T21:35:51+00:00"
+  },
+  {
     "title": "31 <em>Atlantic</em> Stories You Might Have Missed",
     "link": "https://www.theatlantic.com/newsletters/2025/12/atlantic-stories-you-might-have-missed/685440/?utm_source=feed",
     "source": "The Atlantic",
@@ -10,12 +46,6 @@
     "link": "https://www.npr.org/sections/shots-health-news/2025/12/30/nx-s1-5661508/flu-cdc-health",
     "source": "NPR",
     "published": "2025-12-30T21:20:37+00:00"
-  },
-  {
-    "title": "6 Takeaways on the Unwinding U.S.-Ukraine Alliance",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/ukraine-us-russia-takeaways.html",
-    "source": "New York Times",
-    "published": "2025-12-30T21:14:27+00:00"
   },
   {
     "title": "Man held after five people attacked in hospital",
@@ -42,18 +72,6 @@
     "published": "2025-12-30T21:06:24+00:00"
   },
   {
-    "title": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html",
-    "source": "New York Times",
-    "published": "2025-12-30T20:28:44+00:00"
-  },
-  {
-    "title": "Why Does Trump Get Away With It?",
-    "link": "https://www.nytimes.com/2025/12/30/opinion/trump-pardons-republican-party.html",
-    "source": "New York Times",
-    "published": "2025-12-30T20:22:05+00:00"
-  },
-  {
     "title": "The C.I.A. Strike on Venezuela: What to Know",
     "link": "https://www.nytimes.com/2025/12/30/us/politics/trump-venezuela-drone-strike-attack.html",
     "source": "New York Times",
@@ -72,22 +90,16 @@
     "published": "2025-12-30T19:40:19+00:00"
   },
   {
-    "title": "How Russia and Ukraine Are Fighting to Shape Trump\u2019s View of the War",
-    "link": "https://www.nytimes.com/2025/12/30/world/europe/russia-ukraine-trump-influence.html",
-    "source": "New York Times",
-    "published": "2025-12-30T19:21:43+00:00"
-  },
-  {
     "title": "Cheap Solar Is Transforming Lives and Economies Across Africa",
     "link": "https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html",
     "source": "New York Times",
     "published": "2025-12-30T19:18:16+00:00"
   },
   {
-    "title": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
-    "source": "New York Times",
-    "published": "2025-12-30T18:44:14+00:00"
+    "title": "More artists cancel Kennedy Center shows after Trump name change",
+    "link": "https://www.bbc.com/news/articles/c0r4wwplnd1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2025-12-30T18:46:44+00:00"
   },
   {
     "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
@@ -106,12 +118,6 @@
     "link": "https://www.bbc.com/news/articles/cvg13333lvko?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-30T18:23:55+00:00"
-  },
-  {
-    "title": "Family home devastated after toy catches fire on Christmas Day",
-    "link": "https://www.bbc.com/news/articles/c0q5q4z8777o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-30T18:03:44+00:00"
   },
   {
     "title": "Pensioner 'carried on roof of car' and killed in crash",
@@ -160,12 +166,6 @@
     "link": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-30T17:33:40+00:00"
-  },
-  {
-    "title": "Meta buys Chinese-founded AI start-up Manus",
-    "link": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-30T17:30:36+00:00"
   },
   {
     "title": "Home Ministry bars Bishwa Ijtema gatherings before national election",
@@ -468,12 +468,6 @@
     "published": "2025-12-30T11:00:00+00:00"
   },
   {
-    "title": "A sombre and sobering end to the year - Bunce on fatal crash",
-    "link": "https://www.bbc.com/sport/boxing/articles/cz949z07xxdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-30T10:59:03+00:00"
-  },
-  {
     "title": "Katherine Maher of NPR Has Come Out on Top Despite Battles With Trump and the CPB",
     "link": "https://www.nytimes.com/2025/12/30/business/npr-katherine-maher.html",
     "source": "New York Times",
@@ -484,12 +478,6 @@
     "link": "https://www.npr.org/2025/12/30/g-s1-103922/judge-complaint-clerk-legal-accountability",
     "source": "NPR",
     "published": "2025-12-30T10:00:00+00:00"
-  },
-  {
-    "title": "Mamdani Promised Universal Child Care. How Long Could It Take?",
-    "link": "https://www.nytimes.com/2025/12/30/nyregion/mamdani-nyc-mayor-free-childcare.html",
-    "source": "New York Times",
-    "published": "2025-12-30T08:00:11+00:00"
   },
   {
     "title": "Anthony Joshua in stable condition after Nigeria car crash that killed two friends",
@@ -526,11 +514,5 @@
     "link": "https://www.bbc.com/news/articles/cz68944djpqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2025-12-30T00:05:40+00:00"
-  },
-  {
-    "title": "Cynthia Erivo's journey from nativity play solo to MBE",
-    "link": "https://www.bbc.com/news/articles/cdj8j94w04po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2025-12-29T22:30:25+00:00"
   }
 ]
