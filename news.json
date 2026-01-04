@@ -1,13 +1,73 @@
 [
   {
+    "title": "Man who died trying to save people from sea named",
+    "link": "https://www.bbc.com/news/articles/cy05lkr9pzjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-04T13:20:22+00:00"
+  },
+  {
+    "title": "The Venezuela Takeover",
+    "link": "https://www.nytimes.com/2026/01/04/briefing/the-venezuela-takeover.html",
+    "source": "New York Times",
+    "published": "2026-01-04T13:09:42+00:00"
+  },
+  {
+    "title": "Jackery\u2019s solar-powered Gazebo is a good DIY idea",
+    "link": "https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea",
+    "source": "The Verge",
+    "published": "2026-01-04T13:00:00+00:00"
+  },
+  {
+    "title": "Govee\u2019s latest smart lights can make your ceiling more interesting",
+    "link": "https://www.theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs",
+    "source": "The Verge",
+    "published": "2026-01-04T13:00:00+00:00"
+  },
+  {
+    "title": "Iftekhar Alam elected BMBA president, Sumit Podder secretary general",
+    "link": "https://www.tbsnews.net/bangladesh/iftekhar-alam-elected-bmba-president-sumit-podder-secretary-general-1326271",
+    "source": "The Business Standard",
+    "published": "2026-01-04T12:55:00+00:00"
+  },
+  {
+    "title": "X Ceramics outlines expansion, Italian heritage vision at Dealer Meet",
+    "link": "https://www.tbsnews.net/bangladesh/x-ceramics-outlines-expansion-italian-heritage-vision-dealer-meet-1326276",
+    "source": "The Business Standard",
+    "published": "2026-01-04T12:55:00+00:00"
+  },
+  {
+    "title": "Snow and ice warnings issued ahead of Monday return to work",
+    "link": "https://www.bbc.com/weather/articles/c89qvjwdk7jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-04T12:40:29+00:00"
+  },
+  {
+    "title": "Ambassador Kimberly Guilfoyle, the Talk of Athens",
+    "link": "https://www.nytimes.com/2026/01/04/world/europe/kimberly-guilfoyle-trump-greece-ambassador.html",
+    "source": "New York Times",
+    "published": "2026-01-04T12:33:08+00:00"
+  },
+  {
+    "title": "Bangladesh exports continue to fall, December shipments down 14%",
+    "link": "https://www.tbsnews.net/economy/bangladesh-exports-continue-fall-december-shipments-down-14-1326246",
+    "source": "The Business Standard",
+    "published": "2026-01-04T12:25:00+00:00"
+  },
+  {
+    "title": "ICT rejects Anisul-Salman's plea to test call recordings by foreign experts",
+    "link": "https://www.tbsnews.net/bangladesh/ict-rejects-anisul-salmans-plea-test-call-recordings-foreign-experts-1326256",
+    "source": "The Business Standard",
+    "published": "2026-01-04T12:25:00+00:00"
+  },
+  {
     "title": "Ukrainian Politics Has Reawakened. Zelensky Must Tread Carefully.",
     "link": "https://www.nytimes.com/2026/01/04/world/europe/ukraine-politics-cabinet-zelensky.html",
     "source": "New York Times",
     "published": "2026-01-04T12:20:35+00:00"
   },
   {
-    "title": "Crimes against humanity: ICT prosecution files formal charge against Ziaul Ahsan",
-    "link": "https://www.tbsnews.net/bangladesh/court/crimes-against-humanity-ict-prosecution-files-formal-charge-against-ziaul-ahsan",
+    "title": "Crimes against humanity: ICT prosecution pleads to put Ziaul Ahsan on trial",
+    "link": "https://www.tbsnews.net/bangladesh/court/crimes-against-humanity-ict-prosecution-pleads-put-ziaul-ahsan-trial-1326236",
     "source": "The Business Standard",
     "published": "2026-01-04T12:20:00+00:00"
   },
@@ -120,14 +180,14 @@
     "published": "2026-01-04T11:17:51+00:00"
   },
   {
-    "title": "No guarantee consumers will get LPG at govt-set price: BERC chairman",
-    "link": "https://www.tbsnews.net/bangladesh/energy/no-guarantee-consumers-will-get-lpg-govt-set-price-berc-chairman-1326161",
+    "title": "Bangladesh Bank rolls out risk-based supervision to rebuild depositor confidence",
+    "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-rolls-out-risk-based-supervision-rebuild-depositor-confidence",
     "source": "The Business Standard",
     "published": "2026-01-04T11:15:00+00:00"
   },
   {
-    "title": "Bangladesh Bank rolls out risk-based supervision to rebuild depositor confidence",
-    "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-rolls-out-risk-based-supervision-rebuild-depositor-confidence",
+    "title": "No guarantee consumers will get LPG at govt-set price: BERC chairman",
+    "link": "https://www.tbsnews.net/bangladesh/energy/no-guarantee-consumers-will-get-lpg-govt-set-price-berc-chairman-1326161",
     "source": "The Business Standard",
     "published": "2026-01-04T11:15:00+00:00"
   },
@@ -138,10 +198,16 @@
     "published": "2026-01-04T11:10:00+00:00"
   },
   {
-    "title": "503 killed in Bangladesh road accidents in December: RSF report",
+    "title": "Road accidents in Bangladesh remain alarmingly high, 503 killed in December 2025",
     "link": "https://www.tbsnews.net/bangladesh/503-killed-bangladesh-road-accidents-december-rsf-report-1326131",
     "source": "The Business Standard",
     "published": "2026-01-04T11:05:00+00:00"
+  },
+  {
+    "title": "Inside the U.S. Operation to Oust Venezuela\u2019s President",
+    "link": "https://www.nytimes.com/2026/01/04/podcasts/the-daily/trump-maduro-venezuela.html",
+    "source": "New York Times",
+    "published": "2026-01-04T11:00:10+00:00"
   },
   {
     "title": "Navy intercepts boat off St Martin's, detains 273 attempting illegal sea journey to Malaysia",
@@ -198,14 +264,14 @@
     "published": "2026-01-04T10:00:00+00:00"
   },
   {
-    "title": "Trump tried to bury evidence of the Jan. 6 riot. NPR's archive preserves the facts",
-    "link": "https://www.npr.org/2026/01/04/g-s1-102891/jan-6-archive",
+    "title": "Trump wants U.S. oil companies in Venezuela. Here's what to know",
+    "link": "https://www.npr.org/2026/01/04/nx-s1-5665795/trump-us-oil-companies-venezuela",
     "source": "NPR",
     "published": "2026-01-04T10:00:00+00:00"
   },
   {
-    "title": "Trump wants U.S. oil companies in Venezuela. Here's what to know",
-    "link": "https://www.npr.org/2026/01/04/nx-s1-5665795/trump-us-oil-companies-venezuela",
+    "title": "Trump tried to bury evidence of the Jan. 6 riot. NPR's archive preserves the facts",
+    "link": "https://www.npr.org/2026/01/04/g-s1-102891/jan-6-archive",
     "source": "NPR",
     "published": "2026-01-04T10:00:00+00:00"
   },
@@ -216,22 +282,10 @@
     "published": "2026-01-04T09:49:05+00:00"
   },
   {
-    "title": "Brigitte Bardot Foundation issues warning about scam memorabilia",
-    "link": "https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T09:39:42+00:00"
-  },
-  {
     "title": "Court bans travel of additional SP Zakaria Rahman amid ACC probe into PSC question leak, money laundering",
     "link": "https://www.tbsnews.net/bangladesh/court/court-bans-travel-additional-sp-zakaria-rahman-amid-acc-probe-psc-question-leak",
     "source": "The Business Standard",
     "published": "2026-01-04T09:35:00+00:00"
-  },
-  {
-    "title": "No nomination papers declared valid in Faridpur-1 seat after scrutiny",
-    "link": "https://www.tbsnews.net/bangladesh/no-nomination-papers-declared-valid-faridpur-1-seat-after-scrutiny-1326041",
-    "source": "The Business Standard",
-    "published": "2026-01-04T09:10:00+00:00"
   },
   {
     "title": "Binned sausage rolls served to rail passengers",
@@ -240,34 +294,10 @@
     "published": "2026-01-04T08:55:30+00:00"
   },
   {
-    "title": "India's transparency body refuses to disclose exporter-wise limestone trade data with Bangladesh",
-    "link": "https://www.tbsnews.net/world/south-asia/indias-transparency-body-refuses-disclose-exporter-wise-limestone-trade-data",
-    "source": "The Business Standard",
-    "published": "2026-01-04T08:55:00+00:00"
-  },
-  {
-    "title": "Security tightened along Benapole border after BNP leader's killing",
-    "link": "https://www.tbsnews.net/bangladesh/security-tightened-along-benapole-border-after-bnp-leaders-killing-1326001",
-    "source": "The Business Standard",
-    "published": "2026-01-04T08:50:00+00:00"
-  },
-  {
-    "title": "New ordinance sparks concern among travel agencies",
-    "link": "https://www.tbsnews.net/bangladesh/new-ordinance-sparks-concern-among-travel-agencies-1325976",
-    "source": "The Business Standard",
-    "published": "2026-01-04T08:35:00+00:00"
-  },
-  {
     "title": "Subway and Bus Fare Rises to $3 in New York City on Sunday",
     "link": "https://www.nytimes.com/2026/01/04/nyregion/nyc-subway-bus-fare-increase.html",
     "source": "New York Times",
     "published": "2026-01-04T08:00:16+00:00"
-  },
-  {
-    "title": "Ambassador Kimberly Guilfoyle, the Talk of Athens",
-    "link": "https://www.nytimes.com/2026/01/04/world/europe/kimberly-guilfoyle-trump-greece-ambassador.html",
-    "source": "New York Times",
-    "published": "2026-01-04T08:00:08+00:00"
   },
   {
     "title": "How to fix frozen water pipes and how to deal with burst ones",
@@ -294,12 +324,6 @@
     "published": "2026-01-04T06:38:49+00:00"
   },
   {
-    "title": "Weather curtails England's strong start in Sydney",
-    "link": "https://www.bbc.com/sport/cricket/articles/clygvd09g1vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T06:15:17+00:00"
-  },
-  {
     "title": "'Deeply shocked': World leaders react to US attack on Venezuela",
     "link": "https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -309,7 +333,7 @@
     "title": "This Is What Venezuelans Really Want",
     "link": "https://www.nytimes.com/2026/01/04/opinion/venezuela-maduro-trump-people.html",
     "source": "New York Times",
-    "published": "2026-01-04T06:00:04+00:00"
+    "published": "2026-01-04T06:00:05+00:00"
   },
   {
     "title": "Venezuelans wonder who's in charge as Trump claims contact with Maduro's deputy",
@@ -502,17 +526,5 @@
     "link": "https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter",
     "source": "The Verge",
     "published": "2026-01-03T14:00:00+00:00"
-  },
-  {
-    "title": "CES 2026: all the news, gadgets, and innovations from the biggest tech show",
-    "link": "https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements",
-    "source": "The Verge",
-    "published": "2026-01-03T13:00:00+00:00"
-  },
-  {
-    "title": "Trump\u2019s Risky War in Venezuela",
-    "link": "https://www.theatlantic.com/international/2026/01/trumps-risky-war-in-venezuela/685485/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-03T12:57:00+00:00"
   }
 ]
