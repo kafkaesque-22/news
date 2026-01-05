@@ -1,9 +1,165 @@
 [
   {
+    "title": "Withings thinks of its latest smart scale as a \u2018longevity station\u2019",
+    "link": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health",
+    "source": "The Verge",
+    "published": "2026-01-05T01:00:00+00:00"
+  },
+  {
+    "title": "The Shure MV88 USB-C stereo mic mounts directly to your phone",
+    "link": "https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026",
+    "source": "The Verge",
+    "published": "2026-01-05T01:00:00+00:00"
+  },
+  {
+    "title": "RGB is the next big thing in OLED gaming monitors",
+    "link": "https://www.theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026",
+    "source": "The Verge",
+    "published": "2026-01-05T01:00:00+00:00"
+  },
+  {
+    "title": "Police identify all 40 victims of Swiss bar fire",
+    "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:53:59+00:00"
+  },
+  {
+    "title": "The Papers: 'Fresh pressure on Venezuela' and Starmer's 'Brexit betrayal'",
+    "link": "https://www.bbc.com/news/articles/c70l84j43dko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:36:50+00:00"
+  },
+  {
+    "title": "Teen girl educated in UK confirmed to have died in Swiss bar fire",
+    "link": "https://www.bbc.com/news/articles/cwy8p13ezdxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:34:50+00:00"
+  },
+  {
+    "title": "South Korea's Lee Jae Myung to meet China's Xi in reset of relations",
+    "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:13:58+00:00"
+  },
+  {
+    "title": "Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery",
+    "link": "https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:12:35+00:00"
+  },
+  {
+    "title": "The myth of willpower - and why some people struggle to lose weight more than others",
+    "link": "https://www.bbc.com/news/articles/c2084q9079po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:03:19+00:00"
+  },
+  {
+    "title": "Steve Coogan on his Roy Keane film - and his part in Posh and Becks' first meeting",
+    "link": "https://www.bbc.com/news/articles/ckgzewy42pdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:02:40+00:00"
+  },
+  {
+    "title": "The French university where spies go for training",
+    "link": "https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:02:00+00:00"
+  },
+  {
+    "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
+    "link": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:01:31+00:00"
+  },
+  {
+    "title": "Van Tulleken brothers: The three wellness issues we've stopped worrying about",
+    "link": "https://www.bbc.com/news/articles/ckgklkngn1qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:01:24+00:00"
+  },
+  {
+    "title": "'How do I stop my 12-year-old from vaping?'",
+    "link": "https://www.bbc.com/news/articles/c4g30kx8kn9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-05T00:00:11+00:00"
+  },
+  {
+    "title": "Mammotion\u2019s flagship robot lawnmower now uses lidar to map your yard",
+    "link": "https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026",
+    "source": "The Verge",
+    "published": "2026-01-05T00:00:00+00:00"
+  },
+  {
+    "title": "Lockin\u2019s new vein-scanning smart lock has a video doorbell and recharges wirelessly",
+    "link": "https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell",
+    "source": "The Verge",
+    "published": "2026-01-05T00:00:00+00:00"
+  },
+  {
+    "title": "The Mui Board will support mmWave sleep tracking and gesture control",
+    "link": "https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control",
+    "source": "The Verge",
+    "published": "2026-01-05T00:00:00+00:00"
+  },
+  {
+    "title": "Black market medications warning as millions of pills seized",
+    "link": "https://www.bbc.com/news/articles/cdrzxvvg13jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-04T23:59:56+00:00"
+  },
+  {
+    "title": "We lived in fear of meeting killers, say victims' families",
+    "link": "https://www.bbc.com/news/articles/cgjnze79881o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-04T23:59:38+00:00"
+  },
+  {
+    "title": "Maduro and His Wife to Be Arraigned in Manhattan Federal Court",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-trial-nyc-sdny.html",
+    "source": "New York Times",
+    "published": "2026-01-04T23:58:42+00:00"
+  },
+  {
+    "title": "Can Maduro's trusted lieutenant now work for Trump?",
+    "link": "https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-04T23:47:35+00:00"
+  },
+  {
+    "title": "Rubio Stresses U.S. Plan to Coerce Venezuela Rather Than Govern It",
+    "link": "https://www.nytimes.com/2026/01/04/us/politics/rubio-military-quarantine-venezuela-oil.html",
+    "source": "New York Times",
+    "published": "2026-01-04T23:44:46+00:00"
+  },
+  {
+    "title": "Miami mayor calls for Trump to 'immediately' reinstate TPS for Venezuelans",
+    "link": "https://www.npr.org/2026/01/04/nx-s1-5666340/venezuela-nicolas-maduro-venezuelans-asylum-seekers-refugee",
+    "source": "NPR",
+    "published": "2026-01-04T23:33:13+00:00"
+  },
+  {
+    "title": "Robert Heide, Angsty Playwright and Warhol Collaborator, Dies at 91",
+    "link": "https://www.nytimes.com/2026/01/04/obituaries/robert-heide-dead.html",
+    "source": "New York Times",
+    "published": "2026-01-04T23:26:17+00:00"
+  },
+  {
+    "title": "South Korea's 'movie of the year' is an indie story about a teen's trauma",
+    "link": "https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-04T23:15:58+00:00"
+  },
+  {
     "title": "Nicol\u00e1s Maduro will appear in U.S. federal court on Monday",
     "link": "https://www.npr.org/2026/01/04/nx-s1-5666351/nicolas-maduro-new-york-court-charges",
     "source": "NPR",
     "published": "2026-01-04T23:06:21+00:00"
+  },
+  {
+    "title": "Winter Storms Ease Drought in California, for Now",
+    "link": "https://www.nytimes.com/2026/01/04/us/winter-storms-drought-california.html",
+    "source": "New York Times",
+    "published": "2026-01-04T23:03:47+00:00"
   },
   {
     "title": "The Venezuela I Know",
@@ -18,10 +174,10 @@
     "published": "2026-01-04T22:55:39+00:00"
   },
   {
-    "title": "Rubio Stresses U.S. Plan to Coerce Venezuela Rather Than Govern It",
-    "link": "https://www.nytimes.com/2026/01/04/us/politics/rubio-military-quarantine-venezuela-oil.html",
+    "title": "Days After U.S. Strikes in Nigeria, Gunmen Kill Dozens of Villagers",
+    "link": "https://www.nytimes.com/2026/01/04/world/africa/nigeria-killings-niger-state.html",
     "source": "New York Times",
-    "published": "2026-01-04T22:49:16+00:00"
+    "published": "2026-01-04T22:46:57+00:00"
   },
   {
     "title": "Faisal Islam: What's behind PM's notable shift on closer ties to Europe?",
@@ -66,12 +222,6 @@
     "published": "2026-01-04T21:30:04+00:00"
   },
   {
-    "title": "Who's in charge of Venezuela and what happens next?",
-    "link": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T21:27:12+00:00"
-  },
-  {
     "title": "Auschwitz survivor Eva Schloss dies aged 96 as King leads tributes",
     "link": "https://www.bbc.com/news/articles/c5y45yxjn5ro?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -96,34 +246,22 @@
     "published": "2026-01-04T20:04:30+00:00"
   },
   {
-    "title": "Police identify all 40 victims of Swiss bar fire",
-    "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T20:01:40+00:00"
-  },
-  {
     "title": "Aliro arrives \u2013 the smart lock standard is set to launch this year",
     "link": "https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc",
     "source": "The Verge",
     "published": "2026-01-04T20:00:13+00:00"
   },
   {
-    "title": "Rangers player charged over crash hours after Old Firm game",
-    "link": "https://www.bbc.com/news/articles/c301n35pdplo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T19:18:01+00:00"
-  },
-  {
-    "title": "Can Maduro's trusted lieutenant now work for Trump?",
-    "link": "https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T19:13:45+00:00"
-  },
-  {
     "title": "LG\u00a0says its\u00a0CLOiD home robot will be folding laundry and making breakfast at CES",
     "link": "https://www.theverge.com/tech/854082/lg-cloid-home-robot-fold-laundry-ces",
     "source": "The Verge",
     "published": "2026-01-04T19:13:01+00:00"
+  },
+  {
+    "title": "Behind on Student Loans? Here\u2019s What to Do Now for the New Year",
+    "link": "https://www.nytimes.com/2026/01/02/business/student-loan-debt-save-plan.html",
+    "source": "New York Times",
+    "published": "2026-01-04T19:09:46+00:00"
   },
   {
     "title": "For Mamdani, a Break With the President Just Three Days Into His New Job",
@@ -138,12 +276,6 @@
     "published": "2026-01-04T19:05:00+00:00"
   },
   {
-    "title": "Who is Cilia Flores, Venezuela's first lady captured by the US?",
-    "link": "https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T19:01:02+00:00"
-  },
-  {
     "title": "One arrested over lawyer beaten to death in Bashundhara",
     "link": "https://www.tbsnews.net/bangladesh/one-arrested-over-lawyer-beaten-death-bashundhara-1326541",
     "source": "The Business Standard",
@@ -154,6 +286,12 @@
     "link": "https://www.tbsnews.net/bangladesh/energy/vat-relief-lower-interest-rates-easier-lc-processing-agreed-ease-lpg-crisis",
     "source": "The Business Standard",
     "published": "2026-01-04T18:50:00+00:00"
+  },
+  {
+    "title": "China\u2019s Russian Town Has Log Cabins and Cyrillic Signs, but No Russians",
+    "link": "https://www.nytimes.com/2026/01/04/world/asia/china-russia-xi-putin.html",
+    "source": "New York Times",
+    "published": "2026-01-04T18:45:34+00:00"
   },
   {
     "title": "Activist group says it was behind Berlin fire that cut power to thousands",
@@ -198,12 +336,6 @@
     "published": "2026-01-04T18:05:10+00:00"
   },
   {
-    "title": "Subway and Bus Fare Rises to $3 in New York City on Sunday",
-    "link": "https://www.nytimes.com/2026/01/04/nyregion/nyc-subway-bus-fare-increase.html",
-    "source": "New York Times",
-    "published": "2026-01-04T17:43:22+00:00"
-  },
-  {
     "title": "President Trump Totally Meant to Ask Congress Before Attacking Venezuela",
     "link": "https://www.theatlantic.com/newsletters/2026/01/trump-venezuela-congress-approval/685498/?utm_source=feed",
     "source": "The Atlantic",
@@ -238,48 +370,6 @@
     "link": "https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch",
     "source": "The Verge",
     "published": "2026-01-04T17:00:00+00:00"
-  },
-  {
-    "title": "Belkin\u2019s new HDMI adapter wirelessly connects to screens over 130 feet away",
-    "link": "https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play",
-    "source": "The Verge",
-    "published": "2026-01-04T17:00:00+00:00"
-  },
-  {
-    "title": "Plaud updates the NotePin with a button",
-    "link": "https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces",
-    "source": "The Verge",
-    "published": "2026-01-04T17:00:00+00:00"
-  },
-  {
-    "title": "Ukrainian Politics Has Reawakened. Zelensky Must Tread Carefully.",
-    "link": "https://www.nytimes.com/2026/01/04/world/europe/ukraine-politics-cabinet-zelensky.html",
-    "source": "New York Times",
-    "published": "2026-01-04T16:57:12+00:00"
-  },
-  {
-    "title": "SwitchBot says its humanoid household robot can do your laundry",
-    "link": "https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026",
-    "source": "The Verge",
-    "published": "2026-01-04T16:45:00+00:00"
-  },
-  {
-    "title": "You can unlock SwitchBot\u2019s first deadbolt smart lock with your face",
-    "link": "https://www.theverge.com/tech/852978/switchbot-lock-vision-deadbolt-facial-recognition",
-    "source": "The Verge",
-    "published": "2026-01-04T16:45:00+00:00"
-  },
-  {
-    "title": "SwitchBot\u2019s new E Ink display seems great for weather nerds",
-    "link": "https://www.theverge.com/news/853042/switchbot-weather-station-e-ink-screen",
-    "source": "The Verge",
-    "published": "2026-01-04T16:45:00+00:00"
-  },
-  {
-    "title": "SwitchBot\u2019s AI audio recorder is a \u2018second brain\u2019 for memories",
-    "link": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement",
-    "source": "The Verge",
-    "published": "2026-01-04T16:45:00+00:00"
   },
   {
     "title": "Inside Mamdani\u2019s Decision to Revoke Executive Orders That Backed Israel",
@@ -334,12 +424,6 @@
     "link": "https://www.npr.org/2026/01/04/nx-s1-5666246/trump-invasion-venezuela-opposition",
     "source": "NPR",
     "published": "2026-01-04T15:56:27+00:00"
-  },
-  {
-    "title": "Junk food advert ban set to come into force",
-    "link": "https://www.bbc.com/news/articles/cq5y2vzlyldo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T15:45:59+00:00"
   },
   {
     "title": "Persistently high NPLs on bank balance sheets threaten economic growth: Economists",
@@ -402,22 +486,10 @@
     "published": "2026-01-04T14:05:00+00:00"
   },
   {
-    "title": "Hunt for two prisoners continues as third is charged",
-    "link": "https://www.bbc.com/news/articles/ce8gy39rezzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T13:57:22+00:00"
-  },
-  {
     "title": "BNP to focus on security, energy, lending rates if voted to power, Tarique tells business leaders",
     "link": "https://www.tbsnews.net/bangladesh/politics/top-business-leaders-meet-bnp-acting-chairman-tarique-rahman-1326381",
     "source": "The Business Standard",
     "published": "2026-01-04T13:40:00+00:00"
-  },
-  {
-    "title": "Anthony Joshua posts first picture since fatal crash in poignant tribute",
-    "link": "https://www.bbc.com/sport/boxing/articles/cx2klm8yzzjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T13:33:37+00:00"
   },
   {
     "title": "Technological measures to be taken to reduce case backlog: Chief Justice Zubayer",
@@ -442,12 +514,6 @@
     "link": "https://www.nytimes.com/2026/01/04/world/europe/kimberly-guilfoyle-trump-greece-ambassador.html",
     "source": "New York Times",
     "published": "2026-01-04T12:33:08+00:00"
-  },
-  {
-    "title": "Jesy Nelson told her twin babies may 'never walk'",
-    "link": "https://www.bbc.com/news/articles/cql4rwee5p3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T12:09:08+00:00"
   },
   {
     "title": "Want to Have a Better Year? Just Dance.",
@@ -480,38 +546,20 @@
     "published": "2026-01-04T11:17:51+00:00"
   },
   {
-    "title": "Inside the U.S. Operation to Oust Venezuela\u2019s President",
-    "link": "https://www.nytimes.com/2026/01/04/podcasts/the-daily/trump-maduro-venezuela.html",
-    "source": "New York Times",
-    "published": "2026-01-04T11:00:10+00:00"
-  },
-  {
-    "title": "'I can't believe it' - Joy and uncertainty in Florida's 'Little Venezuela'",
-    "link": "https://www.bbc.com/news/articles/clygv0pd26eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T10:35:43+00:00"
-  },
-  {
-    "title": "Wicked composer latest to cancel Kennedy Center gig after Trump name change",
-    "link": "https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T10:02:47+00:00"
-  },
-  {
     "title": "Colleen Keating, CEO of Planet Fitness, on Gen Z and Strength Training",
     "link": "https://www.nytimes.com/2026/01/04/business/more-people-are-lifting-weights-its-changing-gym-culture.html",
     "source": "New York Times",
     "published": "2026-01-04T10:00:39+00:00"
   },
   {
-    "title": "A tale of two U.S. interventions and why Venezuela is not Panama 2.0",
-    "link": "https://www.npr.org/2026/01/04/nx-s1-5665800/u-s-interventions-venezuela-panama",
+    "title": "Trump tried to bury evidence of the Jan. 6 riot. NPR's archive preserves the facts",
+    "link": "https://www.npr.org/2026/01/04/g-s1-102891/jan-6-archive",
     "source": "NPR",
     "published": "2026-01-04T10:00:00+00:00"
   },
   {
-    "title": "Trump tried to bury evidence of the Jan. 6 riot. NPR's archive preserves the facts",
-    "link": "https://www.npr.org/2026/01/04/g-s1-102891/jan-6-archive",
+    "title": "A tale of two U.S. interventions and why Venezuela is not Panama 2.0",
+    "link": "https://www.npr.org/2026/01/04/nx-s1-5665800/u-s-interventions-venezuela-panama",
     "source": "NPR",
     "published": "2026-01-04T10:00:00+00:00"
   },
@@ -522,45 +570,9 @@
     "published": "2026-01-04T10:00:00+00:00"
   },
   {
-    "title": "How to look after dogs, cats and other pets in cold weather",
-    "link": "https://www.bbc.com/news/articles/ckgk7zx7vzko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T05:26:07+00:00"
-  },
-  {
-    "title": "Venezuela opposition in limbo as the world wonders who is in charge",
-    "link": "https://www.npr.org/2026/01/04/g-s1-104439/venezuelans-wonder-who-in-charge",
-    "source": "NPR",
-    "published": "2026-01-04T05:19:41+00:00"
-  },
-  {
     "title": "Even Close Allies Are Asking Why Trump Wants to Run Venezuela",
     "link": "https://www.theatlantic.com/national-security/2026/01/trump-nicolas-maduro-venezuela/685493/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-04T03:03:32+00:00"
-  },
-  {
-    "title": "Dreading going back to work? How to ease the post-Christmas return",
-    "link": "https://www.bbc.com/news/articles/c7097jp00pno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T00:06:54+00:00"
-  },
-  {
-    "title": "How Is Trump Planning to \u2018Run\u2019 Venezuela?",
-    "link": "https://www.theatlantic.com/podcasts/2026/01/david-frum-show-bonus-venezuela/685492/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-04T00:04:28+00:00"
-  },
-  {
-    "title": "MPs and peers face expensive choices in 2026 over crumbling Parliament",
-    "link": "https://www.bbc.com/news/articles/c5yqlpx4gp3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-04T00:01:15+00:00"
-  },
-  {
-    "title": "What Role Does \u2018Wrath\u2019 Play in American Justice?",
-    "link": "https://www.theatlantic.com/ideas/2026/01/wrath-justice-bondi-maduro/685489/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-03T23:52:16+00:00"
   }
 ]
