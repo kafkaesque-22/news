@@ -1,27 +1,99 @@
 [
   {
+    "title": "Match of the Day",
+    "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T00:10:50+00:00"
+  },
+  {
     "title": "Venezuela Live Updates: U.S. Forces Seize Two Tankers; Rubio Lays Out Plan for American Control",
     "link": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump",
     "source": "New York Times",
-    "published": "2026-01-07T22:08:59+00:00"
+    "published": "2026-01-07T23:11:15+00:00"
+  },
+  {
+    "title": "Yemen Separatist Leader Refuses to Attend Talks, Deepening Saudi Arabia-UAE Clash",
+    "link": "https://www.nytimes.com/2026/01/07/world/middleeast/yemen-separatist-leader-zubaidi-saudi-arabia-uae.html",
+    "source": "New York Times",
+    "published": "2026-01-07T23:09:26+00:00"
+  },
+  {
+    "title": "Bluetti now charges power stations at up to 1200W in your car",
+    "link": "https://www.theverge.com/tech/842308/bluetti-now-charges-power-stations-at-up-to-1200w-in-your-car",
+    "source": "The Verge",
+    "published": "2026-01-07T23:00:00+00:00"
+  },
+  {
+    "title": "'We are not for sale': Greenlanders express fear and indignation as Trump eyes territory",
+    "link": "https://www.bbc.com/news/articles/cvgx8w4pgk0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-07T22:59:09+00:00"
+  },
+  {
+    "title": "The best deals on MacBooks right now",
+    "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+    "source": "The Verge",
+    "published": "2026-01-07T22:59:01+00:00"
+  },
+  {
+    "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
+    "link": "https://www.nytimes.com/2026/01/07/business/energy-environment/trump-venezuela-oil-exxon-mobil-conocophillips.html",
+    "source": "New York Times",
+    "published": "2026-01-07T22:57:06+00:00"
+  },
+  {
+    "title": "UK armed forces helped US seizure of tanker, says MoD",
+    "link": "https://www.bbc.com/news/articles/ckglnprzk72o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-07T22:54:22+00:00"
   },
   {
     "title": "Trump Says He Wants Congress to Stop Wall St. From Buying Single-Family Houses",
     "link": "https://www.nytimes.com/2026/01/07/business/trump-wall-street-investors-homes.html",
     "source": "New York Times",
-    "published": "2026-01-07T22:04:46+00:00"
+    "published": "2026-01-07T22:49:47+00:00"
+  },
+  {
+    "title": "What We Know About Trump\u2019s Crime and Immigration Crackdown Across the U.S.",
+    "link": "https://www.nytimes.com/article/trump-national-guard-military-cities.html",
+    "source": "New York Times",
+    "published": "2026-01-07T22:49:04+00:00"
+  },
+  {
+    "title": "During Maduro Raid in Venezuela, a Close Call for Helicopters and Trump\u2019s Plan",
+    "link": "https://www.nytimes.com/2026/01/07/us/politics/trump-venezuela-helicopter.html",
+    "source": "New York Times",
+    "published": "2026-01-07T22:46:52+00:00"
+  },
+  {
+    "title": "Google and Character.AI to Settle Lawsuit Over Teenager\u2019s Death",
+    "link": "https://www.nytimes.com/2026/01/07/technology/google-characterai-teenager-lawsuit.html",
+    "source": "New York Times",
+    "published": "2026-01-07T22:43:05+00:00"
+  },
+  {
+    "title": "Deadly Minneapolis Encounter Is the 9th ICE Shooting Since September",
+    "link": "https://www.nytimes.com/2026/01/07/us/ice-shootings-minneapolis-other-cities.html",
+    "source": "New York Times",
+    "published": "2026-01-07T22:38:06+00:00"
   },
   {
     "title": "'Secret traitor' revealed in dramatic uncloaking on The Traitors",
     "link": "https://www.bbc.com/news/articles/cm2j7jzvzxmo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2026-01-07T22:03:03+00:00"
+    "published": "2026-01-07T22:31:51+00:00"
   },
   {
-    "title": "A Close Call for U.S. Commandos and an Emboldened Trump",
-    "link": "https://www.nytimes.com/2026/01/07/us/politics/trump-venezuela-helicopter.html",
+    "title": "Character.AI and Google settle teen suicide and self-harm suits",
+    "link": "https://www.theverge.com/news/858102/characterai-google-teen-suicide-settlement",
+    "source": "The Verge",
+    "published": "2026-01-07T22:30:22+00:00"
+  },
+  {
+    "title": "Horns, Whistles and Then Gunfire on a Minneapolis Street",
+    "link": "https://www.nytimes.com/2026/01/07/us/minneapolis-ice-shooting-witness.html",
     "source": "New York Times",
-    "published": "2026-01-07T21:54:28+00:00"
+    "published": "2026-01-07T22:14:03+00:00"
   },
   {
     "title": "Family whose son died in crash but were told he survived say ordeal 'unimaginable'",
@@ -36,22 +108,10 @@
     "published": "2026-01-07T21:53:24+00:00"
   },
   {
-    "title": "Trump Deepens Scrutiny of Minnesota, a Potential Model for Other Blue States",
-    "link": "https://www.nytimes.com/2026/01/07/us/politics/trump-minnesota-fraud.html",
-    "source": "New York Times",
-    "published": "2026-01-07T21:52:12+00:00"
-  },
-  {
     "title": "Nick Reiner\u2019s Lawyer, Alan Jackson, Removes Himself From Murder Case",
     "link": "https://www.nytimes.com/2026/01/07/movies/nick-reiner-lawyer-alan-jackson.html",
     "source": "New York Times",
     "published": "2026-01-07T21:50:25+00:00"
-  },
-  {
-    "title": "Videos Show Federal Agent Shooting Motorist in Minneapolis",
-    "link": "https://www.nytimes.com/2026/01/07/us/videos-ice-shooting-woman-minneapolis.html",
-    "source": "New York Times",
-    "published": "2026-01-07T21:45:22+00:00"
   },
   {
     "title": "Justice Dept. Staff Fear Turmoil Diverts Them From Potential Threats",
@@ -97,21 +157,9 @@
   },
   {
     "title": "White House says 'all options' are on the table for Greenland, including diplomacy",
-    "link": "https://www.npr.org/2026/01/07/nx-s1-5670244/white-house-says-all-options-are-on-the-table-for-greenland-including-diplomacy",
+    "link": "https://www.npr.org/2026/01/07/nx-s1-5670244/trump-greenland",
     "source": "NPR",
     "published": "2026-01-07T21:07:49+00:00"
-  },
-  {
-    "title": "Oil Firms Say Venezuela Owes Them Billions Over Earlier Investments",
-    "link": "https://www.nytimes.com/2026/01/07/business/energy-environment/trump-venezuela-oil-exxon-mobil-conocophillips.html",
-    "source": "New York Times",
-    "published": "2026-01-07T21:01:38+00:00"
-  },
-  {
-    "title": "UK armed forces helped US seizure of tanker, says MoD",
-    "link": "https://www.bbc.com/news/articles/ckglnprzk72o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-07T20:52:32+00:00"
   },
   {
     "title": "Julie Menin Is Elected New York City Council Speaker",
@@ -126,7 +174,7 @@
     "published": "2026-01-07T20:31:48+00:00"
   },
   {
-    "title": "ICE agent fatally shoots woman in Minneapolis amid immigration crackdown",
+    "title": "What we know so far about the fatal ICE shooting of a Minneapolis woman",
     "link": "https://www.npr.org/2026/01/07/nx-s1-5670289/ice-minneapolis-shooting-immigration-crackdown",
     "source": "NPR",
     "published": "2026-01-07T20:31:36+00:00"
@@ -136,12 +184,6 @@
     "link": "https://www.nytimes.com/2026/01/07/us/philip-yancey-affair.html",
     "source": "New York Times",
     "published": "2026-01-07T20:26:42+00:00"
-  },
-  {
-    "title": "What We Know About Trump\u2019s Crime and Immigration Crackdown Across the U.S.",
-    "link": "https://www.nytimes.com/article/trump-national-guard-military-cities.html",
-    "source": "New York Times",
-    "published": "2026-01-07T20:24:15+00:00"
   },
   {
     "title": "U.S. population growth is slowing. The immigration crackdown is a major factor",
@@ -243,19 +285,13 @@
     "title": "As Charlie Kirk\u2019s Turning Point Pushes Into High Schools, Dissension Follows",
     "link": "https://www.nytimes.com/2026/01/07/us/politics/charlie-kirk-turning-point-usa-high-schools.html",
     "source": "New York Times",
-    "published": "2026-01-07T19:07:07+00:00"
+    "published": "2026-01-07T19:07:08+00:00"
   },
   {
     "title": "How large is Greenland, really? Your map may be deceiving you",
     "link": "https://www.npr.org/2026/01/07/nx-s1-5668482/greenland-mercator-map-size-distortion",
     "source": "NPR",
     "published": "2026-01-07T19:01:59+00:00"
-  },
-  {
-    "title": "UKA chief 'appalled' as Prescod joins Enhanced Games",
-    "link": "https://www.bbc.com/sport/athletics/articles/c4grx06x4w3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-07T19:01:07+00:00"
   },
   {
     "title": "Samsung&#8217;s Ballie robot is probably never coming out",
@@ -306,16 +342,16 @@
     "published": "2026-01-07T18:27:38+00:00"
   },
   {
-    "title": "Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now",
-    "link": "https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale",
-    "source": "The Verge",
-    "published": "2026-01-07T18:26:48+00:00"
-  },
-  {
     "title": "California Tech Executives Plot Against Rep. Ro Khanna Over Support of Wealth Tax",
     "link": "https://www.nytimes.com/2026/01/07/us/politics/ro-khanna-california-wealth-tax.html",
     "source": "New York Times",
     "published": "2026-01-07T18:19:53+00:00"
+  },
+  {
+    "title": "RFK Jr. Overhauls Food Pyramid to Emphasize Red Meat and Dairy",
+    "link": "https://www.nytimes.com/2026/01/07/well/rfk-jr-food-pyramid-nutrition-guidelines-protein.html",
+    "source": "New York Times",
+    "published": "2026-01-07T18:15:27+00:00"
   },
   {
     "title": "Photos: One Year After the Los Angeles Wildfires",
@@ -342,12 +378,6 @@
     "published": "2026-01-07T18:07:20+00:00"
   },
   {
-    "title": "Dell admits consumers don\u2019t care about AI PCs",
-    "link": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments",
-    "source": "The Verge",
-    "published": "2026-01-07T17:57:27+00:00"
-  },
-  {
     "title": "Tribunal empowered to order property distribution after five years of enforced disappearance",
     "link": "https://www.tbsnews.net/bangladesh/tribunal-empowered-order-property-distribution-after-five-years-enforced-disappearance",
     "source": "The Business Standard",
@@ -370,12 +400,6 @@
     "link": "https://www.npr.org/2026/01/07/nx-s1-5669386/american-reich-author-details-a-national-surge-in-bigotry-and-white-supremacy",
     "source": "NPR",
     "published": "2026-01-07T17:31:33+00:00"
-  },
-  {
-    "title": "CES 2026 tech you can already buy",
-    "link": "https://www.theverge.com/gadgets/856494/ces-2026-tech-you-can-already-buy",
-    "source": "The Verge",
-    "published": "2026-01-07T17:27:06+00:00"
   },
   {
     "title": "Abel Ferrara: In Rome, They Call Him \u2018Maestro\u2019",
@@ -570,12 +594,6 @@
     "published": "2026-01-07T14:45:00+00:00"
   },
   {
-    "title": "Yemen Separatist Leader Refuses to Attend Talks, Deepening Saudi Arabia-UAE Clash",
-    "link": "https://www.nytimes.com/2026/01/07/world/middleeast/yemen-separatist-leader-zubaidi-saudi-arabia-uae.html",
-    "source": "New York Times",
-    "published": "2026-01-07T14:41:21+00:00"
-  },
-  {
     "title": "Nahid Islam alleges 'deliberate misinformation' over income, asset disclosures",
     "link": "https://www.tbsnews.net/bangladesh/nahid-islam-alleges-deliberate-misinformation-over-income-asset-disclosures-1328616",
     "source": "The Business Standard",
@@ -642,12 +660,6 @@
     "published": "2026-01-07T12:30:00+00:00"
   },
   {
-    "title": "Warner Bros. Board Rebuffs Paramount\u2019s Latest Buyout Offer",
-    "link": "https://www.nytimes.com/2026/01/07/business/media/warner-bros-paramount-netflix.html",
-    "source": "New York Times",
-    "published": "2026-01-07T12:10:07+00:00"
-  },
-  {
     "title": "The Venezuelan Opposition Has a Choice",
     "link": "https://www.theatlantic.com/international/2026/01/venezuelan-opposition-crossroads-gonzalez-machado-election/685518/?utm_source=feed",
     "source": "The Atlantic",
@@ -664,12 +676,6 @@
     "link": "https://www.nytimes.com/2026/01/07/movies/timothee-chalamet-michael-b-jordan-oscar-curse.html",
     "source": "New York Times",
     "published": "2026-01-07T10:02:56+00:00"
-  },
-  {
-    "title": "Why the NFL play-offs are the 'most unusual' in years",
-    "link": "https://www.bbc.com/sport/american-football/articles/c2e1gk03k84o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-07T09:00:00+00:00"
   },
   {
     "title": "RFK Jr.\u2019s Next Move Is What Anti-Vaxxers Have Been Waiting For",
