@@ -1,5 +1,77 @@
 [
   {
+    "title": "Is it even worth mentioning that Elon Musk blew past his own Full Self-Driving goals again?",
+    "link": "https://www.theverge.com/news/858782/elon-musk-tesla-fsd-unsupervised-missed-goals",
+    "source": "The Verge",
+    "published": "2026-01-08T19:13:31+00:00"
+  },
+  {
+    "title": "Business rate rises for pubs to be watered down after pressure from landlords",
+    "link": "https://www.bbc.com/news/articles/c8e57dexly1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T19:10:16+00:00"
+  },
+  {
+    "title": "Few pairs of budget earbuds deliver like Nothing\u2019s Ear (a), which are down to $59",
+    "link": "https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale",
+    "source": "The Verge",
+    "published": "2026-01-08T19:05:02+00:00"
+  },
+  {
+    "title": "I\u2019m Not From the Government but I\u2019m Here to Help",
+    "link": "https://www.theatlantic.com/magazine/2026/02/individual-federal-services-replacement/685333/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-01-08T19:00:00+00:00"
+  },
+  {
+    "title": "Venezuela Leaders to Free Political Prisoners in a Sign of Possible Change",
+    "link": "https://www.nytimes.com/2026/01/08/world/americas/venezuela-release-political-prisoners.html",
+    "source": "New York Times",
+    "published": "2026-01-08T18:51:19+00:00"
+  },
+  {
+    "title": "The best deals on 4K TVs",
+    "link": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
+    "source": "The Verge",
+    "published": "2026-01-08T18:50:17+00:00"
+  },
+  {
+    "title": "Hochul and Mamdani Announce Plan to Make N.Y. Child Care Universal",
+    "link": "https://www.nytimes.com/2026/01/08/nyregion/mamdani-hochul-child-care.html",
+    "source": "New York Times",
+    "published": "2026-01-08T18:47:20+00:00"
+  },
+  {
+    "title": "DU syndicate to recommend renaming Sheikh Mujib hall after Osman Hadi",
+    "link": "https://www.tbsnews.net/bangladesh/du-syndicate-recommend-renaming-sheikh-mujib-hall-after-osman-hadi-1329716",
+    "source": "The Business Standard",
+    "published": "2026-01-08T18:45:00+00:00"
+  },
+  {
+    "title": "Jeremy Bowen: Trump risks pushing world back to age of empires",
+    "link": "https://www.bbc.com/news/articles/cx2wg7437dvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T18:32:26+00:00"
+  },
+  {
+    "title": "What is ICE and what powers do its agents have to use force?",
+    "link": "https://www.bbc.com/news/articles/cp80ljjd5rwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T18:31:51+00:00"
+  },
+  {
+    "title": "Residents told to evacuate immediately before clifftop homes collapse",
+    "link": "https://www.bbc.com/news/articles/crkre16j128o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T18:25:15+00:00"
+  },
+  {
+    "title": "Gov. Gavin Newsom to Criticize Trump in State of the State Address",
+    "link": "https://www.nytimes.com/2026/01/08/us/newsom-california-state-of-the-state-speech.html",
+    "source": "New York Times",
+    "published": "2026-01-08T18:19:57+00:00"
+  },
+  {
     "title": "Church drops complaint about new archbishop's handling of abuse case",
     "link": "https://www.bbc.com/news/articles/c205d16g5gxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -24,12 +96,6 @@
     "published": "2026-01-08T18:03:47+00:00"
   },
   {
-    "title": "Business rate rises for pubs to be watered down after pressure from landlords",
-    "link": "https://www.bbc.com/news/articles/c8e57dexly1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-08T17:59:52+00:00"
-  },
-  {
     "title": "The MAGA-approved video of an ICE killing",
     "link": "https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media",
     "source": "The Verge",
@@ -42,22 +108,10 @@
     "published": "2026-01-08T17:56:29+00:00"
   },
   {
-    "title": "Gov. Gavin Newsom to Criticize Trump in State of the State Address",
-    "link": "https://www.nytimes.com/2026/01/08/us/newsom-california-state-of-the-state-speech.html",
-    "source": "New York Times",
-    "published": "2026-01-08T17:43:29+00:00"
-  },
-  {
     "title": "US involvement in Venezuela could last years, Trump says",
     "link": "https://www.bbc.com/news/articles/cx20gyn8qvvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-08T17:37:19+00:00"
-  },
-  {
-    "title": "Venezuela Announces the Release of Political Prisoners",
-    "link": "https://www.nytimes.com/2026/01/08/world/americas/venezuela-release-political-prisoners.html",
-    "source": "New York Times",
-    "published": "2026-01-08T17:32:33+00:00"
   },
   {
     "title": "An Oval Office Viewing",
@@ -66,13 +120,19 @@
     "published": "2026-01-08T17:31:19+00:00"
   },
   {
-    "title": "Trump Administration Deploying More Border Patrol Agents to Minnesota",
+    "title": "How to stay safe during a storm and what to do in a power cut",
+    "link": "https://www.bbc.com/news/articles/cm2ezv1e680o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T17:28:42+00:00"
+  },
+  {
+    "title": "After ICE Shooting, Trump Administration Deploys More Agents to Minnesota",
     "link": "https://www.nytimes.com/2026/01/08/us/politics/border-patrol-minnesota-trump.html",
     "source": "New York Times",
     "published": "2026-01-08T17:23:16+00:00"
   },
   {
-    "title": "Homeless men refused entry to city centre hotel",
+    "title": "Homeless men refused entry to Manchester hotel in sub-zero temperatures",
     "link": "https://www.bbc.com/news/articles/cqxy09yl7d9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-08T17:23:11+00:00"
@@ -88,12 +148,6 @@
     "link": "https://www.theverge.com/news/858671/schmidt-sciences-lazuli-space-telescope",
     "source": "The Verge",
     "published": "2026-01-08T17:21:32+00:00"
-  },
-  {
-    "title": "Fourteen clifftop homes facing 'imminent collapse'",
-    "link": "https://www.bbc.com/news/articles/crkre16j128o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-08T17:16:56+00:00"
   },
   {
     "title": "Judge Bars U.S. Attorney in Albany From Inquiry Into Letitia James",
@@ -136,18 +190,6 @@
     "link": "https://www.bbc.com/news/articles/c3veww3deddo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-08T16:59:42+00:00"
-  },
-  {
-    "title": "A Housing Boom Transformed This City. Mamdani Is Taking Notes.",
-    "link": "https://www.nytimes.com/2026/01/08/nyregion/jersey-city-housing.html",
-    "source": "New York Times",
-    "published": "2026-01-08T16:57:25+00:00"
-  },
-  {
-    "title": "We Pressed Trump on His Conclusion About the ICE Shooting in Minneapolis. Here\u2019s What He Said.",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-minnesota-ice-shooting-video.html",
-    "source": "New York Times",
-    "published": "2026-01-08T16:53:34+00:00"
   },
   {
     "title": "Apple\u2019s John Ternus Could Be Tim Cook\u2019s Successor as CEO",
@@ -210,10 +252,16 @@
     "published": "2026-01-08T16:14:54+00:00"
   },
   {
-    "title": "Watch: Eyewitnesses recount deadly ICE shooting",
+    "title": "Watch: Eyewitnesses recount deadly shooting",
     "link": "https://www.bbc.com/news/videos/c394vjengdgo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-08T16:12:49+00:00"
+  },
+  {
+    "title": "The Rise of the Self-Serve Blood Test",
+    "link": "https://www.nytimes.com/2026/01/08/well/function-health-blood-tests.html",
+    "source": "New York Times",
+    "published": "2026-01-08T16:12:26+00:00"
   },
   {
     "title": "3 Chinese nationals sent to jail over illegal iPhone supply",
@@ -232,24 +280,6 @@
     "link": "https://www.theverge.com/gadgets/854163/honor-magic-8-pro-review",
     "source": "The Verge",
     "published": "2026-01-08T16:00:00+00:00"
-  },
-  {
-    "title": "Is this the world\u2019s first solid-state battery?",
-    "link": "https://www.theverge.com/transportation/858514/is-this-the-worlds-first-solid-state-battery",
-    "source": "The Verge",
-    "published": "2026-01-08T16:00:00+00:00"
-  },
-  {
-    "title": "Nintendo is bringing its cute My Mario collection to the US next month",
-    "link": "https://www.theverge.com/tech/858587/nintendo-my-mario-apparal-toys-book-mobile-app",
-    "source": "The Verge",
-    "published": "2026-01-08T15:59:45+00:00"
-  },
-  {
-    "title": "Hochul and Mamdani to Announce Road Map to Expand Child Care",
-    "link": "https://www.nytimes.com/2026/01/08/nyregion/mamdani-hochul-child-care.html",
-    "source": "New York Times",
-    "published": "2026-01-08T15:58:59+00:00"
   },
   {
     "title": "Change May Be Coming to Iran",
@@ -282,12 +312,6 @@
     "published": "2026-01-08T15:38:19+00:00"
   },
   {
-    "title": "The most popular games are getting harder and harder to usurp",
-    "link": "https://www.theverge.com/games/858127/top-five-most-played-games-xbox-ps5-2025",
-    "source": "The Verge",
-    "published": "2026-01-08T15:30:00+00:00"
-  },
-  {
     "title": "Upcoming referendum aims to stop future govts from becoming fascist: Ali Riaz",
     "link": "https://www.tbsnews.net/bangladesh/upcoming-referendum-aims-stop-future-govts-becoming-fascist-ali-riaz-1329626",
     "source": "The Business Standard",
@@ -306,10 +330,10 @@
     "published": "2026-01-08T15:18:14+00:00"
   },
   {
-    "title": "Brook, 'Boozeball' and another Ashes hangover",
-    "link": "https://www.bbc.com/sport/cricket/articles/c33874p4xg3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-08T15:10:20+00:00"
+    "title": "Michigan's Hamtramck city renames street in honour of Khaleda Zia",
+    "link": "https://www.tbsnews.net/bangladesh/michigans-hamtramck-city-renames-street-honour-khaleda-zia-1329601",
+    "source": "The Business Standard",
+    "published": "2026-01-08T15:10:00+00:00"
   },
   {
     "title": "BNP launches 'Match My Policy' web app to share, gather views on state policies",
@@ -324,20 +348,14 @@
     "published": "2026-01-08T15:10:00+00:00"
   },
   {
-    "title": "Michigan's Hamtramck city renames street in honour of Khaleda Zia",
-    "link": "https://www.tbsnews.net/bangladesh/michigans-hamtramck-city-renames-street-honour-khaleda-zia-1329601",
-    "source": "The Business Standard",
-    "published": "2026-01-08T15:10:00+00:00"
-  },
-  {
-    "title": "Fire at jhut warehouse in Gazipur brought under control after 3hrs",
-    "link": "https://www.tbsnews.net/bangladesh/fire-jhut-warehouse-gazipur-brought-under-control-after-3hrs-1329611",
+    "title": "Govt directs NGOs to join national referendum campaign",
+    "link": "https://www.tbsnews.net/bangladesh/govt-directs-ngos-join-national-referendum-campaign-1329596",
     "source": "The Business Standard",
     "published": "2026-01-08T15:05:00+00:00"
   },
   {
-    "title": "Govt directs NGOs to join national referendum campaign",
-    "link": "https://www.tbsnews.net/bangladesh/govt-directs-ngos-join-national-referendum-campaign-1329596",
+    "title": "Fire at jhut warehouse in Gazipur brought under control after 3hrs",
+    "link": "https://www.tbsnews.net/bangladesh/fire-jhut-warehouse-gazipur-brought-under-control-after-3hrs-1329611",
     "source": "The Business Standard",
     "published": "2026-01-08T15:05:00+00:00"
   },
@@ -450,12 +468,6 @@
     "published": "2026-01-08T13:00:00+00:00"
   },
   {
-    "title": "EU to deploy 200 observers for upcoming national election",
-    "link": "https://www.tbsnews.net/bangladesh/eu-deploy-200-observers-upcoming-national-election-1329481",
-    "source": "The Business Standard",
-    "published": "2026-01-08T13:00:00+00:00"
-  },
-  {
     "title": "An Underappreciated Variable in Sports Success",
     "link": "https://www.theatlantic.com/health/2026/01/athletic-success-luck/685533/?utm_source=feed",
     "source": "The Atlantic",
@@ -540,12 +552,6 @@
     "published": "2026-01-08T10:04:09+00:00"
   },
   {
-    "title": "Can Claire Valdez, a Mamdani Ally, Become New York\u2019s Next Socialist in Congress?",
-    "link": "https://www.nytimes.com/2026/01/08/nyregion/claire-valdez-congress-mamdani.html",
-    "source": "New York Times",
-    "published": "2026-01-08T10:02:41+00:00"
-  },
-  {
     "title": "How One Death Underscores the Suicide Risk for Construction Workers",
     "link": "https://www.nytimes.com/2026/01/08/realestate/construction-industry-suicides.html",
     "source": "New York Times",
@@ -606,12 +612,6 @@
     "published": "2026-01-08T07:05:11+00:00"
   },
   {
-    "title": "From trauma to triumph: Jim Legxacy is transforming UK rap",
-    "link": "https://www.bbc.com/news/articles/cj4lxz1yvddo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-08T07:00:09+00:00"
-  },
-  {
     "title": "Minnesota\u2019s Dispute With Trump Administration Boils Over After ICE Shooting",
     "link": "https://www.nytimes.com/2026/01/07/us/minnesota-shooting-trump-walz-frey.html",
     "source": "New York Times",
@@ -642,10 +642,10 @@
     "published": "2026-01-08T03:11:00+00:00"
   },
   {
-    "title": "Mamdani Hosts Influencer Summit, Sidestepping Traditional Media",
-    "link": "https://www.nytimes.com/2026/01/07/business/media/zohran-mamdani-social-media-creators.html",
-    "source": "New York Times",
-    "published": "2026-01-08T03:03:30+00:00"
+    "title": "We were fired, and we're owning it \u2013 here's how to find a new job that works for you",
+    "link": "https://www.bbc.com/news/articles/cwyvw1ev9rro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T01:58:50+00:00"
   },
   {
     "title": "The Two Sides of America\u2019s Health Secretary",
@@ -660,12 +660,6 @@
     "published": "2026-01-07T23:34:19+00:00"
   },
   {
-    "title": "'We are not for sale': Greenlanders express fear and indignation as Trump eyes territory",
-    "link": "https://www.bbc.com/news/articles/cvgx8w4pgk0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-07T22:59:09+00:00"
-  },
-  {
     "title": "A Deadly Shooting in Minnesota",
     "link": "https://www.theatlantic.com/ideas/2026/01/deadly-shooting-minnesota/685541/?utm_source=feed",
     "source": "The Atlantic",
@@ -676,11 +670,5 @@
     "link": "https://www.theatlantic.com/press-releases/2026/01/atlantic-hires-adam-harris-host-video-podcast/685538/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-07T19:20:37+00:00"
-  },
-  {
-    "title": "Trump Has No Plan for Venezuela",
-    "link": "https://www.theatlantic.com/podcasts/2026/01/david-frum-show-david-rothkopf-venezuela/685534/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-07T18:27:38+00:00"
   }
 ]
