@@ -1,5 +1,71 @@
 [
   {
+    "title": "Border Patrol Agents Shoot 2 in Oregon, and Trump Says, \u2018I Don\u2019t Need International Law\u2019",
+    "link": "https://www.nytimes.com/2026/01/09/podcasts/the-headlines/border-patrol-agents-shooting-oregon-trump-international-law.html",
+    "source": "New York Times",
+    "published": "2026-01-09T11:00:58+00:00"
+  },
+  {
+    "title": "An Interview With the President",
+    "link": "https://www.nytimes.com/2026/01/09/podcasts/the-daily/trump-interview.html",
+    "source": "New York Times",
+    "published": "2026-01-09T11:00:10+00:00"
+  },
+  {
+    "title": "Federal Agents Are Violating the Rights of Americans",
+    "link": "https://www.theatlantic.com/podcasts/2026/01/autocracy-in-america-ice-and-the-national-guard/685279/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-01-09T11:00:00+00:00"
+  },
+  {
+    "title": "Microsoft\u00a0is making it much easier to add hyperlinks in Word docs",
+    "link": "https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut",
+    "source": "The Verge",
+    "published": "2026-01-09T10:58:11+00:00"
+  },
+  {
+    "title": "Runway Wall Caused All the Deaths in 2024 South Korean Plane Crash, Report Says",
+    "link": "https://www.nytimes.com/2026/01/09/world/asia/korea-plane-crash-wall.html",
+    "source": "New York Times",
+    "published": "2026-01-09T10:51:19+00:00"
+  },
+  {
+    "title": "Businesses call to be included in any pub rates backtrack",
+    "link": "https://www.bbc.com/news/articles/cp80l2ndz5yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-09T10:50:08+00:00"
+  },
+  {
+    "title": "Elon Musk\u2019s X limits Grok AI image editing after outcry over sexualised deepfakes",
+    "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-09T10:46:15+00:00"
+  },
+  {
+    "title": "Worker killed in hill collapse during alleged illegal soil cutting in Cox's Bazar",
+    "link": "https://www.tbsnews.net/bangladesh/worker-killed-hill-collapse-during-alleged-illegal-soil-cutting-coxs-bazar-1330071",
+    "source": "The Business Standard",
+    "published": "2026-01-09T10:45:00+00:00"
+  },
+  {
+    "title": "Migratory birds flock Khulna's wetlands amid rising poaching threat",
+    "link": "https://www.tbsnews.net/bangladesh/environment/migratory-birds-flock-khulnas-wetlands-amid-rising-poaching-threat-1330066",
+    "source": "The Business Standard",
+    "published": "2026-01-09T10:35:00+00:00"
+  },
+  {
+    "title": "Iran\u2019s Supreme Leader Says Protests Are Happening to \u2018Please\u2019 Trump",
+    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html",
+    "source": "New York Times",
+    "published": "2026-01-09T10:27:59+00:00"
+  },
+  {
+    "title": "EC dismisses reports on suspension of Pabna-1, Pabna-2 polls",
+    "link": "https://www.tbsnews.net/bangladesh/ec-dismisses-reports-suspension-pabna-1-pabna-2-polls-1330056",
+    "source": "The Business Standard",
+    "published": "2026-01-09T10:25:00+00:00"
+  },
+  {
     "title": "Venezuelan government begins releasing political prisoners",
     "link": "https://www.bbc.com/news/articles/c0mkwl2g499o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -12,10 +78,34 @@
     "published": "2026-01-09T10:05:00+00:00"
   },
   {
-    "title": "Winning in England will be Australia's next goal - McGrath column",
+    "title": "Why Many Republican Voters Support Trump\u2019s Use of Force in Venezuela",
+    "link": "https://www.nytimes.com/2026/01/09/us/politics/trump-venezuela-republican-voters.html",
+    "source": "New York Times",
+    "published": "2026-01-09T10:03:45+00:00"
+  },
+  {
+    "title": "Winning in England is Australia's Everest - McGrath column",
     "link": "https://www.bbc.com/sport/cricket/articles/ce8eyj3e4x7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-09T10:02:42+00:00"
+  },
+  {
+    "title": "Wary of Investing in Venezuela, Big Oil Heads to the White House",
+    "link": "https://www.nytimes.com/2026/01/09/business/energy-environment/venezuela-oil-trump.html",
+    "source": "New York Times",
+    "published": "2026-01-09T10:02:34+00:00"
+  },
+  {
+    "title": "The War Over the Weedkiller Roundup Might Be Headed to the Supreme Court",
+    "link": "https://www.nytimes.com/2026/01/09/climate/supreme-court-weedkiller-roundup.html",
+    "source": "New York Times",
+    "published": "2026-01-09T10:02:27+00:00"
+  },
+  {
+    "title": "What to Know About the Latest Jobs Report",
+    "link": "https://www.nytimes.com/2026/01/09/business/economy/business-economy-jobs-report-december.html",
+    "source": "New York Times",
+    "published": "2026-01-09T10:02:18+00:00"
   },
   {
     "title": "This Is Trump\u2019s One Small Trick to Destroy American Democracy",
@@ -30,10 +120,10 @@
     "published": "2026-01-09T10:01:00+00:00"
   },
   {
-    "title": "Your next primary care doctor could be online only, accessed through an AI tool",
-    "link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis",
-    "source": "NPR",
-    "published": "2026-01-09T10:00:00+00:00"
+    "title": "RFK Jr. Weakens U.S. Preventive Services Task Force",
+    "link": "https://www.nytimes.com/2026/01/09/well/rfk-jr-uspstf-task-force.html",
+    "source": "New York Times",
+    "published": "2026-01-09T10:00:07+00:00"
   },
   {
     "title": "Many Americans say the U.S. is not a moral leader but want it to be: NPR/Ipsos poll",
@@ -42,16 +132,16 @@
     "published": "2026-01-09T10:00:00+00:00"
   },
   {
+    "title": "Your next primary care doctor could be online only, accessed through an AI tool",
+    "link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis",
+    "source": "NPR",
+    "published": "2026-01-09T10:00:00+00:00"
+  },
+  {
     "title": "'My best is yet to come' - Semenyo joins Man City in \u00a365m deal",
     "link": "https://www.bbc.com/sport/football/articles/c801yv529z7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-09T09:49:49+00:00"
-  },
-  {
-    "title": "Elon Musk\u2019s X limits Grok AI image editing after outcry over sexualised deepfakes",
-    "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-09T09:48:22+00:00"
   },
   {
     "title": "Book exchange festival draws thousands of readers in Ctg",
@@ -84,12 +174,6 @@
     "published": "2026-01-09T09:39:25+00:00"
   },
   {
-    "title": "Businesses call to be included in any pub rates backtrack",
-    "link": "https://www.bbc.com/news/articles/cp80l2ndz5yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-09T09:31:16+00:00"
-  },
-  {
     "title": "How to stay safe during a storm and what to do in a power cut",
     "link": "https://www.bbc.com/news/articles/cm2ezv1e680o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -106,12 +190,6 @@
     "link": "https://www.bbc.com/news/videos/c78veq59823o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-09T09:17:44+00:00"
-  },
-  {
-    "title": "U.S. Border Patrol Agents Shoot 2 in Portland During Traffic Stop",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/federal-agents-shooting-portland.html",
-    "source": "New York Times",
-    "published": "2026-01-09T08:59:17+00:00"
   },
   {
     "title": "Flower Festival kicks off in Chattogram DC Park",
@@ -132,12 +210,6 @@
     "published": "2026-01-09T08:23:23+00:00"
   },
   {
-    "title": "N.Y.P.D. Fatally Shoots Man Who Drew a Fake Gun in the West Village",
-    "link": "https://www.nytimes.com/2026/01/09/nyregion/ny-police-shooting-west-village.html",
-    "source": "New York Times",
-    "published": "2026-01-09T08:11:04+00:00"
-  },
-  {
     "title": "Russia hits Ukraine with rarely-used Oreshnik missile in fresh strikes",
     "link": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -148,6 +220,18 @@
     "link": "https://www.nytimes.com/2026/01/08/world/europe/russia-ukraine-nuclear-capable-missile.html",
     "source": "New York Times",
     "published": "2026-01-09T08:04:18+00:00"
+  },
+  {
+    "title": "For the Hero of the Bondi Beach Attack, a Whirlwind Visit to America",
+    "link": "https://www.nytimes.com/2026/01/09/nyregion/bondi-beach-attack-hero-visits-america.html",
+    "source": "New York Times",
+    "published": "2026-01-09T08:00:27+00:00"
+  },
+  {
+    "title": "Zohran Mamdani and Kathy Hochul Are Pals Right Now. Will It Last?",
+    "link": "https://www.nytimes.com/2026/01/09/nyregion/zohran-mamdani-kathy-hochul.html",
+    "source": "New York Times",
+    "published": "2026-01-09T08:00:09+00:00"
   },
   {
     "title": "Russia says it used new Oreshnik ballistic missile against Ukraine",
@@ -186,8 +270,8 @@
     "published": "2026-01-09T07:40:00+00:00"
   },
   {
-    "title": "Protests sweep Iran despite internet shutdown as state TV warns of casualties",
-    "link": "https://www.npr.org/2026/01/09/nx-s1-5672276/protests-iran-internet-shutdown-casualties",
+    "title": "Iran's supreme leader says protesters are 'ruining their own streets' to please Trump",
+    "link": "https://www.npr.org/2026/01/09/nx-s1-5672276/protests-iran-internet-shutdown-casualties-trump-supreme-leader",
     "source": "NPR",
     "published": "2026-01-09T07:35:12+00:00"
   },
@@ -214,6 +298,12 @@
     "link": "https://www.tbsnews.net/bangladesh/3-killed-mirsarai-bus-truck-collision-5-injured-1329946",
     "source": "The Business Standard",
     "published": "2026-01-09T07:15:00+00:00"
+  },
+  {
+    "title": "Macclesfield's 'massive occasion' tinged with sadness",
+    "link": "https://www.bbc.com/sport/football/articles/clyndjxl0xlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-09T07:14:23+00:00"
   },
   {
     "title": "Tackling LPG crisis: Govt eases loan, LC processes after VAT cut proposal",
@@ -250,12 +340,6 @@
     "link": "https://www.tbsnews.net/bangladesh/oil-theft-bpcs-chattogram-dhaka-pipeline-mirsarai-raises-security-concerns-1329896",
     "source": "The Business Standard",
     "published": "2026-01-09T05:55:00+00:00"
-  },
-  {
-    "title": "The Papers: 'Pub tax U-turn' and 'caring Catherine'",
-    "link": "https://www.bbc.com/news/articles/cm24dznk16go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-09T05:44:26+00:00"
   },
   {
     "title": "Recruiting agencies still growing despite shrinking labour market and White Paper's red flag",
@@ -300,6 +384,12 @@
     "published": "2026-01-09T03:16:57+00:00"
   },
   {
+    "title": "\u2018The Pitt\u2019 Season 2 Premiere Recap: The Doctors Will See You Now",
+    "link": "https://www.nytimes.com/2026/01/08/arts/television/the-pitt-recap-season-2-premiere.html",
+    "source": "New York Times",
+    "published": "2026-01-09T03:00:05+00:00"
+  },
+  {
     "title": "Two wounded in shooting involving federal agents in Portland",
     "link": "https://www.bbc.com/news/articles/ckgn1y1zygxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -312,22 +402,10 @@
     "published": "2026-01-09T02:42:50+00:00"
   },
   {
-    "title": "Once Again, a Newfoundland Town Rescues Stranded Passengers",
-    "link": "https://www.nytimes.com/2026/01/08/world/canada/gander-canada-airport-stranded-travelers.html",
+    "title": "What We Know About the Fatal ICE Shooting in Minneapolis",
+    "link": "https://www.nytimes.com/2026/01/07/us/ice-shooting-minneapolis-renee-good.html",
     "source": "New York Times",
-    "published": "2026-01-09T02:03:07+00:00"
-  },
-  {
-    "title": "BNP\u2019s manifesto to focus on self-reliant economy, job creation",
-    "link": "https://www.tbsnews.net/bangladesh/politics/bnps-manifesto-focus-self-reliant-economy-job-creation-1329746",
-    "source": "The Business Standard",
-    "published": "2026-01-09T01:45:00+00:00"
-  },
-  {
-    "title": "'How do we look Indian?': Student's killing puts spotlight on racism in India",
-    "link": "https://www.bbc.com/news/articles/c931qx3lepro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-09T01:20:32+00:00"
+    "published": "2026-01-09T01:17:17+00:00"
   },
   {
     "title": "Long waits for disability benefit claims unacceptable, MPs say",
@@ -346,12 +424,6 @@
     "link": "https://www.bbc.com/news/articles/cy84epwx099o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-09T01:03:53+00:00"
-  },
-  {
-    "title": "Families of Slain Idaho Students Sue the University the Killer Attended",
-    "link": "https://www.nytimes.com/2026/01/08/us/idaho-murders-kohberger-victim-families-lawsuit.html",
-    "source": "New York Times",
-    "published": "2026-01-09T01:03:23+00:00"
   },
   {
     "title": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
@@ -396,24 +468,6 @@
     "published": "2026-01-08T23:55:52+00:00"
   },
   {
-    "title": "Ukraine Awards Major Lithium Project to Investors With Links to Trump",
-    "link": "https://www.nytimes.com/2026/01/08/world/europe/trump-lauder-ukraine-lithium.html",
-    "source": "New York Times",
-    "published": "2026-01-08T23:55:33+00:00"
-  },
-  {
-    "title": "Congress Tries, but Fails, to Take a Stand for Its Own Powers",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-power-congress-veto.html",
-    "source": "New York Times",
-    "published": "2026-01-08T23:51:58+00:00"
-  },
-  {
-    "title": "Trump Addresses Venezuela, Greenland and Presidential Power in New York Times Interview",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-power-morality.html",
-    "source": "New York Times",
-    "published": "2026-01-08T23:47:49+00:00"
-  },
-  {
     "title": "Pioneer Sphera is bringing Dolby Atmos in cars to the people",
     "link": "https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026",
     "source": "The Verge",
@@ -424,12 +478,6 @@
     "link": "https://www.theatlantic.com/newsletters/2026/01/trump-foreign-policy-worlds-police-force/685559/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-08T23:35:00+00:00"
-  },
-  {
-    "title": "NASA Will Bring I.S.S. Astronauts Home Early After Medical Issue",
-    "link": "https://www.nytimes.com/2026/01/08/science/nasa-astronaut-medical-problem.html",
-    "source": "New York Times",
-    "published": "2026-01-08T23:30:24+00:00"
   },
   {
     "title": "UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes",
@@ -462,24 +510,6 @@
     "published": "2026-01-08T23:01:45+00:00"
   },
   {
-    "title": "Why Cambodia Handed Over a Man Accused of Stealing Billions in Crypto Scam",
-    "link": "https://www.nytimes.com/2026/01/08/world/asia/cambodia-scam-china-prince-group-chen.html",
-    "source": "New York Times",
-    "published": "2026-01-08T22:52:44+00:00"
-  },
-  {
-    "title": "Trump Urges Voters to Oust Republicans, Including Susan Collins",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-senate-republicans-susan-collins.html",
-    "source": "New York Times",
-    "published": "2026-01-08T22:42:07+00:00"
-  },
-  {
-    "title": "These 5 Republicans Broke With Trump on Venezuela War Powers",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/five-republicans-congress-trump-venezuela.html",
-    "source": "New York Times",
-    "published": "2026-01-08T22:34:44+00:00"
-  },
-  {
     "title": "The best earbuds we\u2019ve tested for 2026",
     "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
     "source": "The Verge",
@@ -492,40 +522,16 @@
     "published": "2026-01-08T21:53:30+00:00"
   },
   {
-    "title": "Prosecutors Said to Pursue New Investigation of Letitia James",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/letitia-james-trump-justice-department.html",
+    "title": "Stars of \u2018The Pitt\u2019 Gathered At HBO\u2019s Premiere Party to Toast Season 2",
+    "link": "https://www.nytimes.com/2026/01/08/style/the-pitt-hbo-premiere-party-noah-wyle.html",
     "source": "New York Times",
-    "published": "2026-01-08T21:30:44+00:00"
-  },
-  {
-    "title": "Senate Advances Measure to Curb Trump\u2019s Use of Force in Venezuela",
-    "link": "https://www.nytimes.com/2026/01/08/us/politics/senate-trump-venezuela-military.html",
-    "source": "New York Times",
-    "published": "2026-01-08T21:11:47+00:00"
+    "published": "2026-01-08T21:27:14+00:00"
   },
   {
     "title": "How Sweetgreen Became Millennial Cringe",
     "link": "https://www.theatlantic.com/culture/2026/01/sweetgreen-rise-fall-power-lunch/685545/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-08T21:04:47+00:00"
-  },
-  {
-    "title": "Hochul and Mamdani Announce Plan to Make N.Y. Child Care Universal",
-    "link": "https://www.nytimes.com/2026/01/08/nyregion/mamdani-hochul-child-care.html",
-    "source": "New York Times",
-    "published": "2026-01-08T21:04:28+00:00"
-  },
-  {
-    "title": "Dogs Build Their Vocabularies Like Toddlers",
-    "link": "https://www.nytimes.com/2026/01/08/science/dogs-research-vocabulary-toys.html",
-    "source": "New York Times",
-    "published": "2026-01-08T21:03:44+00:00"
-  },
-  {
-    "title": "Former Uvalde Teacher\u2019s Testimony Throws a Trial Into Chaos",
-    "link": "https://www.nytimes.com/2026/01/08/us/uvalde-shooting-teacher-testimony-trial.html",
-    "source": "New York Times",
-    "published": "2026-01-08T20:22:14+00:00"
   },
   {
     "title": "The coolest laptops we saw at CES 2026",
@@ -544,12 +550,6 @@
     "link": "https://www.theverge.com/news/858867/youtube-shorts-search-results-filter",
     "source": "The Verge",
     "published": "2026-01-08T19:22:09+00:00"
-  },
-  {
-    "title": "BRAC Academy officially inaugurated in Dhaka with focus on quality education",
-    "link": "https://www.tbsnews.net/bangladesh/brac-academy-officially-inaugurated-dhaka-focus-quality-education-1329726",
-    "source": "The Business Standard",
-    "published": "2026-01-08T19:20:00+00:00"
   },
   {
     "title": "Is it even worth mentioning that Elon Musk blew past his own Full Self-Driving goals again?",
@@ -576,22 +576,16 @@
     "published": "2026-01-08T19:00:00+00:00"
   },
   {
-    "title": "The best deals on 4K TVs",
-    "link": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
-    "source": "The Verge",
-    "published": "2026-01-08T18:50:17+00:00"
-  },
-  {
     "title": "Weekly quiz: Which sport helped Timoth\u00e9e Chalamet win a Best Actor award?",
     "link": "https://www.bbc.com/news/articles/c74w3qx4j5no?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-08T18:45:01+00:00"
   },
   {
-    "title": "DU syndicate to recommend renaming Sheikh Mujib hall after Osman Hadi",
-    "link": "https://www.tbsnews.net/bangladesh/du-syndicate-recommend-renaming-sheikh-mujib-hall-after-osman-hadi-1329716",
-    "source": "The Business Standard",
-    "published": "2026-01-08T18:45:00+00:00"
+    "title": "Nigerian author Chimamanda Ngozi Adichie 'devastated' by death of young son",
+    "link": "https://www.bbc.com/news/articles/c62wx32re2po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-08T18:35:01+00:00"
   },
   {
     "title": "The fatal Minneapolis ICE shooting",
@@ -610,12 +604,6 @@
     "link": "https://www.theatlantic.com/health/2026/01/fake-patients-american-healthcare/685510/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-08T16:14:54+00:00"
-  },
-  {
-    "title": "The Rise of the Self-Serve Blood Test",
-    "link": "https://www.nytimes.com/2026/01/08/well/function-health-blood-tests.html",
-    "source": "New York Times",
-    "published": "2026-01-08T16:12:26+00:00"
   },
   {
     "title": "Change May Be Coming to Iran",
