@@ -1,5 +1,71 @@
 [
   {
+    "title": "Prosecutor Asks for Owner of Swiss Bar Hit by Deadly Fire to Be Detained",
+    "link": "https://www.nytimes.com/2026/01/09/world/europe/switzerland-fire-bar-owner-arrested.html",
+    "source": "New York Times",
+    "published": "2026-01-09T23:12:38+00:00"
+  },
+  {
+    "title": "Washington National Opera Is Leaving the Kennedy Center",
+    "link": "https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html",
+    "source": "New York Times",
+    "published": "2026-01-09T23:09:08+00:00"
+  },
+  {
+    "title": "X accuses music publishers of &#8216;weaponizing&#8217; DMCA takedowns",
+    "link": "https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit",
+    "source": "The Verge",
+    "published": "2026-01-09T22:59:24+00:00"
+  },
+  {
+    "title": "This company could help bring Auracast to an iPhone near you",
+    "link": "https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026",
+    "source": "The Verge",
+    "published": "2026-01-09T22:56:41+00:00"
+  },
+  {
+    "title": "AI is coming for collectibles next",
+    "link": "https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026",
+    "source": "The Verge",
+    "published": "2026-01-09T22:52:36+00:00"
+  },
+  {
+    "title": "Minnesota Leaders Say ICE Shooting Investigation Should Include State Agents",
+    "link": "https://www.nytimes.com/2026/01/09/us/ice-shooting-investigation-minnesota-agents.html",
+    "source": "New York Times",
+    "published": "2026-01-09T22:38:23+00:00"
+  },
+  {
+    "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
+    "link": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-09T22:37:25+00:00"
+  },
+  {
+    "title": "AI\u2019s Memorization Crisis",
+    "link": "https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-01-09T22:35:54+00:00"
+  },
+  {
+    "title": "RFK Jr.\u2019s Dietary Guidelines Face Criticism for Conflicts of Interest",
+    "link": "https://www.nytimes.com/2026/01/09/well/dietary-guidelines-conflicts-of-interest.html",
+    "source": "New York Times",
+    "published": "2026-01-09T22:34:06+00:00"
+  },
+  {
+    "title": "A Look at Iran\u2019s Antigovernment Protests",
+    "link": "https://www.nytimes.com/video/world/middleeast/100000010627398/a-look-at-irans-antigovernment-protests.html",
+    "source": "New York Times",
+    "published": "2026-01-09T22:29:36+00:00"
+  },
+  {
+    "title": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
+    "link": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-09T22:27:47+00:00"
+  },
+  {
     "title": "Federal Officials Identify Pair Shot by Border Patrol in Portland, Ore.",
     "link": "https://www.nytimes.com/2026/01/09/us/portland-immigration-shooting.html",
     "source": "New York Times",
@@ -12,10 +78,22 @@
     "published": "2026-01-09T22:09:05+00:00"
   },
   {
+    "title": "Trump's Venezuela oil meeting starts with few concrete promises",
+    "link": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-09T22:07:18+00:00"
+  },
+  {
     "title": "Man Stole Dozens of Skeletons From Pennsylvania Cemetery, Authorities Say",
     "link": "https://www.nytimes.com/2026/01/09/us/grave-robbery-bones-remains-pennsylvania.html",
     "source": "New York Times",
     "published": "2026-01-09T21:54:35+00:00"
+  },
+  {
+    "title": "Mamdani Responds Cautiously After the Police Kill 2 People in One Night",
+    "link": "https://www.nytimes.com/2026/01/09/nyregion/mamdani-nypd-shootings.html",
+    "source": "New York Times",
+    "published": "2026-01-09T21:45:15+00:00"
   },
   {
     "title": "X could face UK ban over deepfakes, minister says",
@@ -27,7 +105,7 @@
     "title": "Jobs Report Shows U.S. Hiring Slowed One Year Into Trump\u2019s Second Term",
     "link": "https://www.nytimes.com/2026/01/09/us/politics/us-hiring-economy-trump-second-term.html",
     "source": "New York Times",
-    "published": "2026-01-09T21:39:14+00:00"
+    "published": "2026-01-09T21:39:15+00:00"
   },
   {
     "title": "Tim Cook and Sundar Pichai are cowards",
@@ -40,12 +118,6 @@
     "link": "https://www.nytimes.com/2026/01/09/us/politics/congress-republicans-trump-distancing.html",
     "source": "New York Times",
     "published": "2026-01-09T21:23:21+00:00"
-  },
-  {
-    "title": "Minnesota Leaders Say ICE Shooting Investigation Should Include State Agents",
-    "link": "https://www.nytimes.com/2026/01/09/us/ice-shooting-investigation-minnesota-agents.html",
-    "source": "New York Times",
-    "published": "2026-01-09T21:10:02+00:00"
   },
   {
     "title": "Stand-Up Comedy, All Joking Aside",
@@ -84,10 +156,10 @@
     "published": "2026-01-09T20:42:48+00:00"
   },
   {
-    "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
-    "link": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-09T20:35:10+00:00"
+    "title": "Christopher Raia to Be FBI Deputy Director After Bongino\u2019s Departure",
+    "link": "https://www.nytimes.com/2026/01/09/us/politics/fbi-deputy-director-christopher-raia.html",
+    "source": "New York Times",
+    "published": "2026-01-09T20:34:47+00:00"
   },
   {
     "title": "Measles Outbreak in South Carolina Worsens",
@@ -132,6 +204,12 @@
     "published": "2026-01-09T20:06:42+00:00"
   },
   {
+    "title": "Trump Seeks New Powers to Pressure \u2018Underperforming\u2019 Weapons Makers",
+    "link": "https://www.nytimes.com/2026/01/09/business/trump-defense-industry-executive-order.html",
+    "source": "New York Times",
+    "published": "2026-01-09T19:58:46+00:00"
+  },
+  {
     "title": "Iran\u2019s Supreme Leader Vows to \u2018Not Back Down\u2019 as Protests Swell",
     "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html",
     "source": "New York Times",
@@ -162,12 +240,6 @@
     "published": "2026-01-09T19:13:32+00:00"
   },
   {
-    "title": "Yemeni Separatists Say They Are Disbanding, but Move Is in Dispute",
-    "link": "https://www.nytimes.com/2026/01/09/world/middleeast/yemeni-separatists-disband.html",
-    "source": "New York Times",
-    "published": "2026-01-09T19:08:12+00:00"
-  },
-  {
     "title": "E.U. and South America to Form Free-Trade Zone With 700 Million People",
     "link": "https://www.nytimes.com/2026/01/09/business/economy/european-union-mercosur-trade.html",
     "source": "New York Times",
@@ -178,12 +250,6 @@
     "link": "https://www.nytimes.com/2026/01/05/business/economy/business-economy-jobs-report-december.html",
     "source": "New York Times",
     "published": "2026-01-09T18:57:53+00:00"
-  },
-  {
-    "title": "RFK Jr.\u2019s Dietary Guidelines Face Criticism for Conflicts of Interest",
-    "link": "https://www.nytimes.com/2026/01/09/well/dietary-guidelines-conflicts-of-interest.html",
-    "source": "New York Times",
-    "published": "2026-01-09T18:53:49+00:00"
   },
   {
     "title": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
@@ -216,28 +282,10 @@
     "published": "2026-01-09T18:13:31+00:00"
   },
   {
-    "title": "Prosecutor Asks for Owner of Swiss Bar Hit by Deadly Fire to Be Detained",
-    "link": "https://www.nytimes.com/2026/01/09/world/europe/switzerland-fire-bar-owner-arrested.html",
-    "source": "New York Times",
-    "published": "2026-01-09T18:11:34+00:00"
-  },
-  {
     "title": "Black Mirror has been renewed for another season",
     "link": "https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8",
     "source": "The Verge",
     "published": "2026-01-09T18:10:45+00:00"
-  },
-  {
-    "title": "US seizes fifth oil tanker linked to Venezuela, officials say",
-    "link": "https://www.bbc.com/news/articles/cdxj28xd542o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-09T18:09:58+00:00"
-  },
-  {
-    "title": "I can\u2019t find the Trump phone at America\u2019s largest tech show",
-    "link": "https://www.theverge.com/tech/859023/i-cant-find-the-trump-phone-at-americans-largest-tech-show",
-    "source": "The Verge",
-    "published": "2026-01-09T18:05:57+00:00"
   },
   {
     "title": "Wrongly released sex offender admits crimes",
@@ -256,12 +304,6 @@
     "link": "https://www.nytimes.com/2026/01/09/business/media/netflix-the-rip-ben-affleck-matt-damon.html",
     "source": "New York Times",
     "published": "2026-01-09T18:01:24+00:00"
-  },
-  {
-    "title": "I\u2019ve tested the latest Switch 2 controllers, and this one is the best",
-    "link": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
-    "source": "The Verge",
-    "published": "2026-01-09T18:00:38+00:00"
   },
   {
     "title": "Can We Save the Internet?",
@@ -288,16 +330,10 @@
     "published": "2026-01-09T17:42:06+00:00"
   },
   {
-    "title": "Tens of thousands without power as snow and ice warnings cover most of UK",
+    "title": "Snow and ice warnings cover most of UK as tens of thousands without power",
     "link": "https://www.bbc.com/news/articles/cvgdezxj617o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-09T17:35:20+00:00"
-  },
-  {
-    "title": "The first sets with Lego\u2019s new Smart Brick are now available for preorder",
-    "link": "https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets",
-    "source": "The Verge",
-    "published": "2026-01-09T17:31:29+00:00"
   },
   {
     "title": "Google\u2019s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy",
@@ -336,12 +372,6 @@
     "published": "2026-01-09T16:47:37+00:00"
   },
   {
-    "title": "The Week: How Does Starmer Handle Trump, Grok and What's Going On In Iran?",
-    "link": "https://www.bbc.co.uk/sounds/play/p0mt4qyc?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-09T16:41:00+00:00"
-  },
-  {
     "title": "Severe gas pressure crisis hits Dhaka due to water intrusion during pipeline repair: Titas",
     "link": "https://www.tbsnews.net/bangladesh/energy/severe-gas-pressure-crisis-hits-dhaka-due-water-intrusion-during-pipeline-repair",
     "source": "The Business Standard",
@@ -372,6 +402,12 @@
     "published": "2026-01-09T16:26:13+00:00"
   },
   {
+    "title": "Tarique Rahman becomes BNP chairman",
+    "link": "https://www.tbsnews.net/bangladesh/politics/tarique-assumes-office-bnp-chairman-1330266",
+    "source": "The Business Standard",
+    "published": "2026-01-09T16:25:00+00:00"
+  },
+  {
     "title": "Bangladesh economy to grow 4.6%, inflation to ease to 7.1% in FY26: UN report",
     "link": "https://www.tbsnews.net/economy/bangladesh-economy-grow-46-inflation-ease-71-fy26-un-report-1330271",
     "source": "The Business Standard",
@@ -380,12 +416,6 @@
   {
     "title": "1,362 looted weapons remain missing nationwide amid election security concerns",
     "link": "https://www.tbsnews.net/bangladesh/1362-looted-weapons-remain-missing-nationwide-amid-election-security-concerns-1330276",
-    "source": "The Business Standard",
-    "published": "2026-01-09T16:25:00+00:00"
-  },
-  {
-    "title": "Tarique Rahman becomes BNP chairman",
-    "link": "https://www.tbsnews.net/bangladesh/politics/tarique-assumes-office-bnp-chairman-1330266",
     "source": "The Business Standard",
     "published": "2026-01-09T16:25:00+00:00"
   },
@@ -640,11 +670,5 @@
     "link": "https://www.theatlantic.com/newsletters/2026/01/old-american-imperialism-trump-power-abroad/685558/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-08T23:18:00+00:00"
-  },
-  {
-    "title": "Trump Has Odd Views on Domestic Terrorism",
-    "link": "https://www.theatlantic.com/ideas/2026/01/trump-ice-minnesota-january-6/685555/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-08T23:16:00+00:00"
   }
 ]
