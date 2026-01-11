@@ -1,5 +1,47 @@
 [
   {
+    "title": "Watch: The Women's Football Show",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002pwjt?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-11T21:51:00+00:00"
+  },
+  {
+    "title": "As Death Toll Surges in Iran, Leaders Take Tough Line Against Protesters",
+    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html",
+    "source": "New York Times",
+    "published": "2026-01-11T21:10:51+00:00"
+  },
+  {
+    "title": "'Fragile' Man Utd set for fewest games in season since 1914-15",
+    "link": "https://www.bbc.com/sport/football/articles/cly53k69xj1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-11T21:07:18+00:00"
+  },
+  {
+    "title": "Once Again, Oldest Mississippi Synagogue is Attacked With Fire",
+    "link": "https://www.nytimes.com/2026/01/11/us/mississippi-synagogue-arson-attack-suspect.html",
+    "source": "New York Times",
+    "published": "2026-01-11T21:05:16+00:00"
+  },
+  {
+    "title": "Why Are Iranians Protesting? What to Know About the Unrest.",
+    "link": "https://www.nytimes.com/article/iran-protests-inflation-currency.html",
+    "source": "New York Times",
+    "published": "2026-01-11T20:58:11+00:00"
+  },
+  {
+    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
+    "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html",
+    "source": "New York Times",
+    "published": "2026-01-11T20:47:15+00:00"
+  },
+  {
+    "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
+    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-11T20:32:27+00:00"
+  },
+  {
     "title": "America's top figure skaters dazzled St. Louis. I left with a new love for the sport.",
     "link": "https://www.npr.org/sections/the-picture-show/2026/01/11/g-s1-105436/americas-top-figure-skaters-dazzled-st-louis-i-left-with-a-new-love-for-the-sport",
     "source": "NPR",
@@ -36,28 +78,10 @@
     "published": "2026-01-11T19:21:02+00:00"
   },
   {
-    "title": "Goals, shocks and fan power on a record-breaking FA Cup weekend",
-    "link": "https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-11T19:21:02+00:00"
-  },
-  {
     "title": "Google pulls AI overviews for some medical searches",
     "link": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
     "source": "The Verge",
     "published": "2026-01-11T19:19:40+00:00"
-  },
-  {
-    "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-11T19:13:46+00:00"
-  },
-  {
-    "title": "As Death Toll Surges in Iran, Leaders Take Tough Line Against Protesters",
-    "link": "https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html",
-    "source": "New York Times",
-    "published": "2026-01-11T19:10:50+00:00"
   },
   {
     "title": "Onion imports from India halted through Benapole for 2 weeks",
@@ -76,18 +100,6 @@
     "link": "https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness",
     "source": "The Verge",
     "published": "2026-01-11T19:00:00+00:00"
-  },
-  {
-    "title": "Once Again, Oldest Mississippi Synagogue is Attacked With Fire",
-    "link": "https://www.nytimes.com/2026/01/11/us/mississippi-synagogue-arson-attack-suspect.html",
-    "source": "New York Times",
-    "published": "2026-01-11T18:51:56+00:00"
-  },
-  {
-    "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
-    "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html",
-    "source": "New York Times",
-    "published": "2026-01-11T18:51:51+00:00"
   },
   {
     "title": "Bob Weir, a Virtuoso of Hot Pants",
@@ -112,12 +124,6 @@
     "link": "https://www.nytimes.com/2026/01/11/us/politics/guantanamo-prison-25th-anniversary.html",
     "source": "New York Times",
     "published": "2026-01-11T18:08:22+00:00"
-  },
-  {
-    "title": "Arsenal beat Portsmouth thanks to Martinelli hat-trick",
-    "link": "https://www.bbc.com/sport/football/videos/cq5yw5d6vppo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-11T18:06:52+00:00"
   },
   {
     "title": "EastEnders actor Derek Martin dies aged 92",
@@ -174,14 +180,14 @@
     "published": "2026-01-11T16:30:00+00:00"
   },
   {
-    "title": "Navy seeks land work in Maheshkhali solar plant to protect submarines, cables",
-    "link": "https://www.tbsnews.net/bangladesh/energy/navy-seeks-land-work-maheshkhali-solar-plant-protect-submarines-cables-1331916",
+    "title": "Will build libraries in every ward: Dhaka-4 BNP candidate Robin",
+    "link": "https://www.tbsnews.net/bangladesh/politics/will-build-libraries-every-ward-dhaka-4-bnp-candidate-robin-1331921",
     "source": "The Business Standard",
     "published": "2026-01-11T16:20:00+00:00"
   },
   {
-    "title": "Will build libraries in every ward: Dhaka-4 BNP candidate Robin",
-    "link": "https://www.tbsnews.net/bangladesh/politics/will-build-libraries-every-ward-dhaka-4-bnp-candidate-robin-1331921",
+    "title": "Navy seeks land work in Maheshkhali solar plant to protect submarines, cables",
+    "link": "https://www.tbsnews.net/bangladesh/energy/navy-seeks-land-work-maheshkhali-solar-plant-protect-submarines-cables-1331916",
     "source": "The Business Standard",
     "published": "2026-01-11T16:20:00+00:00"
   },
@@ -472,12 +478,6 @@
     "link": "https://www.npr.org/2026/01/11/nx-s1-5673845/iran-us-israel-targets-protests",
     "source": "NPR",
     "published": "2026-01-11T07:46:38+00:00"
-  },
-  {
-    "title": "Trump Is Briefed on Options for Striking Iran as Protests Continue",
-    "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-iran-strikes.html",
-    "source": "New York Times",
-    "published": "2026-01-11T03:57:21+00:00"
   },
   {
     "title": "Nationwide anti-ICE protests call for accountability after Renee Good's death",
