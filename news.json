@@ -1,9 +1,171 @@
 [
   {
-    "title": "The Internet Novel Is Growing Up",
+    "title": "A.I. Is Real. But OpenAI Might Still Fail.",
+    "link": "https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html",
+    "source": "New York Times",
+    "published": "2026-01-13T16:18:26+00:00"
+  },
+  {
+    "title": "New Birmingham-Manchester rail link to be proposed",
+    "link": "https://www.bbc.com/news/articles/c75xrwlw5n2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T16:14:23+00:00"
+  },
+  {
+    "title": "Trump Urges Antigovernment Protesters in Iran to \u2018Take Over\u2019",
+    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/trump-iran-antigovernment-protests.html",
+    "source": "New York Times",
+    "published": "2026-01-13T16:14:22+00:00"
+  },
+  {
+    "title": "Man jailed for killing golfer after police pursuit",
+    "link": "https://www.bbc.com/news/articles/c041e4xqwnqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T16:13:34+00:00"
+  },
+  {
+    "title": "Former NYC Mayor Eric Adams accused of $2.5 million crypto \u2018rug pull\u2019 as his NYC Token crashes",
+    "link": "https://www.theverge.com/news/861269/former-nyc-mayor-eric-adams-accused-of-2-5-million-crypto-rug-pull-as-his-nyc-token-crashes",
+    "source": "The Verge",
+    "published": "2026-01-13T16:06:37+00:00"
+  },
+  {
+    "title": "Enforced disappearances weren't isolated incidents, but instrument of governance: Commission",
+    "link": "https://www.tbsnews.net/bangladesh/enforced-disappearances-werent-isolated-incidents-instrument-governance-commission",
+    "source": "The Business Standard",
+    "published": "2026-01-13T16:05:00+00:00"
+  },
+  {
+    "title": "That Restaurant You Love Will Close One Day. What to Do?",
+    "link": "https://www.nytimes.com/2026/01/13/dining/favorite-restaurants-closing-visits.html",
+    "source": "New York Times",
+    "published": "2026-01-13T16:02:53+00:00"
+  },
+  {
+    "title": "Scott Adams, Audacious Creator of the \u2018Dilbert\u2019 Comic Strip, Dies at 68",
+    "link": "https://www.nytimes.com/2026/01/13/arts/scott-adams-dead.html",
+    "source": "New York Times",
+    "published": "2026-01-13T16:01:39+00:00"
+  },
+  {
+    "title": "CPI Report Shows Food Prices Rose Sharply in December",
+    "link": "https://www.nytimes.com/2026/01/13/business/economy/inflation-cpi-report-food-prices.html",
+    "source": "New York Times",
+    "published": "2026-01-13T16:01:16+00:00"
+  },
+  {
+    "title": "UK summons Iranian ambassador over 'brutal' killings",
+    "link": "https://www.bbc.com/news/articles/cn0kzy5rl85o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T15:58:14+00:00"
+  },
+  {
+    "title": "Gourmet Magazine Is Back. It\u2019s Not Exactly Sanctioned.",
+    "link": "https://www.nytimes.com/2026/01/13/business/media/gourmet-magazine-newsletter.html",
+    "source": "New York Times",
+    "published": "2026-01-13T15:51:35+00:00"
+  },
+  {
+    "title": "Dreame brings 8K video to compact action cameras",
+    "link": "https://www.theverge.com/tech/861248/dreame-leaptic-cube-action-camera-8k-stabilization-ai",
+    "source": "The Verge",
+    "published": "2026-01-13T15:51:04+00:00"
+  },
+  {
+    "title": "What are the measures required for accountability and non-repetition of enforced disappearances?",
+    "link": "https://www.tbsnews.net/bangladesh/what-are-measures-required-accountability-and-non-repetition-enforced-disappearances",
+    "source": "The Business Standard",
+    "published": "2026-01-13T15:50:00+00:00"
+  },
+  {
+    "title": "As Iran's protests continue, Israelis and Palestinians watch closely",
+    "link": "https://www.npr.org/2026/01/13/g-s1-105849/iran-protests-israel-palestinian-reaction",
+    "source": "NPR",
+    "published": "2026-01-13T15:47:50+00:00"
+  },
+  {
+    "title": "Marvel won&#8217;t let you forget Avengers: Doomsday is coming",
+    "link": "https://www.theverge.com/entertainment/861185/marvel-studios-avengers-doomsday-countdown-teaser-black-panther-fantastic-four",
+    "source": "The Verge",
+    "published": "2026-01-13T15:45:10+00:00"
+  },
+  {
+    "title": "Three men guilty of harassing BBC journalist over A Very British Cult documentary",
+    "link": "https://www.bbc.com/news/articles/c86vg999g1zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T15:41:31+00:00"
+  },
+  {
+    "title": "Bangladesh\u2019s economy grows by 4.50% in Q1 of FY26",
+    "link": "https://www.tbsnews.net/bangladesh/bangladeshs-economy-grows-450-q1-fy26-1333541",
+    "source": "The Business Standard",
+    "published": "2026-01-13T15:40:00+00:00"
+  },
+  {
+    "title": "BERC to hold public hearing on fixing furnace oil price this month",
+    "link": "https://www.tbsnews.net/bangladesh/berc-hold-public-hearing-fixing-furnace-oil-price-month-1333536",
+    "source": "The Business Standard",
+    "published": "2026-01-13T15:35:00+00:00"
+  },
+  {
+    "title": "BTS stand to make $1bn as they announce mammoth comeback tour",
+    "link": "https://www.bbc.com/news/articles/c79rqzv1e7ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T15:34:32+00:00"
+  },
+  {
+    "title": "Microsoft scrambles to quell fury around its new AI data centers",
+    "link": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
+    "source": "The Verge",
+    "published": "2026-01-13T15:33:41+00:00"
+  },
+  {
+    "title": "We choose Denmark over US, Greenland's PM says",
+    "link": "https://www.bbc.com/news/articles/c4g3kw5ezepo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T15:31:16+00:00"
+  },
+  {
+    "title": "Hundreds from Met Police declare Freemasons links",
+    "link": "https://www.bbc.com/news/articles/c1m7zln0x3eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T15:24:52+00:00"
+  },
+  {
+    "title": "Facing Contempt Threat, Clintons Refuse to Testify in Epstein Inquiry",
+    "link": "https://www.nytimes.com/2026/01/13/us/politics/bill-hillary-clinton-testimony-epstein-inquiry-contempt.html",
+    "source": "New York Times",
+    "published": "2026-01-13T15:21:10+00:00"
+  },
+  {
+    "title": "ISPR issues press release on death of detainee during a joint forces operation in Chuadanga",
+    "link": "https://www.tbsnews.net/bangladesh/ispr-issues-press-release-death-detainee-during-joint-forces-operation-chuadanga-1333531",
+    "source": "The Business Standard",
+    "published": "2026-01-13T15:20:00+00:00"
+  },
+  {
+    "title": "Prosecutors Seek Death Penalty for Former South Korea President",
+    "link": "https://www.nytimes.com/2026/01/13/world/asia/south-korea-yoon-death-penalty.html",
+    "source": "New York Times",
+    "published": "2026-01-13T15:19:29+00:00"
+  },
+  {
+    "title": "The Unhappy Literary Families of the Internet Age",
     "link": "https://www.theatlantic.com/books/2026/01/madeline-cash-lost-lambs-book-review-internet-novel/685595/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-13T15:17:20+00:00"
+  },
+  {
+    "title": "Metro rail to open extended route up to Kamalapur in January 2027",
+    "link": "https://www.tbsnews.net/bangladesh/metro-rail-open-extended-route-kamalapur-january-2027-1333521",
+    "source": "The Business Standard",
+    "published": "2026-01-13T15:15:00+00:00"
+  },
+  {
+    "title": "Bangladeshi diaspora keen to contribute to economic development",
+    "link": "https://www.tbsnews.net/bangladesh/bangladeshi-diaspora-keen-contribute-economic-development-1333526",
+    "source": "The Business Standard",
+    "published": "2026-01-13T15:15:00+00:00"
   },
   {
     "title": "As Iran\u2019s Government Tries to Quell Protests, Accounts of Brutal Crackdown Emerge",
@@ -12,8 +174,8 @@
     "published": "2026-01-13T15:13:36+00:00"
   },
   {
-    "title": "Who is opposing Sakrain?",
-    "link": "https://www.tbsnews.net/bangladesh/who-opposing-sakrain-1333511",
+    "title": "Who are opposing Sakrain?",
+    "link": "https://www.tbsnews.net/bangladesh/who-are-opposing-sakrain-1333511",
     "source": "The Business Standard",
     "published": "2026-01-13T15:00:00+00:00"
   },
@@ -22,18 +184,6 @@
     "link": "https://www.theverge.com/tech/859914/the-verge-ces-2026-after-show-ama",
     "source": "The Verge",
     "published": "2026-01-13T15:00:00+00:00"
-  },
-  {
-    "title": "Can James Talarico Reclaim Christianity for the Left?",
-    "link": "https://www.nytimes.com/2026/01/13/opinion/ezra-klein-podcast-james-talarico.html",
-    "source": "New York Times",
-    "published": "2026-01-13T14:53:08+00:00"
-  },
-  {
-    "title": "CPI Report Shows Food Prices Rose Sharply in December",
-    "link": "https://www.nytimes.com/2026/01/13/business/economy/inflation-cpi-report-food-prices.html",
-    "source": "New York Times",
-    "published": "2026-01-13T14:45:15+00:00"
   },
   {
     "title": "Application filed with HC seeking status quo on NCT operation deal with foreign company",
@@ -48,12 +198,6 @@
     "published": "2026-01-13T14:45:00+00:00"
   },
   {
-    "title": "Facing Contempt Threat, Clintons Refuse to Testify in Epstein Inquiry",
-    "link": "https://www.nytimes.com/2026/01/13/us/politics/bill-hillary-clinton-testimony-epstein-inquiry-contempt.html",
-    "source": "New York Times",
-    "published": "2026-01-13T14:42:18+00:00"
-  },
-  {
     "title": "GDP growth rises to 4.50% in first quarter of FY26",
     "link": "https://www.tbsnews.net/economy/gdp-growth-rises-450-first-quarter-fy26-1333491",
     "source": "The Business Standard",
@@ -64,12 +208,6 @@
     "link": "https://www.tbsnews.net/bangladesh/53-more-get-back-candidacy-4th-day-hearing-ec-1333506",
     "source": "The Business Standard",
     "published": "2026-01-13T14:40:00+00:00"
-  },
-  {
-    "title": "Trump Says He Will Impose Tariffs on Iran\u2019s Trading Partners: What to Know",
-    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/trump-iran-tariffs-trade.html",
-    "source": "New York Times",
-    "published": "2026-01-13T14:35:20+00:00"
   },
   {
     "title": "What Apple and Google\u2019s Gemini deal means for both companies",
@@ -96,12 +234,6 @@
     "published": "2026-01-13T14:24:52+00:00"
   },
   {
-    "title": "New Birmingham-Manchester rail link to be proposed",
-    "link": "https://www.bbc.com/news/articles/c75xrwlw5n2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-13T14:21:42+00:00"
-  },
-  {
     "title": "What High School Seniors Wrote in Their College Admissions Essays",
     "link": "https://www.nytimes.com/2026/01/13/us/college-admissions-essays-affirmative-action-racial-identity.html",
     "source": "New York Times",
@@ -112,6 +244,12 @@
     "link": "https://www.nytimes.com/2026/01/13/world/europe/marine-le-pen-trial-appeal-electoral-ban.html",
     "source": "New York Times",
     "published": "2026-01-13T14:13:39+00:00"
+  },
+  {
+    "title": "A Governor\u2019s Legacy: Fewer Shootings, Free College and Covid Deaths",
+    "link": "https://www.nytimes.com/2026/01/13/nyregion/phil-murphy-legacy-new-jersey-governor.html",
+    "source": "New York Times",
+    "published": "2026-01-13T14:08:48+00:00"
   },
   {
     "title": "Security forces and architecture of secret detention: What the final report says on their roles",
@@ -138,40 +276,16 @@
     "published": "2026-01-13T13:55:58+00:00"
   },
   {
-    "title": "Hundreds from Met Police declare Freemasons links",
-    "link": "https://www.bbc.com/news/articles/c1m7zln0x3eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-13T13:54:56+00:00"
-  },
-  {
-    "title": "Greenland Would Be the Largest U.S. Land Acquisition, if Trump Got His Way",
-    "link": "https://www.nytimes.com/2026/01/13/world/europe/greenland-trump-size.html",
-    "source": "New York Times",
-    "published": "2026-01-13T13:53:07+00:00"
-  },
-  {
-    "title": "Red Arrows get first woman leader",
+    "title": "Red Arrows get first female leader",
     "link": "https://www.bbc.com/news/articles/cedwg1g04zjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-13T13:50:08+00:00"
-  },
-  {
-    "title": "Man jailed for killing golfer after police pursuit",
-    "link": "https://www.bbc.com/news/articles/c041e4xqwnqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-13T13:47:08+00:00"
   },
   {
     "title": "Bangladesh sets Guinness World Record with largest flag-parachuting display on Victory Day",
     "link": "https://www.tbsnews.net/bangladesh/bangladesh-sets-guinness-world-record-largest-flag-parachuting-display-victory-day",
     "source": "The Business Standard",
     "published": "2026-01-13T13:40:00+00:00"
-  },
-  {
-    "title": "BBC seeks dismissal of Trump's multi-billion dollar defamation lawsuit",
-    "link": "https://www.bbc.com/news/articles/c394x4z8kpdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-13T13:33:21+00:00"
   },
   {
     "title": "Which countries do business with Iran  and what could US tariffs mean?",
@@ -258,12 +372,6 @@
     "published": "2026-01-13T12:30:00+00:00"
   },
   {
-    "title": "1,008 children killed in road accidents in 2025: Road Safety Foundation",
-    "link": "https://www.tbsnews.net/bangladesh/1008-children-killed-road-accidents-2025-road-safety-foundation-1333346",
-    "source": "The Business Standard",
-    "published": "2026-01-13T12:15:00+00:00"
-  },
-  {
     "title": "Chinese firm invests in modern garment accessories",
     "link": "https://www.tbsnews.net/economy/chinese-firm-invests-modern-garment-accessories-1333351",
     "source": "The Business Standard",
@@ -274,18 +382,6 @@
     "link": "https://www.npr.org/2026/01/13/g-s1-105846/up-first-newsletter-trump-iran-minneapolis-ice-shooting-scotus-trans-sports",
     "source": "NPR",
     "published": "2026-01-13T12:13:08+00:00"
-  },
-  {
-    "title": "Bangladesh launches 'MUN Alert, toll-free helpline 13219 to report missing children",
-    "link": "https://www.tbsnews.net/bangladesh/bangladesh-launches-mun-alert-toll-free-helpline-13219-report-missing-children-1333336",
-    "source": "The Business Standard",
-    "published": "2026-01-13T12:05:00+00:00"
-  },
-  {
-    "title": "NCP\u2019s Akhtar Hossain acquitted in 2 cases linked to 2021 Modi visit protests",
-    "link": "https://www.tbsnews.net/bangladesh/ncps-akhtar-hossain-acquitted-2-cases-linked-2021-modi-visit-protests-1333331",
-    "source": "The Business Standard",
-    "published": "2026-01-13T12:00:00+00:00"
   },
   {
     "title": "Julian Barnes Says Goodbye to the Novel",
@@ -306,18 +402,6 @@
     "published": "2026-01-13T12:00:00+00:00"
   },
   {
-    "title": "A Crisis in Iran",
-    "link": "https://www.nytimes.com/2026/01/13/briefing/a-crisis-in-iran.html",
-    "source": "New York Times",
-    "published": "2026-01-13T11:56:17+00:00"
-  },
-  {
-    "title": "BNP delegation meets CEC Nasir Uddin",
-    "link": "https://www.tbsnews.net/bangladesh/politics/bnp-delegation-meets-cec-nasir-uddin-1333326",
-    "source": "The Business Standard",
-    "published": "2026-01-13T11:40:00+00:00"
-  },
-  {
     "title": "Lib Dems set out plan to end 12-hour A&E waits",
     "link": "https://www.bbc.com/news/articles/cj0nmj8r6g6o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -328,24 +412,6 @@
     "link": "https://www.nytimes.com/2026/01/13/podcasts/the-headlines/minnesota-trump-lawsuit-iran-protests.html",
     "source": "New York Times",
     "published": "2026-01-13T11:33:27+00:00"
-  },
-  {
-    "title": "Maritime experts, policymakers call for underwater domain awareness, smart ports",
-    "link": "https://www.tbsnews.net/bangladesh/maritime-experts-policymakers-call-underwater-domain-awareness-smart-ports-1333301",
-    "source": "The Business Standard",
-    "published": "2026-01-13T11:30:00+00:00"
-  },
-  {
-    "title": "Shipping Corp set to repay Tk203cr to govt, seven ships in procurement pipeline",
-    "link": "https://www.tbsnews.net/bangladesh/shipping-corp-hands-over-tk20347cr-govt-loan-repayment-dividends-1333306",
-    "source": "The Business Standard",
-    "published": "2026-01-13T11:30:00+00:00"
-  },
-  {
-    "title": "Auditors to face action over zeroed bank shares: Salehuddin",
-    "link": "https://www.tbsnews.net/bangladesh/auditors-face-action-over-zeroed-bank-shares-salehuddin-1333316",
-    "source": "The Business Standard",
-    "published": "2026-01-13T11:30:00+00:00"
   },
   {
     "title": "How the Supreme Court Broke Congress",
@@ -370,6 +436,12 @@
     "link": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
     "source": "The Verge",
     "published": "2026-01-13T10:18:59+00:00"
+  },
+  {
+    "title": "Carrick to bring in Holland as Man Utd assistant",
+    "link": "https://www.bbc.com/sport/football/articles/c0erq5gdvwqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-13T10:14:03+00:00"
   },
   {
     "title": "Ask The Morning: ICE and Deportations",
@@ -420,14 +492,14 @@
     "published": "2026-01-13T10:00:34+00:00"
   },
   {
-    "title": "Trump administration to shutter an immigration court, adding to judges' backlog",
-    "link": "https://www.npr.org/2026/01/13/g-s1-105679/san-francisco-immigration-court-closure",
+    "title": "Trump heads to Detroit to give a speech refocusing on the American economy",
+    "link": "https://www.npr.org/2026/01/13/nx-s1-5675293/trump-heads-to-detroit-to-give-a-speech-refocusing-on-the-american-economy",
     "source": "NPR",
     "published": "2026-01-13T10:00:00+00:00"
   },
   {
-    "title": "Trump heads to Detroit to give a speech refocusing on the American economy",
-    "link": "https://www.npr.org/2026/01/13/nx-s1-5675293/trump-heads-to-detroit-to-give-a-speech-refocusing-on-the-american-economy",
+    "title": "Trump administration to shutter an immigration court, adding to judges' backlog",
+    "link": "https://www.npr.org/2026/01/13/g-s1-105679/san-francisco-immigration-court-closure",
     "source": "NPR",
     "published": "2026-01-13T10:00:00+00:00"
   },
@@ -444,34 +516,16 @@
     "published": "2026-01-13T10:00:00+00:00"
   },
   {
-    "title": "Harry Styles teases fourth album with cryptic posters",
-    "link": "https://www.bbc.com/news/articles/c801pe4l49do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-13T09:54:45+00:00"
-  },
-  {
     "title": "I spent months trying to find out if boosting my gut health could help me age better",
     "link": "https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-13T09:49:40+00:00"
   },
   {
-    "title": "BTS fans ready as K-pop stars prepare for massive comeback",
-    "link": "https://www.bbc.com/news/articles/c17zdwvp198o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-13T09:00:52+00:00"
-  },
-  {
     "title": "People in Iran describe heavy security and some damage in first calls to outside world",
     "link": "https://www.npr.org/2026/01/13/g-s1-105832/iran-first-calls-outside-world",
     "source": "NPR",
     "published": "2026-01-13T08:09:55+00:00"
-  },
-  {
-    "title": "Mandelson makes personal apology for continuing Epstein friendship",
-    "link": "https://www.bbc.com/news/articles/ce9yv73klx5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-13T08:08:53+00:00"
   },
   {
     "title": "\u2019Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
@@ -492,12 +546,6 @@
     "published": "2026-01-13T06:52:23+00:00"
   },
   {
-    "title": "Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry",
-    "link": "https://www.npr.org/2026/01/13/nx-s1-5675781/pentagon-musks-grok-ai-chatbot-global-outcry",
-    "source": "NPR",
-    "published": "2026-01-13T06:36:38+00:00"
-  },
-  {
     "title": "Gavin Newsom Vows to Stop Proposed Billionaire Tax in California",
     "link": "https://www.nytimes.com/2026/01/13/us/newsom-billionaire-tax-california.html",
     "source": "New York Times",
@@ -516,22 +564,10 @@
     "published": "2026-01-13T02:44:53+00:00"
   },
   {
-    "title": "Minnesota and Illinois Sue Trump Administration Over ICE Deployments",
-    "link": "https://www.nytimes.com/2026/01/12/us/minnesota-llinois-lawsuit-ice-trump-administration.html",
-    "source": "New York Times",
-    "published": "2026-01-13T01:50:04+00:00"
-  },
-  {
     "title": "A Breathtaking Week of Pure Trump Id",
     "link": "https://www.theatlantic.com/politics/2026/01/trump-venezuela-ice-minnesota-powell/685593/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-13T01:27:00+00:00"
-  },
-  {
-    "title": "Trump\u2019s Plans for Venezuelan Oil Run Headlong Into Reality",
-    "link": "https://www.nytimes.com/2026/01/12/us/politics/trump-venezuela-oil-dominance-influence.html",
-    "source": "New York Times",
-    "published": "2026-01-13T01:15:14+00:00"
   },
   {
     "title": "Trump Suggests Renee Good\u2019s \u2018Disrespectful\u2019 Attitude Justified Fatal ICE Shooting",
@@ -564,52 +600,16 @@
     "published": "2026-01-13T00:17:31+00:00"
   },
   {
-    "title": "The best robot vacuums we\u2019ve tested for 2026",
-    "link": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
-    "source": "The Verge",
-    "published": "2026-01-13T00:04:56+00:00"
-  },
-  {
     "title": "Why Michael Sheen put his money on the line for new Welsh national theatre",
     "link": "https://www.bbc.com/news/articles/crrnwqj9kpno?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-13T00:01:09+00:00"
   },
   {
-    "title": "Fired Rockstar employees\u2019 plea for interim pay denied",
-    "link": "https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay",
-    "source": "The Verge",
-    "published": "2026-01-12T22:25:39+00:00"
-  },
-  {
-    "title": "Framework hikes desktop PC prices as RAM shortage drags on",
-    "link": "https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage",
-    "source": "The Verge",
-    "published": "2026-01-12T22:25:08+00:00"
-  },
-  {
     "title": "Some Other Things Donald Trump Will Probably Try to Buy",
     "link": "https://www.theatlantic.com/newsletters/2026/01/things-trump-can-buy-instead-of-greenland/685592/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-12T22:25:00+00:00"
-  },
-  {
-    "title": "Meta plans to lay off hundreds of metaverse employees this week",
-    "link": "https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse",
-    "source": "The Verge",
-    "published": "2026-01-12T22:14:58+00:00"
-  },
-  {
-    "title": "Richard Marx Is No Softy",
-    "link": "https://www.nytimes.com/2026/01/12/arts/music/richard-marx-after-hours.html",
-    "source": "New York Times",
-    "published": "2026-01-12T21:55:52+00:00"
-  },
-  {
-    "title": "Watch: How could Donald Trump respond?",
-    "link": "https://www.bbc.com/news/videos/cwy160gd773o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-12T21:50:36+00:00"
   },
   {
     "title": "Today\u2019s <em>Atlantic </em>Trivia: Our Deer Departed",
@@ -628,12 +628,6 @@
     "link": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-12T19:54:32+00:00"
-  },
-  {
-    "title": "What a new law and an investigation could mean for Grok AI deepfakes",
-    "link": "https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-12T19:38:53+00:00"
   },
   {
     "title": "The Sadiq Khan Interview",
@@ -664,11 +658,5 @@
     "link": "https://www.theatlantic.com/politics/2026/01/vance-defends-minneapolis-shooter-ice-maga-symbol/685584/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-12T16:37:00+00:00"
-  },
-  {
-    "title": "The Court Case That Is Allowing ICE to Stop Just About Anyone It Wants",
-    "link": "https://www.theatlantic.com/ideas/2026/01/scotus-case-ice-arrests-permission-whren/685587/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-12T16:10:23+00:00"
   }
 ]
