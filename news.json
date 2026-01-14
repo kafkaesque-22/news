@@ -1,21 +1,123 @@
 [
   {
+    "title": "Harper Lee Expanded on Her View of the South in Letters to a Friend",
+    "link": "https://www.nytimes.com/2026/01/14/arts/harper-lee-letters-opinions-civil-rights-movement.html",
+    "source": "New York Times",
+    "published": "2026-01-14T21:12:26+00:00"
+  },
+  {
+    "title": "Moment cargo ship crashes into oil tanker in North Sea",
+    "link": "https://www.bbc.com/news/videos/cz0p9v0yvlmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-14T21:10:05+00:00"
+  },
+  {
+    "title": "US and UK pulling some personnel from Qatar base as US considers Iran action",
+    "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-14T21:08:45+00:00"
+  },
+  {
+    "title": "Supreme Court Sides With Conservative Congressman in Illinois Election Rules Challenge",
+    "link": "https://www.nytimes.com/2026/01/14/us/politics/supreme-court-illinois-mail-ballot-rules.html",
+    "source": "New York Times",
+    "published": "2026-01-14T21:07:58+00:00"
+  },
+  {
+    "title": "The People of Iran Deserve the World\u2019s Support",
+    "link": "https://www.nytimes.com/2026/01/14/opinion/iran-protests-khamenei-trump.html",
+    "source": "New York Times",
+    "published": "2026-01-14T21:04:04+00:00"
+  },
+  {
+    "title": "NASA to Begin Space Station Medical Evacuation: Video and What to Know",
+    "link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+    "source": "New York Times",
+    "published": "2026-01-14T20:53:12+00:00"
+  },
+  {
+    "title": "Quebec Premier Fran\u00e7ois Legault Resigns Ahead of Elections",
+    "link": "https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html",
+    "source": "New York Times",
+    "published": "2026-01-14T20:51:11+00:00"
+  },
+  {
+    "title": "US launches phase two of Gaza peace plan with new technocratic government",
+    "link": "https://www.bbc.com/news/articles/cjw1nxe5pvlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-14T20:50:09+00:00"
+  },
+  {
+    "title": "U.S. Races to Sell Venezuelan Oil, Transforming Ties With Former Foe",
+    "link": "https://www.nytimes.com/2026/01/14/world/americas/venezuela-oil-us-deal.html",
+    "source": "New York Times",
+    "published": "2026-01-14T20:48:03+00:00"
+  },
+  {
+    "title": "AI\u2019s Biggest Moment Since ChatGPT",
+    "link": "https://www.theatlantic.com/technology/2026/01/claude-code-ai-hype/685617/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-01-14T20:48:00+00:00"
+  },
+  {
+    "title": "Amazon didn\u2019t have to go far to find its live-action Kratos",
+    "link": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
+    "source": "The Verge",
+    "published": "2026-01-14T20:47:08+00:00"
+  },
+  {
+    "title": "Federal Judges Uphold California\u2019s New Congressional Maps",
+    "link": "https://www.nytimes.com/2026/01/14/us/politics/federal-court-california-redistricting-decision.html",
+    "source": "New York Times",
+    "published": "2026-01-14T20:44:42+00:00"
+  },
+  {
+    "title": "Gallup: Independents Reach Record High as Democrats Make Voter Gains",
+    "link": "https://www.nytimes.com/2026/01/14/polls/gallup-independent-voters.html",
+    "source": "New York Times",
+    "published": "2026-01-14T20:30:06+00:00"
+  },
+  {
+    "title": "Mahmood has no confidence in police chief after Israeli fan ban",
+    "link": "https://www.bbc.com/news/articles/cvgn984j9d7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-14T20:24:18+00:00"
+  },
+  {
+    "title": "Republicans Move to Block Effort to Check Trump\u2019s Power in Venezuela",
+    "link": "https://www.nytimes.com/2026/01/14/us/politics/trump-venezuela-war-powers-vote.html",
+    "source": "New York Times",
+    "published": "2026-01-14T20:21:45+00:00"
+  },
+  {
+    "title": "F.B.I. Searches Home of Washington Post Journalist in a Leak Investigation",
+    "link": "https://www.nytimes.com/2026/01/14/us/politics/fbi-washington-post-journalist.html",
+    "source": "New York Times",
+    "published": "2026-01-14T20:21:13+00:00"
+  },
+  {
+    "title": "California investigates Grok over AI deepfakes",
+    "link": "https://www.bbc.com/news/articles/cpwnqlpw7gxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-14T20:19:22+00:00"
+  },
+  {
     "title": "White House defends Trump over middle-finger gesture at heckler",
     "link": "https://www.bbc.com/news/articles/c62w8exgw1zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-14T20:14:41+00:00"
   },
   {
-    "title": "NASA to Begin Space Station Medical Evacuation: Video and What to Know",
-    "link": "https://www.nytimes.com/2026/01/14/science/nasa-astronauts-iss-return.html",
+    "title": "What are Trump\u2019s Options in Iran?",
+    "link": "https://www.nytimes.com/video/world/middleeast/100000010640541/what-are-trumps-options-in-iran.html",
     "source": "New York Times",
-    "published": "2026-01-14T20:13:14+00:00"
+    "published": "2026-01-14T20:10:36+00:00"
   },
   {
-    "title": "F.B.I. Searches Home of Washington Post Journalist in a Leak Investigation",
-    "link": "https://www.nytimes.com/2026/01/14/us/politics/fbi-washington-post-journalist.html",
+    "title": "Forget Trump\u2019s Tariffs. The Real Danger Lies in China\u2019s Trade Surplus.",
+    "link": "https://www.nytimes.com/2026/01/14/opinion/china-trade-deficit-surplus-tariffs.html",
     "source": "New York Times",
-    "published": "2026-01-14T19:58:59+00:00"
+    "published": "2026-01-14T20:00:07+00:00"
   },
   {
     "title": "Denmark says there's a 'fundamental disagreement' with Trump over Greenland",
@@ -30,13 +132,7 @@
     "published": "2026-01-14T19:55:25+00:00"
   },
   {
-    "title": "Republicans Move to Block Effort to Check Trump\u2019s Power in Venezuela",
-    "link": "https://www.nytimes.com/2026/01/14/us/politics/trump-venezuela-war-powers-vote.html",
-    "source": "New York Times",
-    "published": "2026-01-14T19:52:40+00:00"
-  },
-  {
-    "title": "Trump\u2019s Most Dangerous Gambit",
+    "title": "Trump\u2019s Most Dangerous Obsession",
     "link": "https://www.theatlantic.com/ideas/2026/01/trump-greenland-risk-global-conflict/685616/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-14T19:47:51+00:00"
@@ -52,18 +148,6 @@
     "link": "https://www.nytimes.com/2026/01/14/upshot/home-construction-roofers-immigration.html",
     "source": "New York Times",
     "published": "2026-01-14T19:38:30+00:00"
-  },
-  {
-    "title": "Where\u2019s the Gym? At PureGym Locations, It\u2019s Through a Tube",
-    "link": "https://www.nytimes.com/2026/01/14/business/puregym-exits-fire-department.html",
-    "source": "New York Times",
-    "published": "2026-01-14T19:34:25+00:00"
-  },
-  {
-    "title": "Quebec Premier Fran\u00e7ois Legault Resigns Ahead of Elections",
-    "link": "https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html",
-    "source": "New York Times",
-    "published": "2026-01-14T19:32:49+00:00"
   },
   {
     "title": "BMW says electric M3 will be a \u2018new level\u2019 of performance",
@@ -90,12 +174,6 @@
     "published": "2026-01-14T19:27:00+00:00"
   },
   {
-    "title": "Mahmood has no confidence in police chief after Israeli fan ban",
-    "link": "https://www.bbc.com/news/articles/cvgn984j9d7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-14T19:26:05+00:00"
-  },
-  {
     "title": "Republicans Advance Stock-Trading Bill With Limited Restrictions",
     "link": "https://www.nytimes.com/2026/01/14/us/politics/republicans-stock-bill-trading.html",
     "source": "New York Times",
@@ -120,12 +198,6 @@
     "published": "2026-01-14T18:56:54+00:00"
   },
   {
-    "title": "Mary Peltola Puts Alaska in Play for Democrats",
-    "link": "https://www.nytimes.com/2026/01/14/opinion/politics/alaska-mary-peltola-senate.html",
-    "source": "New York Times",
-    "published": "2026-01-14T18:56:39+00:00"
-  },
-  {
     "title": "Netflix\u2019s first original podcasts star Pete Davidson and Michael Irvin",
     "link": "https://www.theverge.com/news/861971/netflix-original-podcasts-pete-davidson-michael-irvin",
     "source": "The Verge",
@@ -136,12 +208,6 @@
     "link": "https://www.nytimes.com/2026/01/14/us/minnesota-ice-lawsuit.html",
     "source": "New York Times",
     "published": "2026-01-14T18:55:57+00:00"
-  },
-  {
-    "title": "Supreme Court Sides With Conservative Congressman in Illinois Election Rules Challenge",
-    "link": "https://www.nytimes.com/2026/01/14/us/politics/supreme-court-illinois-mail-ballot-rules.html",
-    "source": "New York Times",
-    "published": "2026-01-14T18:53:00+00:00"
   },
   {
     "title": "Verizon\u2019s wireless network is down for many people nationwide",
@@ -166,12 +232,6 @@
     "link": "https://www.npr.org/2026/01/14/nx-s1-5668206/mlk-celebration-kennedy-center",
     "source": "NPR",
     "published": "2026-01-14T18:37:35+00:00"
-  },
-  {
-    "title": "US announces start of phase two of Gaza peace plan",
-    "link": "https://www.bbc.com/news/articles/cjw1nxe5pvlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-14T18:37:33+00:00"
   },
   {
     "title": "Can the ICE Agent Who Shot Renee Good in Minneapolis Be Prosecuted?",
@@ -294,12 +354,6 @@
     "published": "2026-01-14T17:12:24+00:00"
   },
   {
-    "title": "US and UK pulling some personnel from Qatar base as US considers Iran action",
-    "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-14T17:09:52+00:00"
-  },
-  {
     "title": "Julian Barnes on his last novel: 'I hope it's a good one to go out on'",
     "link": "https://www.bbc.com/news/articles/c99kn9xyekeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -354,12 +408,6 @@
     "published": "2026-01-14T16:35:00+00:00"
   },
   {
-    "title": "Swiss regions ban pyrotechnics in indoor public venues after ski bar fire",
-    "link": "https://www.bbc.com/news/articles/cgezqvwr54no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-14T16:32:15+00:00"
-  },
-  {
     "title": "Dissatisfaction over seat-sharing, Jamaat-led coalition faces uncertainty",
     "link": "https://www.tbsnews.net/bangladesh/politics/dissatisfaction-over-seat-sharing-jamaat-led-coalition-faces-uncertainty-1334466",
     "source": "The Business Standard",
@@ -408,34 +456,22 @@
     "published": "2026-01-14T16:15:00+00:00"
   },
   {
+    "title": "Tottenham sign Gallagher from Atletico for \u00a335m",
+    "link": "https://www.bbc.com/sport/football/articles/cddgzj33r2lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-14T16:14:59+00:00"
+  },
+  {
     "title": "Who is Erfan Soltani, Iranian protester reportedly facing execution?",
     "link": "https://www.bbc.com/news/articles/cd9e7vv042xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-14T16:14:00+00:00"
   },
   {
-    "title": "Trump Has Stopped Pretending That This Is All Normal",
-    "link": "https://www.nytimes.com/2026/01/14/opinion/trump-presidential-power-immunity.html",
-    "source": "New York Times",
-    "published": "2026-01-14T16:13:19+00:00"
-  },
-  {
-    "title": "Civilization VII is coming to Apple Arcade",
-    "link": "https://www.theverge.com/news/861816/civilization-vii-apple-arcade-launch",
-    "source": "The Verge",
-    "published": "2026-01-14T16:11:05+00:00"
-  },
-  {
     "title": "Zant Accessories to produce polyurethane, polyethylene foam under BEZA deal",
     "link": "https://www.tbsnews.net/economy/zant-accessories-produce-polyurethane-polyethylene-foam-under-beza-deal-1334431",
     "source": "The Business Standard",
     "published": "2026-01-14T16:10:00+00:00"
-  },
-  {
-    "title": "Harper Lee Expanded on Her View of the South in Letters to a Friend",
-    "link": "https://www.nytimes.com/2026/01/14/arts/harper-lee-letters-opinions-civil-rights-movement.html",
-    "source": "New York Times",
-    "published": "2026-01-14T16:00:12+00:00"
   },
   {
     "title": "Lung Cancer Stigma Keeps People From Care",
@@ -466,12 +502,6 @@
     "link": "https://www.theatlantic.com/science/2026/01/climate-economics/685609/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-14T15:51:20+00:00"
-  },
-  {
-    "title": "Jim McBride Dies at 78; Brought Honky-Tonk Back to Country Music",
-    "link": "https://www.nytimes.com/2026/01/14/arts/music/jim-mcbride-dead.html",
-    "source": "New York Times",
-    "published": "2026-01-14T15:48:22+00:00"
   },
   {
     "title": "SC lawyer files writ with HC seeking suspension of polls until looted arms are recovered",
@@ -552,12 +582,6 @@
     "published": "2026-01-14T13:24:59+00:00"
   },
   {
-    "title": "Amateur stuns world's best to win A$1m at Australian Open",
-    "link": "https://www.bbc.com/sport/tennis/articles/ckgyl1ndw57o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-14T13:12:45+00:00"
-  },
-  {
     "title": "Trump vows 'very strong action' if Iran executes protesters",
     "link": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -574,18 +598,6 @@
     "link": "https://www.nytimes.com/2026/01/14/world/americas/venezuela-diplomat-us-visit-washington.html",
     "source": "New York Times",
     "published": "2026-01-14T12:51:21+00:00"
-  },
-  {
-    "title": "Chuck Schumer Calls His Shot",
-    "link": "https://www.nytimes.com/2026/01/14/us/politics/chuck-schumer-senate-map-democrats.html",
-    "source": "New York Times",
-    "published": "2026-01-14T12:31:13+00:00"
-  },
-  {
-    "title": "Bafta names rising stars who are tipped for film success",
-    "link": "https://www.bbc.com/news/articles/c701xwdne8ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-14T12:16:06+00:00"
   },
   {
     "title": "Minneapolis\u2019s Limit",
@@ -646,11 +658,5 @@
     "link": "https://www.theatlantic.com/newsletters/2026/01/escalation-ice-renee-good-minneapolis-shooting/685605/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-13T23:42:00+00:00"
-  },
-  {
-    "title": "Texas Sends Plato Back to His Cave",
-    "link": "https://www.theatlantic.com/ideas/2026/01/texas-censorship-plato-philosophy-sexuality/685597/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-13T21:03:43+00:00"
   }
 ]
