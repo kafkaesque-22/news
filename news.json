@@ -1,15 +1,39 @@
 [
   {
+    "title": "Casting is dead. Long live casting!",
+    "link": "https://www.theverge.com/column/861948/casting-netflix-dead",
+    "source": "The Verge",
+    "published": "2026-01-16T04:30:00+00:00"
+  },
+  {
     "title": "Live Updates: Venezuelan Opposition Leader Gives Trump Her Peace Prize",
     "link": "https://www.nytimes.com/live/2026/01/15/us/trump-news",
     "source": "New York Times",
-    "published": "2026-01-16T03:18:41+00:00"
+    "published": "2026-01-16T04:28:29+00:00"
+  },
+  {
+    "title": "Video Analysis of ICE Shooting Sheds Light on Contested Moments",
+    "link": "https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html",
+    "source": "New York Times",
+    "published": "2026-01-16T04:10:43+00:00"
+  },
+  {
+    "title": "4,500 postal ballots returned as addresses not found: EC Sanaullah",
+    "link": "https://www.tbsnews.net/bangladesh/4500-postal-ballots-returned-addresses-not-found-ec-sanaullah-1335586",
+    "source": "The Business Standard",
+    "published": "2026-01-16T04:05:00+00:00"
+  },
+  {
+    "title": "SSC exams to begin on 21 April",
+    "link": "https://www.tbsnews.net/bangladesh/education/ssc-exams-begin-21-april-1335581",
+    "source": "The Business Standard",
+    "published": "2026-01-16T04:00:00+00:00"
   },
   {
     "title": "Was Renee Good Obligated to Comply With an ICE Agent\u2019s Orders?",
     "link": "https://www.nytimes.com/2026/01/15/us/renee-good-ice-agent-comply-legal.html",
     "source": "New York Times",
-    "published": "2026-01-16T03:18:15+00:00"
+    "published": "2026-01-16T03:35:39+00:00"
   },
   {
     "title": "Pentagon Will \u2018Refocus\u2019 Military Publication Stars and Stripes",
@@ -330,6 +354,12 @@
     "published": "2026-01-15T21:59:28+00:00"
   },
   {
+    "title": "Thousands remain evacuated due to unexploded WW2 bomb",
+    "link": "https://www.bbc.com/news/articles/c9wxyd780jgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-15T21:46:01+00:00"
+  },
+  {
     "title": "Troops and vessels from European Nato allies arrive in Greenland",
     "link": "https://www.bbc.com/news/videos/c0q4lplxzzlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -348,19 +378,13 @@
     "published": "2026-01-15T21:26:56+00:00"
   },
   {
-    "title": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
-    "link": "https://www.theverge.com/news/862938/us-taiwan-chipmaking-deal-250-billion-investment-tsmc",
-    "source": "The Verge",
-    "published": "2026-01-15T21:12:18+00:00"
-  },
-  {
     "title": "Hesitant to Visit the U.S. for the World Cup? We Want to Hear From You.",
     "link": "https://www.nytimes.com/2026/01/15/travel/world-cup-2026-fans.html",
     "source": "New York Times",
     "published": "2026-01-15T20:58:06+00:00"
   },
   {
-    "title": "Jenrick defects to Reform UK after being sacked by Tories",
+    "title": "Conservatives 'broke' the country says Jenrick as he defects to Reform",
     "link": "https://www.bbc.com/news/articles/cwyrpdy42n1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-15T20:54:39+00:00"
@@ -400,18 +424,6 @@
     "link": "https://www.theatlantic.com/newsletters/2026/01/daily-trivia-questions-answers-week-14/685591/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-15T19:50:00+00:00"
-  },
-  {
-    "title": "LIV 'haven't signed anyone who moves the needle' - McIlroy",
-    "link": "https://www.bbc.com/sport/golf/articles/cje1yd43zkwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-15T19:49:32+00:00"
-  },
-  {
-    "title": "Players need social skills for World Cup - Tuchel",
-    "link": "https://www.bbc.com/sport/football/articles/c5y5lqq2p7po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-15T19:32:58+00:00"
   },
   {
     "title": "Jenrick Joins Reform!",
@@ -510,12 +522,6 @@
     "published": "2026-01-15T16:56:15+00:00"
   },
   {
-    "title": "Inside an ICE Confrontation in Minneapolis",
-    "link": "https://www.nytimes.com/video/us/100000010643550/how-we-photographed-an-ice-confrontation-in-minneapolis.html",
-    "source": "New York Times",
-    "published": "2026-01-15T16:45:09+00:00"
-  },
-  {
     "title": "National workshop on sustainable economic development and livelihood resilience",
     "link": "https://www.tbsnews.net/bangladesh/national-workshop-sustainable-economic-development-and-livelihood-resilience-1335476",
     "source": "The Business Standard",
@@ -612,22 +618,10 @@
     "published": "2026-01-15T15:00:55+00:00"
   },
   {
-    "title": "11-party alliance distributes 179 seats to Jamaat, 30 to NCP, leaves 47 vacant for Islami Andolan",
-    "link": "https://www.tbsnews.net/bangladesh/politics/seat-sharing-jamaat-led-11-party-alliances-briefing-begins-islami-andolan-skips",
-    "source": "The Business Standard",
-    "published": "2026-01-15T14:55:00+00:00"
-  },
-  {
     "title": "24 hours of chaos as mental health grants are slashed then restored",
     "link": "https://www.npr.org/2026/01/15/nx-s1-5677711/mental-health-addiction-grants-cut-then-restored",
     "source": "NPR",
     "published": "2026-01-15T14:39:05+00:00"
-  },
-  {
-    "title": "DU bus vandalised during blockade by 7 colleges' students, 2 injured",
-    "link": "https://www.tbsnews.net/bangladesh/du-bus-vandalised-during-7-college-blockade-two-students-injured-1335361",
-    "source": "The Business Standard",
-    "published": "2026-01-15T14:30:00+00:00"
   },
   {
     "title": "Do ICE Officers Have \u2018Immunity\u2019?",
@@ -640,6 +634,12 @@
     "link": "https://www.theatlantic.com/books/2026/01/danger-to-minds-young-girls-margaret-anderson-book-review/685622/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-15T14:00:00+00:00"
+  },
+  {
+    "title": "Starmer does not rule out backing social media ban for under-16s",
+    "link": "https://www.bbc.com/news/articles/c2k9z535e08o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-15T13:23:26+00:00"
   },
   {
     "title": "2 Polling Experts on How the ICE Shooting Is More Trouble for Trump",
