@@ -1,5 +1,53 @@
 [
   {
+    "title": "Fact-Checking Trump\u2019s Misleading Claims After One Year Back in Office",
+    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-falsehoods-fact-check-first-year.html",
+    "source": "New York Times",
+    "published": "2026-01-20T14:19:26+00:00"
+  },
+  {
+    "title": "Man jailed for 10 years after chainsaw murder attempt on police officer",
+    "link": "https://www.bbc.com/news/articles/cwynpjgqg7po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-20T14:17:27+00:00"
+  },
+  {
+    "title": "BNP-Jamaat clash erupts in Mirpur",
+    "link": "https://www.tbsnews.net/bangladesh/politics/bnp-jamaat-clash-erupts-mirpur-1339371",
+    "source": "The Business Standard",
+    "published": "2026-01-20T14:15:00+00:00"
+  },
+  {
+    "title": "Stunning skies as Northern Lights seen in the UK",
+    "link": "https://www.bbc.com/news/videos/c9qpe4d2wxeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-20T14:10:22+00:00"
+  },
+  {
+    "title": "DMP to fine up to Tk10,000 for honking near Dhaka airport from 25 Jan",
+    "link": "https://www.tbsnews.net/bangladesh/dmp-fine-tk10000-honking-near-dhaka-airport-25-jan-1339361",
+    "source": "The Business Standard",
+    "published": "2026-01-20T14:10:00+00:00"
+  },
+  {
+    "title": "Bangladesh Khelafat Majlis announces final candidates in 29 constituencies",
+    "link": "https://www.tbsnews.net/bangladesh/politics/bangladesh-khelafat-majlis-announces-final-candidates-29-constituencies-1339341",
+    "source": "The Business Standard",
+    "published": "2026-01-20T14:00:00+00:00"
+  },
+  {
+    "title": "Confined by supporters, Rajshahi BNP leader withdraws independent candidacy via video call",
+    "link": "https://www.tbsnews.net/bangladesh/confined-supporters-rajshahi-bnp-leader-withdraws-independent-candidacy-video-call",
+    "source": "The Business Standard",
+    "published": "2026-01-20T13:50:00+00:00"
+  },
+  {
+    "title": "CA visits July Uprising Memorial Museum",
+    "link": "https://www.tbsnews.net/bangladesh/ca-visits-july-uprising-memorial-museum-1339321",
+    "source": "The Business Standard",
+    "published": "2026-01-20T13:50:00+00:00"
+  },
+  {
     "title": "How BYD beat Tesla",
     "link": "https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast",
     "source": "The Verge",
@@ -15,7 +63,7 @@
     "title": "For Syria\u2019s Government, Kurdish Deal Is a Big Win",
     "link": "https://www.nytimes.com/2026/01/20/world/middleeast/for-syrias-government-kurdish-deal-is-a-big-win.html",
     "source": "New York Times",
-    "published": "2026-01-20T13:30:15+00:00"
+    "published": "2026-01-20T13:30:16+00:00"
   },
   {
     "title": "UK consulting on bringing in social media ban for under 16s",
@@ -120,6 +168,12 @@
     "published": "2026-01-20T12:19:41+00:00"
   },
   {
+    "title": "Why Iraola's Bournemouth future is uncertain",
+    "link": "https://www.bbc.com/sport/football/articles/ckgklrne80vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-20T12:17:40+00:00"
+  },
+  {
     "title": "BNP will work to ensure modern housing for the people of Korail: Tarique",
     "link": "https://www.tbsnews.net/bangladesh/politics/bnp-korail-community-says-tarique-pledges-pro-people-politics-1339256",
     "source": "The Business Standard",
@@ -130,12 +184,6 @@
     "link": "https://www.nytimes.com/2026/01/20/briefing/our-man-in-caracas.html",
     "source": "New York Times",
     "published": "2026-01-20T12:09:38+00:00"
-  },
-  {
-    "title": "Man jailed for 10 years after chainsaw murder attempt on police officer",
-    "link": "https://www.bbc.com/news/articles/cwynpjgqg7po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-20T12:08:26+00:00"
   },
   {
     "title": "Netflix Revamps Its Warner Bros. Bid, Seeking to Thwart Paramount",
@@ -154,12 +202,6 @@
     "link": "https://www.tbsnews.net/bangladesh/politics/unconstitutional-unrealistic-gm-quader-urges-people-vote-no-referendum-1339241",
     "source": "The Business Standard",
     "published": "2026-01-20T12:05:00+00:00"
-  },
-  {
-    "title": "Northern Lights illuminate UK skies in hues of pink and green",
-    "link": "https://www.bbc.com/news/articles/c0q4pj5j729o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-20T12:01:56+00:00"
   },
   {
     "title": "An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them",
@@ -330,12 +372,6 @@
     "published": "2026-01-20T10:03:05+00:00"
   },
   {
-    "title": "Fact-Checking Trump\u2019s Misleading Claims After One Year Back in Office",
-    "link": "https://www.nytimes.com/2026/01/20/us/politics/trump-falsehoods-fact-check-first-year.html",
-    "source": "New York Times",
-    "published": "2026-01-20T10:02:54+00:00"
-  },
-  {
     "title": "Volunteers in Minnesota Deliver Groceries So Immigrants Can Hide at Home",
     "link": "https://www.nytimes.com/2026/01/20/us/minnesota-groceries-church-volunteer-ice-trump.html",
     "source": "New York Times",
@@ -414,20 +450,20 @@
     "published": "2026-01-20T10:00:00+00:00"
   },
   {
-    "title": "Medicaid has a new way to pay for costly sickle cell treatment: Only if it works",
-    "link": "https://www.npr.org/2026/01/20/nx-s1-5682055/sickle-cell-medicaid-drug-costs",
-    "source": "NPR",
-    "published": "2026-01-20T10:00:00+00:00"
-  },
-  {
-    "title": "Less personnel drama but still sky high turnover one year into Trump's new term",
-    "link": "https://www.npr.org/2026/01/20/nx-s1-5677295/less-personnel-drama-but-still-sky-high-turnover-one-year-into-trumps-new-term",
-    "source": "NPR",
-    "published": "2026-01-20T10:00:00+00:00"
-  },
-  {
     "title": "Wall Street-backed landlords a target for both Trump and Democrats",
     "link": "https://www.npr.org/2026/01/20/nx-s1-5675241/wall-street-backed-landlords-targeted-trump-democrats",
+    "source": "NPR",
+    "published": "2026-01-20T10:00:00+00:00"
+  },
+  {
+    "title": "Gretchen Whitmer says it's not 'paranoia' to fear Trump using homeland security personnel in elections",
+    "link": "https://www.npr.org/2026/01/20/nx-s1-5675187/gretchen-whitmer-trump-midterm-elections",
+    "source": "NPR",
+    "published": "2026-01-20T10:00:00+00:00"
+  },
+  {
+    "title": "Polyester clothing has been causing a stir online. But how valid are the concerns?",
+    "link": "https://www.npr.org/2026/01/20/nx-s1-5670290/polyester-fabric-clothing",
     "source": "NPR",
     "published": "2026-01-20T10:00:00+00:00"
   },
@@ -444,28 +480,10 @@
     "published": "2026-01-20T09:35:00+00:00"
   },
   {
-    "title": "Alif Attar promotes MD Ibrahim Khalil to chief operating officer",
-    "link": "https://www.tbsnews.net/bangladesh/alif-attar-promotes-md-ibrahim-khalil-chief-operating-officer-1339046",
-    "source": "The Business Standard",
-    "published": "2026-01-20T09:25:00+00:00"
-  },
-  {
-    "title": "BMDC issues show-cause notice to Jamaat-nominated Dhaka-17 candidate over use of unauthorised degree",
-    "link": "https://www.tbsnews.net/bangladesh/bmdc-issues-show-cause-notice-jamaat-nominated-dhaka-17-candidate-over-use-unauthorised",
-    "source": "The Business Standard",
-    "published": "2026-01-20T09:10:00+00:00"
-  },
-  {
     "title": "The Chinese Island Where Dreams of Real Estate Glory Never Die",
     "link": "https://www.nytimes.com/2026/01/20/world/asia/china-ocean-flower-island-real-estate.html",
     "source": "New York Times",
     "published": "2026-01-20T09:09:42+00:00"
-  },
-  {
-    "title": "EC to sit with registered political parties this afternoon",
-    "link": "https://www.tbsnews.net/bangladesh/ec-sit-registered-political-parties-afternoon-1339036",
-    "source": "The Business Standard",
-    "published": "2026-01-20T09:05:00+00:00"
   },
   {
     "title": "Realme promises days of battery from its 10,001mAh phone",
@@ -496,18 +514,6 @@
     "link": "https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm",
     "source": "The Verge",
     "published": "2026-01-20T08:00:00+00:00"
-  },
-  {
-    "title": "Bangladesh Polls: Last date for withdrawal of candidature expires today",
-    "link": "https://www.tbsnews.net/bangladesh/bangladesh-polls-last-date-withdrawal-candidature-expires-today-1338986",
-    "source": "The Business Standard",
-    "published": "2026-01-20T07:55:00+00:00"
-  },
-  {
-    "title": "Court orders seizure of land owned by Hasina's ex-peon 'Pani Jahangir', freezes wife's bank accounts",
-    "link": "https://www.tbsnews.net/bangladesh/court/court-orders-seizure-land-owned-hasinas-former-office-peon-pani-jahangir-wifes-bank",
-    "source": "The Business Standard",
-    "published": "2026-01-20T07:55:00+00:00"
   },
   {
     "title": "Jimmy Fallon Teases Trump Over Secondhand Prize",
@@ -598,23 +604,5 @@
     "link": "https://www.bbc.com/news/articles/c17zpvkddpzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-01-19T16:26:34+00:00"
-  },
-  {
-    "title": "How could Europe respond to tariffs threat?",
-    "link": "https://www.bbc.com/news/articles/cgk8z8xxpgmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-19T14:13:10+00:00"
-  },
-  {
-    "title": "Trump\u2019s Letter to Norway Should Be the Last Straw",
-    "link": "https://www.theatlantic.com/ideas/2026/01/trump-letter-to-norway/685676/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-19T14:11:42+00:00"
-  },
-  {
-    "title": "Welfare Fraud Is a Problem\u2014For Democrats",
-    "link": "https://www.theatlantic.com/ideas/2026/01/democrats-welfare-fraud/685661/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-01-19T14:00:00+00:00"
   }
 ]
