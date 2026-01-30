@@ -1,39 +1,141 @@
 [
   {
+    "title": "\u2018Melania,\u2019 the Documentary, Premieres in Washington",
+    "link": "https://www.nytimes.com/live/2026/01/29/us/trump-news#section-941664149",
+    "source": "New York Times",
+    "published": "2026-01-30T01:38:33+00:00"
+  },
+  {
+    "title": "The Polls Are Clear. Americans Don\u2019t Want This.",
+    "link": "https://www.nytimes.com/2026/01/29/opinion/minneapolis-immigration-ice-safety-trump.html",
+    "source": "New York Times",
+    "published": "2026-01-30T01:31:27+00:00"
+  },
+  {
+    "title": "Maps: Where the U.S. Is Building Up Military Force Near Iran",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-us-military-maps.html",
+    "source": "New York Times",
+    "published": "2026-01-30T01:28:13+00:00"
+  },
+  {
+    "title": "How Democrats want to reform DHS \u2013 and why some Republicans are open to their demands",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5693050/trump-minneapolis-government-shutdown-funding-immigration-republicans",
+    "source": "NPR",
+    "published": "2026-01-30T01:10:23+00:00"
+  },
+  {
+    "title": "Washington Post Plans Cuts to Reshape Newsroom",
+    "link": "https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html",
+    "source": "New York Times",
+    "published": "2026-01-30T00:54:15+00:00"
+  },
+  {
+    "title": "Trump Weighs New Military Options Against Iran",
+    "link": "https://www.nytimes.com/2026/01/29/us/trump-military-options-against-iran.html",
+    "source": "New York Times",
+    "published": "2026-01-30T00:48:14+00:00"
+  },
+  {
+    "title": "Patrick Schiltz, an Ethicist, Is the Minnesota Judge Blasting ICE",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/minnesota-judge-patrick-schiltz.html",
+    "source": "New York Times",
+    "published": "2026-01-30T00:40:33+00:00"
+  },
+  {
+    "title": "Journalist dreams & Keane reunion? How O'Neill continues to revive Celtic",
+    "link": "https://www.bbc.com/sport/football/articles/cn42dpdx1edo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-30T00:37:27+00:00"
+  },
+  {
+    "title": "Kennedy Overhauls Federal Autism Panel in His Own Image",
+    "link": "https://www.nytimes.com/2026/01/29/health/autism-panel-kennedy-iacc.html",
+    "source": "New York Times",
+    "published": "2026-01-30T00:32:45+00:00"
+  },
+  {
+    "title": "Tesla Just Killed the Most Important Car of the 21st Century",
+    "link": "https://www.theatlantic.com/technology/2026/01/tesla-cancelling-model-s/685821/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-01-30T00:29:00+00:00"
+  },
+  {
+    "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
+    "source": "New York Times",
+    "published": "2026-01-30T00:25:42+00:00"
+  },
+  {
+    "title": "What Domestic Terrorism Means, and Doesn\u2019t",
+    "link": "https://www.nytimes.com/video/us/100000010669504/what-domestic-terrorism-means-and-doesnt.html",
+    "source": "New York Times",
+    "published": "2026-01-30T00:10:15+00:00"
+  },
+  {
+    "title": "Could weight-loss jabs be behind rising gallbladder removals?",
+    "link": "https://www.bbc.com/news/articles/cm24evgyyzpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-30T00:03:39+00:00"
+  },
+  {
+    "title": "Weekly quiz: Which record is Harry Styles set to break?",
+    "link": "https://www.bbc.com/news/articles/cvgrzyv6pqqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-30T00:00:25+00:00"
+  },
+  {
+    "title": "Collins Took Credit for ICE Leaving Maine. Her Democratic Opponents Pounced.",
+    "link": "https://www.nytimes.com/2026/01/29/us/ice-maine-susan-collins.html",
+    "source": "New York Times",
+    "published": "2026-01-29T23:59:04+00:00"
+  },
+  {
+    "title": "Pizza Cutter and a Fork: A Bizarre Bid to Break Mangione Out of Jail",
+    "link": "https://www.nytimes.com/2026/01/29/nyregion/luigi-mangione-break-out-blade.html",
+    "source": "New York Times",
+    "published": "2026-01-29T23:57:16+00:00"
+  },
+  {
+    "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+    "link": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-29T23:47:30+00:00"
+  },
+  {
+    "title": "California Jury Convicts Ex-Google Engineer of Stealing AI Secrets",
+    "link": "https://www.nytimes.com/2026/01/29/business/ai-secrets-stolen-google-china.html",
+    "source": "New York Times",
+    "published": "2026-01-29T23:40:50+00:00"
+  },
+  {
+    "title": "A legal blunder allowed the man who abused us at school to escape justice \u2013 until now",
+    "link": "https://www.bbc.com/news/articles/c24gg91z69eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-01-29T23:15:02+00:00"
+  },
+  {
     "title": "Hind Rajab\u2019s Mother: No Child Deserves to Die Like My Daughter",
     "link": "https://www.nytimes.com/2026/01/29/opinion/israel-gaza-child-death-hind-rajab.html",
     "source": "New York Times",
     "published": "2026-01-29T23:12:29+00:00"
   },
   {
-    "title": "Michael Beck, 65, Dies; First to Report Symptoms of \u2018Havana Syndrome\u2019",
-    "link": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
+    "title": "Democrats Reach a Deal With the White House",
+    "link": "https://www.nytimes.com/2026/01/29/briefing/democrats-reach-a-deal-with-the-white-house.html",
     "source": "New York Times",
-    "published": "2026-01-29T23:07:06+00:00"
+    "published": "2026-01-29T23:10:59+00:00"
   },
   {
     "title": "One Solution for Too Many A\u2019s? Harvard Considers Giving A+ Grades.",
     "link": "https://www.nytimes.com/2026/01/29/us/harvard-grade-inflation.html",
     "source": "New York Times",
-    "published": "2026-01-29T23:06:31+00:00"
+    "published": "2026-01-29T23:06:32+00:00"
   },
   {
-    "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
-    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
+    "title": "Trump Says Putin Agreed to a Weeklong Pause in Attacks Amid Extreme Cold",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-putin-ceasefire-cold.html",
     "source": "New York Times",
-    "published": "2026-01-29T22:59:58+00:00"
-  },
-  {
-    "title": "Man Accused of Squirting Ilhan Omar with Vinegar Is Charged With Assault",
-    "link": "https://www.nytimes.com/2026/01/29/us/ilhan-omar-spray-anthony-j-kazmierczak-charged.html",
-    "source": "New York Times",
-    "published": "2026-01-29T22:58:32+00:00"
-  },
-  {
-    "title": "The Polls Are Clear. Americans Don\u2019t Want This.",
-    "link": "https://www.nytimes.com/2026/01/29/opinion/minneapolis-immigration-ice-safety-trump.html",
-    "source": "New York Times",
-    "published": "2026-01-29T22:57:53+00:00"
+    "published": "2026-01-29T22:53:32+00:00"
   },
   {
     "title": "Murdoch and News Corp Take on the West Coast with The California Post",
@@ -78,28 +180,10 @@
     "published": "2026-01-29T22:04:34+00:00"
   },
   {
-    "title": "Pizza Cutter and a Fork: A Bizarre Bid to Break Mangione Out of Jail",
-    "link": "https://www.nytimes.com/2026/01/29/nyregion/luigi-mangione-break-out-blade.html",
-    "source": "New York Times",
-    "published": "2026-01-29T22:01:03+00:00"
-  },
-  {
     "title": "Apple just had a record-breaking iPhone quarter",
     "link": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
     "source": "The Verge",
     "published": "2026-01-29T21:54:56+00:00"
-  },
-  {
-    "title": "Police File Hate Crime Charges After Chabad Ramming in Brooklyn",
-    "link": "https://www.nytimes.com/2026/01/29/nyregion/chabad-brooklyn-car-ramming.html",
-    "source": "New York Times",
-    "published": "2026-01-29T21:54:18+00:00"
-  },
-  {
-    "title": "Patrick Schiltz, an Ethicist, Is the Minnesota Judge Blasting ICE",
-    "link": "https://www.nytimes.com/2026/01/29/us/politics/minnesota-judge-patrick-schiltz.html",
-    "source": "New York Times",
-    "published": "2026-01-29T21:27:50+00:00"
   },
   {
     "title": "Trump says Putin will not attack Ukraine cities during cold week",
@@ -112,12 +196,6 @@
     "link": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
     "source": "New York Times",
     "published": "2026-01-29T21:10:36+00:00"
-  },
-  {
-    "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
-    "link": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-29T21:06:54+00:00"
   },
   {
     "title": "Joshua pays emotional tribute in new video",
@@ -135,13 +213,7 @@
     "title": "Genes May Control Your Longevity, However Healthily You Live",
     "link": "https://www.nytimes.com/2026/01/29/health/longevity-lifespan-age-genes.html",
     "source": "New York Times",
-    "published": "2026-01-29T20:54:37+00:00"
-  },
-  {
-    "title": "OpenAI in Talks to Raise as Much as $100 Billion",
-    "link": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
-    "source": "New York Times",
-    "published": "2026-01-29T20:53:15+00:00"
+    "published": "2026-01-29T20:54:38+00:00"
   },
   {
     "title": "Today\u2019s <em>Atlantic </em>Trivia: The Same Old Story",
@@ -180,12 +252,6 @@
     "published": "2026-01-29T20:18:26+00:00"
   },
   {
-    "title": "How Battlefield Tech Was Used in Minneapolis",
-    "link": "https://www.nytimes.com/video/us/100000010669560/how-battlefield-tech-was-used-in-minneapolis.html",
-    "source": "New York Times",
-    "published": "2026-01-29T20:08:54+00:00"
-  },
-  {
     "title": "How the West was won: K-pop's great assimilation gambit",
     "link": "https://www.npr.org/2026/01/29/nx-s1-5685250/kpop-demon-hunters-rose-katseye-grammys",
     "source": "NPR",
@@ -202,18 +268,6 @@
     "link": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
     "source": "The Verge",
     "published": "2026-01-29T19:47:58+00:00"
-  },
-  {
-    "title": "Former Deputy Sean Grayson Sentenced to 20 Years in Sonya Massey Shooting",
-    "link": "https://www.nytimes.com/2026/01/29/us/sean-grayson-sentencing-sonya-massey-shooting.html",
-    "source": "New York Times",
-    "published": "2026-01-29T19:41:09+00:00"
-  },
-  {
-    "title": "Ex-Nigerian oil minister did not take bribes from industry insiders, court told",
-    "link": "https://www.bbc.com/news/articles/c79ry5dwq9jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-29T19:38:30+00:00"
   },
   {
     "title": "Bangladesh's semiconductor ambitions depend on tighter industry-academia collaboration: Experts",
@@ -258,12 +312,6 @@
     "published": "2026-01-29T19:14:27+00:00"
   },
   {
-    "title": "Winter Storm Forecast to Bring Deep Snow to the Carolinas and Virginia",
-    "link": "https://www.nytimes.com/2026/01/29/weather/winter-storm-weekend-forecast-snow.html",
-    "source": "New York Times",
-    "published": "2026-01-29T18:59:45+00:00"
-  },
-  {
     "title": "Medicare Advantage insurers face new curbs on overcharges in Trump plan",
     "link": "https://www.npr.org/2026/01/29/nx-s1-5691896/medicare-advantage-health-insurance-trump-oz-cms-upcoding",
     "source": "NPR",
@@ -294,10 +342,10 @@
     "published": "2026-01-29T18:42:54+00:00"
   },
   {
-    "title": "European Union Labels Iran\u2019s Revolutionary Guard a Terrorist Group",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/european-union-iran-sanctions-irgc.html",
+    "title": "Moscow Airport Sells for Half Off, a Sign of Russia\u2019s Global Isolation",
+    "link": "https://www.nytimes.com/2026/01/29/world/europe/moscow-domodedovo-airport-sale.html",
     "source": "New York Times",
-    "published": "2026-01-29T18:19:02+00:00"
+    "published": "2026-01-29T18:36:54+00:00"
   },
   {
     "title": "Planning bids for new homes soar but building remains low - how is your area affected?",
@@ -318,12 +366,6 @@
     "published": "2026-01-29T17:49:41+00:00"
   },
   {
-    "title": "Weight loss jab users warned over rare but serious pancreas issue",
-    "link": "https://www.bbc.com/news/articles/cr57jzz9jvno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-29T17:49:03+00:00"
-  },
-  {
     "title": "No symbols on postal ballots after 8 Feb: EC",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/no-symbols-postal-ballots-after-8-feb-ec-1347711",
     "source": "The Business Standard",
@@ -336,7 +378,7 @@
     "published": "2026-01-29T17:36:13+00:00"
   },
   {
-    "title": "Senate fails to advance spending bills as Democrats push for DHS reforms",
+    "title": "Senate to move ahead with spending deal but shutdown appears inevitable",
     "link": "https://www.npr.org/2026/01/29/g-s1-107762/senate-shutdown-vote-fails",
     "source": "NPR",
     "published": "2026-01-29T17:27:29+00:00"
@@ -384,12 +426,6 @@
     "published": "2026-01-29T16:48:36+00:00"
   },
   {
-    "title": "Raducanu splits with coach after Australian Open exit",
-    "link": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-29T16:48:36+00:00"
-  },
-  {
     "title": "Israeli hostage held for nearly 500 days in Gaza says he can 'breathe again'",
     "link": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -426,12 +462,6 @@
     "published": "2026-01-29T16:13:37+00:00"
   },
   {
-    "title": "Amazon and Google Eat Into Nvidia\u2019s A.I. Chip Supremacy",
-    "link": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
-    "source": "New York Times",
-    "published": "2026-01-29T16:12:58+00:00"
-  },
-  {
     "title": "Bangladesh wins $42m int'l arbitration award against Niko over Tengratila blowout",
     "link": "https://www.tbsnews.net/bangladesh/bangladesh-wins-42m-intl-arbitration-award-against-niko-over-tengratila-blowout-1347651",
     "source": "The Business Standard",
@@ -466,12 +496,6 @@
     "link": "https://www.tbsnews.net/agriculture/water-saving-high-yield-awd-technology-yet-gain-farmer-acceptance-bangladesh-experts",
     "source": "The Business Standard",
     "published": "2026-01-29T15:40:00+00:00"
-  },
-  {
-    "title": "Maxim Naumov to Skate at 2026 Olympics After Parents\u2019 Death in D.C. Plane Crash",
-    "link": "https://www.nytimes.com/2026/01/29/us/maxim-naumov-2026-olympics-dc-plane-crash.html",
-    "source": "New York Times",
-    "published": "2026-01-29T15:38:25+00:00"
   },
   {
     "title": "China to relax travel rules for British visitors, UK says",
@@ -540,6 +564,12 @@
     "published": "2026-01-29T14:40:00+00:00"
   },
   {
+    "title": "Cultural ministry faces backlash from writers, publishers over postponing Ekushey Book Fair",
+    "link": "https://www.tbsnews.net/bangladesh/cultural-ministry-faces-backlash-writers-publishers-over-postponing-ekushey-book-fair",
+    "source": "The Business Standard",
+    "published": "2026-01-29T14:25:00+00:00"
+  },
+  {
     "title": "NCP holds torch procession protesting killing of Jamaat leader in Sherpur",
     "link": "https://www.tbsnews.net/bangladesh/politics/ncp-holds-torch-procession-protesting-killing-jamaat-leader-sherpur-1347511",
     "source": "The Business Standard",
@@ -552,22 +582,10 @@
     "published": "2026-01-29T14:25:00+00:00"
   },
   {
-    "title": "Cultural ministry faces backlash from writers, publishers over postponing Ekushey Book Fair",
-    "link": "https://www.tbsnews.net/bangladesh/cultural-ministry-faces-backlash-writers-publishers-over-postponing-ekushey-book-fair",
-    "source": "The Business Standard",
-    "published": "2026-01-29T14:25:00+00:00"
-  },
-  {
     "title": "\u2018This Has Got to End\u2019",
     "link": "https://www.theatlantic.com/podcasts/2026/01/tim-walz-minnesota-immigration/685803/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-01-29T13:25:00+00:00"
-  },
-  {
-    "title": "Trump Warns Iran With Military Muscle, but Risks a Regional War",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
-    "source": "New York Times",
-    "published": "2026-01-29T13:21:02+00:00"
   },
   {
     "title": "Marty Supreme actress quits new film after casting backlash",
@@ -646,18 +664,6 @@
     "link": "https://www.nytimes.com/2026/01/29/business/economy/manufacturing-factories-tariffs.html",
     "source": "New York Times",
     "published": "2026-01-29T10:02:13+00:00"
-  },
-  {
-    "title": "Trump has sued universities for billions. Here's what the strategy tells us",
-    "link": "https://www.npr.org/2026/01/29/nx-s1-5559293/trump-settlements-colleges-universities",
-    "source": "NPR",
-    "published": "2026-01-29T10:00:00+00:00"
-  },
-  {
-    "title": "How an inspiring home video launched a main event fighter",
-    "link": "https://www.bbc.com/sport/boxing/articles/cgqepvjjxkwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-01-29T07:28:56+00:00"
   },
   {
     "title": "What could happen if the US strikes Iran? Here are seven scenarios",
