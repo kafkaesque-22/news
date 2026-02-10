@@ -1,5 +1,65 @@
 [
   {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/02/10/nx-s1-5703371/morning-news-brief",
+    "source": "NPR",
+    "published": "2026-02-10T09:45:23+00:00"
+  },
+  {
+    "title": "Trump takes aim at Colorado, a state that didn't vote for him",
+    "link": "https://www.npr.org/2026/02/10/nx-s1-5680177/trump-takes-aim-at-colorado-a-state-that-didnt-vote-for-him",
+    "source": "NPR",
+    "published": "2026-02-10T09:45:10+00:00"
+  },
+  {
+    "title": "BB sets banking hours for Ramadan",
+    "link": "https://www.tbsnews.net/economy/banking/bb-sets-banking-hours-ramadan-1357391",
+    "source": "The Business Standard",
+    "published": "2026-02-10T09:45:00+00:00"
+  },
+  {
+    "title": "Trump threatens to block opening of US-Canada bridge",
+    "link": "https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T09:44:26+00:00"
+  },
+  {
+    "title": "Dhaka University VC Niaz Ahmed announces intention to step down",
+    "link": "https://www.tbsnews.net/bangladesh/education/dhaka-university-vc-niaz-ahmed-wants-step-down-1357381",
+    "source": "The Business Standard",
+    "published": "2026-02-10T09:40:00+00:00"
+  },
+  {
+    "title": "Australia police defend actions after violence at protest over Israeli president visit",
+    "link": "https://www.bbc.com/news/articles/cn0zed0dekgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T09:34:33+00:00"
+  },
+  {
+    "title": "Mikaela Shiffrin set to ski for the first time in the Olympics in team combined event",
+    "link": "https://www.npr.org/2026/02/10/g-s1-109420/mikaela-shiffrin-olympic-debut-alpine-team-combined",
+    "source": "NPR",
+    "published": "2026-02-10T09:25:41+00:00"
+  },
+  {
+    "title": "Three things that could bring Starmer down - and what might save him",
+    "link": "https://www.bbc.com/news/articles/cr7j7n0nxvlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T09:20:47+00:00"
+  },
+  {
+    "title": "No fears over voting in national election: Home adviser",
+    "link": "https://www.tbsnews.net/bangladesh-election-2026/no-fears-over-voting-national-election-home-adviser-1357336",
+    "source": "The Business Standard",
+    "published": "2026-02-10T08:55:00+00:00"
+  },
+  {
+    "title": "What is Olympic ice and how is it made?",
+    "link": "https://www.bbc.com/sport/ice-hockey/articles/cx2p1empyn3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T08:51:01+00:00"
+  },
+  {
     "title": "Ballot papers sent to 299 constituencies, postal ballot results may take longer: EC secretary",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/ballot-papers-sent-299-constituencies-postal-ballot-results-may-take-longer",
     "source": "The Business Standard",
@@ -12,16 +72,10 @@
     "published": "2026-02-10T08:39:42+00:00"
   },
   {
-    "title": "British Museum to keep pendant linked to Henry VIII",
+    "title": "British Museum to keep gold pendant linked to Henry VIII",
     "link": "https://www.bbc.com/news/articles/c5yk3vrgv51o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T08:29:00+00:00"
-  },
-  {
-    "title": "'Blocked' weather pattern to blame for UK's endless downpours",
-    "link": "https://www.bbc.com/weather/articles/cn9el029173o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T08:25:18+00:00"
   },
   {
     "title": "Maxwell Refuses to Answer Questions About Epstein Crimes in House Deposition",
@@ -30,14 +84,14 @@
     "published": "2026-02-10T08:17:23+00:00"
   },
   {
-    "title": "AmCham hails Bangladesh-US trade deal, calls it positive signal for investors",
-    "link": "https://www.tbsnews.net/bangladesh/amcham-hails-bangladesh-us-trade-deal-calls-it-positive-signal-investors-1357296",
+    "title": "AL must admit mistakes to re-enter politics, says TIB's Iftekharuzzaman",
+    "link": "https://www.tbsnews.net/bangladesh-election-2026/al-must-admit-mistakes-re-enter-politics-says-tibs-iftekharuzzaman-1357301",
     "source": "The Business Standard",
     "published": "2026-02-10T08:10:00+00:00"
   },
   {
-    "title": "AL must admit mistakes to re-enter politics, says TIB's Iftekharuzzaman",
-    "link": "https://www.tbsnews.net/bangladesh-election-2026/al-must-admit-mistakes-re-enter-politics-says-tibs-iftekharuzzaman-1357301",
+    "title": "AmCham hails Bangladesh-US trade deal, calls it positive signal for investors",
+    "link": "https://www.tbsnews.net/bangladesh/amcham-hails-bangladesh-us-trade-deal-calls-it-positive-signal-investors-1357296",
     "source": "The Business Standard",
     "published": "2026-02-10T08:10:00+00:00"
   },
@@ -120,6 +174,12 @@
     "published": "2026-02-10T06:54:50+00:00"
   },
   {
+    "title": "'I tried, I dreamt, I jumped' - Vonn has 'no regrets' after 'complex' leg break",
+    "link": "https://www.bbc.com/sport/articles/cm2r47pj51zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T06:54:50+00:00"
+  },
+  {
     "title": "EU adds \u20ac2m to WFP Bangladesh support for Rohingya response",
     "link": "https://www.tbsnews.net/economy/corporates/eu-adds-eu2m-wfp-bangladesh-support-rohingya-response-1357146",
     "source": "The Business Standard",
@@ -150,10 +210,22 @@
     "published": "2026-02-10T06:30:18+00:00"
   },
   {
+    "title": "Buy an island for \u00a3350k... but you must wade across an estuary to reach it",
+    "link": "https://www.bbc.com/news/articles/cdx4xkkly9qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T06:29:36+00:00"
+  },
+  {
     "title": "Sepsis mistakes killed our daughter - we fear it could happen again",
     "link": "https://www.bbc.com/news/articles/cx2wzj9dwvzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T06:26:22+00:00"
+  },
+  {
+    "title": "'You love Kobbie' - Mainoo showing Amorim why so many do",
+    "link": "https://www.bbc.com/sport/football/articles/cvg83g4zyllo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T06:22:03+00:00"
   },
   {
     "title": "Cambridge University wins rowing trademark case",
@@ -180,7 +252,7 @@
     "published": "2026-02-10T05:45:00+00:00"
   },
   {
-    "title": "Bangladesh slips on corruption list, ranks 13th most corrupt globally: TIB",
+    "title": "Bangladesh scores higher, yet slips to 13th on global corruption index: TIB",
     "link": "https://www.tbsnews.net/bangladesh/corruption/bangladesh-slips-corruption-list-ranks-13th-most-corrupt-globally-tib-1357076",
     "source": "The Business Standard",
     "published": "2026-02-10T05:45:00+00:00"
@@ -204,12 +276,6 @@
     "published": "2026-02-10T05:15:00+00:00"
   },
   {
-    "title": "Dhaka ranks second globally for air pollution with AQI at 288",
-    "link": "https://www.tbsnews.net/bangladesh/environment/dhaka-ranks-second-globally-air-pollution-aqi-288-1357011",
-    "source": "The Business Standard",
-    "published": "2026-02-10T05:10:00+00:00"
-  },
-  {
     "title": "Nicaragua Blocks a Route from Cuba to the U.S.",
     "link": "https://www.nytimes.com/2026/02/10/world/americas/nicaragua-cuba-us-immigration.html",
     "source": "New York Times",
@@ -222,34 +288,16 @@
     "published": "2026-02-10T05:01:11+00:00"
   },
   {
-    "title": "Why Bangladesh\u2019s garment exports to EU fell despite rising European demand",
-    "link": "https://www.tbsnews.net/explainer/why-bangladeshs-garment-exports-eu-fell-despite-rising-european-demand-1356996",
-    "source": "The Business Standard",
-    "published": "2026-02-10T04:40:00+00:00"
-  },
-  {
     "title": "New Email Shows Bard President Leon Botstein Thanked Epstein for Caribbean Trip",
     "link": "https://www.nytimes.com/2026/02/09/us/bard-leon-botstein-jeffrey-epstein-relationship.html",
     "source": "New York Times",
     "published": "2026-02-10T04:37:16+00:00"
   },
   {
-    "title": "Australia police defend actions after violence at protest over Israeli president visit",
-    "link": "https://www.bbc.com/news/articles/cn0zed0dekgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T04:19:50+00:00"
-  },
-  {
     "title": "Appeals Court Lets Trump Revoke Deportation Protections for 60,000 More Migrants",
     "link": "https://www.nytimes.com/2026/02/09/us/politics/appeals-court-lets-trump-revoke-deportation-protections-for-60000-more-migrants.html",
     "source": "New York Times",
     "published": "2026-02-10T04:10:22+00:00"
-  },
-  {
-    "title": "Crimes against humanity: Trial formally begins today in case against Salman, Anisul",
-    "link": "https://www.tbsnews.net/bangladesh/court/crimes-against-humanity-trial-formally-opens-today-case-against-salman-anisul",
-    "source": "The Business Standard",
-    "published": "2026-02-10T04:05:00+00:00"
   },
   {
     "title": "Judge Strikes Down California\u2019s Ban on Masks for Federal Agents",
@@ -267,7 +315,7 @@
     "title": "A Campaign to Revoke the Endangerment Finding Appears Near \u2018Total Victory\u2019",
     "link": "https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html",
     "source": "New York Times",
-    "published": "2026-02-10T03:15:42+00:00"
+    "published": "2026-02-10T03:15:43+00:00"
   },
   {
     "title": "Trump Threatens to Block Opening of Gordie Howe International Bridge to Canada",
@@ -286,12 +334,6 @@
     "link": "https://www.nytimes.com/2026/02/09/us/politics/bannon-trump-contempt-case.html",
     "source": "New York Times",
     "published": "2026-02-10T02:08:48+00:00"
-  },
-  {
-    "title": "Trump threatens to block opening of US-Canada bridge",
-    "link": "https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T02:03:45+00:00"
   },
   {
     "title": "Can Instagram Ruin Your Life? The Jury Will Decide.",
@@ -402,12 +444,6 @@
     "published": "2026-02-09T23:06:28+00:00"
   },
   {
-    "title": "Japan has given Takaichi a landslide win - but can she bring back the economy?",
-    "link": "https://www.bbc.com/news/articles/cddn7qed35eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-09T23:02:34+00:00"
-  },
-  {
     "title": "Lindsey Vonn says she suffered 'complex tibia fracture' in her Olympic downhill crash",
     "link": "https://www.npr.org/2026/02/09/nx-s1-5707859/lindsey-vonn-crash-winter-olympics",
     "source": "NPR",
@@ -420,22 +456,10 @@
     "published": "2026-02-09T22:54:43+00:00"
   },
   {
-    "title": "Ukraine skeleton racer says war victim helmet banned",
-    "link": "https://www.bbc.com/sport/articles/czj1yj9pj00o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-09T22:45:51+00:00"
-  },
-  {
     "title": "Extreme cold in New York City leaves 18 dead",
     "link": "https://www.bbc.com/news/articles/cd9g8nxdexko?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-09T22:45:11+00:00"
-  },
-  {
-    "title": "Fear and Gibson sit fourth after first ice dance event",
-    "link": "https://www.bbc.com/sport/videos/cg7e8g3p9m9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-09T22:20:49+00:00"
   },
   {
     "title": "Catherine O\u2019Hara Died From Pulmonary Embolism, Death Certificate Says",
@@ -466,12 +490,6 @@
     "link": "https://www.bbc.co.uk/sounds/play/p0n03j41?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-09T21:59:00+00:00"
-  },
-  {
-    "title": "Scottish Labour leader makes his biggest political gamble - but can it pay off?",
-    "link": "https://www.bbc.com/news/articles/c6264y17z5yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-09T21:38:40+00:00"
   },
   {
     "title": "ChatGPT&#8217;s cheapest options now show you ads",
@@ -588,12 +606,6 @@
     "published": "2026-02-09T16:20:12+00:00"
   },
   {
-    "title": "'End of Days' recalls the violent 1992 Ruby Ridge confrontation in Idaho",
-    "link": "https://www.npr.org/2026/02/09/nx-s1-5707200/end-of-days-recalls-the-violent-1992-ruby-ridge-confrontation-in-idaho",
-    "source": "NPR",
-    "published": "2026-02-09T16:07:29+00:00"
-  },
-  {
     "title": "America\u2019s Annoyance Economy Is Growing",
     "link": "https://www.theatlantic.com/ideas/2026/02/ai-annoyance-economy/685894/?utm_source=feed",
     "source": "The Atlantic",
@@ -604,18 +616,6 @@
     "link": "https://www.theatlantic.com/international/2026/02/greenlanders-are-ready-fight/685931/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-09T14:53:09+00:00"
-  },
-  {
-    "title": "Japan's Takaichi to pursue conservative agenda after election landslide",
-    "link": "https://www.npr.org/2026/02/09/nx-s1-5706602/japan-takaichi-conservative-agenda-election-landslide",
-    "source": "NPR",
-    "published": "2026-02-09T13:13:38+00:00"
-  },
-  {
-    "title": "Olympic COVID restrictions are gone, but some athletes are still self-quarantining",
-    "link": "https://www.npr.org/2026/02/09/nx-s1-5702394/olympic-covid-restrictions-are-gone-but-some-athletes-still-self-quarantining",
-    "source": "NPR",
-    "published": "2026-02-09T13:02:02+00:00"
   },
   {
     "title": "How America Got So Sick",
