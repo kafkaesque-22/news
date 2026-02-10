@@ -1,15 +1,225 @@
 [
   {
+    "title": "Hunt on for teen after two boys stabbed at school",
+    "link": "https://www.bbc.com/news/articles/cge8yxpj7e1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T17:51:42+00:00"
+  },
+  {
+    "title": "A Desperate Father, a Troubled Son and Death in a 5-Star Hotel",
+    "link": "https://www.nytimes.com/2026/02/10/nyregion/henry-mcgowan-ireland-murder.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:49:22+00:00"
+  },
+  {
+    "title": "Teen killer of schoolboy Leo Ross, 12, to spend at least 13 years in custody",
+    "link": "https://www.bbc.com/news/articles/cqxdr35pyjlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T17:43:29+00:00"
+  },
+  {
+    "title": "Afghan asylum seeker guilty of raping girl, 12",
+    "link": "https://www.bbc.com/news/articles/ckgkjg76lvxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T17:40:09+00:00"
+  },
+  {
+    "title": "The Ties That Bound the UK\u2019s \u2018Prince of Darkness\u2019 Peter Mandelson to Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2026/02/10/world/europe/ties-peter-mandelson-jeffrey-epstein.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:34:21+00:00"
+  },
+  {
+    "title": "Pride Flag Is Removed From Stonewall Monument After Trump Directive",
+    "link": "https://www.nytimes.com/2026/02/10/us/pride-flag-stonewall-inn-monument.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:33:06+00:00"
+  },
+  {
+    "title": "Epstein\u2019s Cash and Influence Helped Women Attend Columbia and N.Y.U.",
+    "link": "https://www.nytimes.com/2026/02/10/nyregion/epstein-columbia-nyu-donations-admission-young-women.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:30:57+00:00"
+  },
+  {
+    "title": "Epstein Directed Aide to Obtain Hidden Video Cameras",
+    "link": "https://www.nytimes.com/2026/02/10/us/epstein-hidden-cameras.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:29:23+00:00"
+  },
+  {
+    "title": "Antonio Delgado Drops Out of NY Governor Race",
+    "link": "https://www.nytimes.com/2026/02/10/nyregion/antonio-delgado-drops-out-governor-new-york.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:28:18+00:00"
+  },
+  {
+    "title": "Immigration Judge Says Rumeysa Ozturk, a Tufts Student, Cannot Be Deported",
+    "link": "https://www.nytimes.com/2026/02/10/us/immigration-judge-tufts-student-rumeysa-ozturk.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:20:27+00:00"
+  },
+  {
+    "title": "An Ark showed me augmented reality\u2019s true artistic potential",
+    "link": "https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert",
+    "source": "The Verge",
+    "published": "2026-02-10T17:20:00+00:00"
+  },
+  {
+    "title": "Norwegian biathlete Laegreid wins bronze then confesses to affair on TV",
+    "link": "https://www.bbc.com/sport/articles/ckglnm521kko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T17:19:20+00:00"
+  },
+  {
+    "title": "Malinowski Concedes to Mejia, a Progressive Activist, in New Jersey Race",
+    "link": "https://www.nytimes.com/2026/02/10/nyregion/new-jersey-special-election-winner.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:14:55+00:00"
+  },
+  {
+    "title": "Ahead of Jobs Report, White House Seeks to Downplay Any Slowdown",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/white-house-jobs.html",
+    "source": "New York Times",
+    "published": "2026-02-10T17:12:19+00:00"
+  },
+  {
+    "title": "The Shokz OpenFit Air earbuds are matching their all-time low price",
+    "link": "https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale",
+    "source": "The Verge",
+    "published": "2026-02-10T17:05:02+00:00"
+  },
+  {
+    "title": "Microsoft is keeping Secure Boot alive with Windows updates",
+    "link": "https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal",
+    "source": "The Verge",
+    "published": "2026-02-10T17:00:00+00:00"
+  },
+  {
+    "title": "UK braces for more rain as flood warnings remain in place",
+    "link": "https://www.bbc.com/weather/articles/cn9el029173o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T16:59:45+00:00"
+  },
+  {
+    "title": "A Campaign to Revoke the Endangerment Finding Appears Near \u2018Total Victory\u2019",
+    "link": "https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html",
+    "source": "New York Times",
+    "published": "2026-02-10T16:55:41+00:00"
+  },
+  {
+    "title": "The Christian Influencers Protecting Their Peace",
+    "link": "https://www.theatlantic.com/politics/2026/02/conservative-women-influencer-empathy-social-media/685915/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-02-10T16:51:48+00:00"
+  },
+  {
+    "title": "Republican Cash Edge Threatens to Swamp Democrats in the Midterms",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/republicans-democrats-midterms-fund-raising.html",
+    "source": "New York Times",
+    "published": "2026-02-10T16:47:42+00:00"
+  },
+  {
+    "title": "I will never walk away, says PM after facing pressure to quit",
+    "link": "https://www.bbc.com/news/articles/c20j65ldg9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T16:46:25+00:00"
+  },
+  {
+    "title": "Google can now help you find and remove your ID from search results",
+    "link": "https://www.theverge.com/tech/876352/google-search-remove-sensitive-information-nonconsensual-images",
+    "source": "The Verge",
+    "published": "2026-02-10T16:45:56+00:00"
+  },
+  {
+    "title": "Razer\u2019s resurrected 25-year-old gaming mouse will cost you $1,337",
+    "link": "https://www.theverge.com/gadgets/876333/razer-boomslang-20th-anniversary-edition-wireless-mouse-preorder-price",
+    "source": "The Verge",
+    "published": "2026-02-10T16:41:54+00:00"
+  },
+  {
+    "title": "Susan Collins Runs for Re-election in Must-Win Senate Seat for Democrats",
+    "link": "https://www.nytimes.com/2026/02/10/us/politics/susan-collins-maine-senate-2026.html",
+    "source": "New York Times",
+    "published": "2026-02-10T16:40:11+00:00"
+  },
+  {
+    "title": "Telegram is reportedly being slowed down and restricted in Russia",
+    "link": "https://www.theverge.com/tech/876351/telegram-russia-restrictions",
+    "source": "The Verge",
+    "published": "2026-02-10T16:39:16+00:00"
+  },
+  {
+    "title": "Strong governance key to insurance sector reform: BB governor",
+    "link": "https://www.tbsnews.net/bangladesh/strong-governance-key-insurance-sector-reform-bb-governor-1357881",
+    "source": "The Business Standard",
+    "published": "2026-02-10T16:30:00+00:00"
+  },
+  {
+    "title": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
+    "link": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
+    "source": "New York Times",
+    "published": "2026-02-10T16:28:23+00:00"
+  },
+  {
+    "title": "RTI ordinance passed without key reforms, alleges rights forum",
+    "link": "https://www.tbsnews.net/bangladesh/rti-ordinance-passed-without-key-reforms-alleges-rights-forum-1357861",
+    "source": "The Business Standard",
+    "published": "2026-02-10T16:25:00+00:00"
+  },
+  {
+    "title": "Air Canada and WestJet Cancel Flights to Cuba Over Jet Fuel Shortage",
+    "link": "https://www.nytimes.com/2026/02/09/world/americas/air-canada-flight-cancellations-cuba-jet-fuel.html",
+    "source": "New York Times",
+    "published": "2026-02-10T16:22:42+00:00"
+  },
+  {
+    "title": "Shafiqur Rahman oversees election preparations throughout the day",
+    "link": "https://www.tbsnews.net/bangladesh-election-2026/shafiqur-rahman-oversees-election-preparations-throughout-day-1357836",
+    "source": "The Business Standard",
+    "published": "2026-02-10T16:20:00+00:00"
+  },
+  {
+    "title": "DSEX jumps 170 points in two days ahead of national election",
+    "link": "https://www.tbsnews.net/bangladesh/dsex-jumps-170-points-two-days-ahead-national-election-1357841",
+    "source": "The Business Standard",
+    "published": "2026-02-10T16:20:00+00:00"
+  },
+  {
+    "title": "'Your duty doesn't end after voting': Jamaat ameer urges voters to stay vigilant",
+    "link": "https://www.tbsnews.net/bangladesh-election-2026/your-duty-doesnt-end-after-voting-jamaat-ameer-urges-voters-stay-vigilant",
+    "source": "The Business Standard",
+    "published": "2026-02-10T16:10:00+00:00"
+  },
+  {
+    "title": "Stall rent of Ekushey Book Fair reduced by 55%",
+    "link": "https://www.tbsnews.net/bangladesh/stall-rent-ekushey-book-fair-reduced-55-1357811",
+    "source": "The Business Standard",
+    "published": "2026-02-10T16:05:00+00:00"
+  },
+  {
     "title": "Microsoft wants to rewire data centers to save space",
     "link": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
     "source": "The Verge",
     "published": "2026-02-10T16:01:40+00:00"
   },
   {
-    "title": "Afghan asylum seeker guilty of raping girl, 12",
-    "link": "https://www.bbc.com/news/articles/ckgkjg76lvxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T15:59:56+00:00"
+    "title": "National Feed Mill declares 1 paisa cash dividend after two-year gap",
+    "link": "https://www.tbsnews.net/economy/stocks/national-feed-mill-declares-1-paisa-cash-dividend-after-two-year-gap-1357791",
+    "source": "The Business Standard",
+    "published": "2026-02-10T16:00:00+00:00"
+  },
+  {
+    "title": "What Spielberg, Lucas, and Coppola Got Right",
+    "link": "https://www.theatlantic.com/books/2026/02/the-real-secret-to-a-filmmakers-success/685934/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-02-10T16:00:00+00:00"
+  },
+  {
+    "title": "PRAN-RFL enters motorcycle market with Tk500cr investment plan",
+    "link": "https://www.tbsnews.net/economy/pran-rfl-enters-motorcycle-market-tk500cr-investment-plan-1357801",
+    "source": "The Business Standard",
+    "published": "2026-02-10T15:55:00+00:00"
   },
   {
     "title": "Trump Administration Claims About Shootings by Federal Agents Unravel in Court",
@@ -18,22 +228,10 @@
     "published": "2026-02-10T15:47:45+00:00"
   },
   {
-    "title": "Immigration Judge Says Rumeysa Ozturk, a Tufts Student, Cannot Be Deported",
-    "link": "https://www.nytimes.com/2026/02/10/us/immigration-judge-tufts-student-rumeysa-ozturk.html",
-    "source": "New York Times",
-    "published": "2026-02-10T15:47:08+00:00"
-  },
-  {
     "title": "How the Israeli President\u2019s Visit to Australia Created a \u2018Tinder Box\u2019",
     "link": "https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html",
     "source": "New York Times",
     "published": "2026-02-10T15:46:29+00:00"
-  },
-  {
-    "title": "Reciprocal tariff deal with US allows exit with notice: Commerce adviser",
-    "link": "https://www.tbsnews.net/economy/reciprocal-tariff-deal-us-allows-exit-notice-commerce-adviser-1357766",
-    "source": "The Business Standard",
-    "published": "2026-02-10T15:45:00+00:00"
   },
   {
     "title": "BNP expels Manjurul Ahsan Munshi from all positions for violating party principles",
@@ -42,13 +240,19 @@
     "published": "2026-02-10T15:45:00+00:00"
   },
   {
-    "title": "Rush-hour chaos as commuters face transport shortages ahead of Feb 12 election",
+    "title": "Rush-hour chaos as commuters face transport shortages ahead of 12 Feb election",
     "link": "https://www.tbsnews.net/bangladesh/rush-hour-chaos-commuters-face-transport-shortages-ahead-feb-12-election-1357781",
     "source": "The Business Standard",
     "published": "2026-02-10T15:45:00+00:00"
   },
   {
-    "title": "A Poor Man\u2019s Golden Dome",
+    "title": "Reciprocal tariff deal with US allows exit with notice: Commerce adviser",
+    "link": "https://www.tbsnews.net/economy/reciprocal-tariff-deal-us-allows-exit-notice-commerce-adviser-1357766",
+    "source": "The Business Standard",
+    "published": "2026-02-10T15:45:00+00:00"
+  },
+  {
+    "title": "The New Laser That Can Take Down Aircraft",
     "link": "https://www.theatlantic.com/national-security/2026/02/ukraine-drones-lasers-iron-dome/685944/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-10T15:45:00+00:00"
@@ -58,12 +262,6 @@
     "link": "https://www.theverge.com/report/876081/jeffrey-epstein-files-seo-google-digital-footprint-emails",
     "source": "The Verge",
     "published": "2026-02-10T15:45:00+00:00"
-  },
-  {
-    "title": "Man guilty of murdering partner's five-month-old baby",
-    "link": "https://www.bbc.com/news/articles/c5yqwepn9zeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T15:43:30+00:00"
   },
   {
     "title": "Watch: A Conversation With Anna Wintour and Her U.S. Vogue Successor, Chloe Malle",
@@ -84,28 +282,10 @@
     "published": "2026-02-10T15:30:00+00:00"
   },
   {
-    "title": "Dodds and Mouat react to second Olympic heartbreak",
-    "link": "https://www.bbc.com/sport/videos/cn5gzl2pgn0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T15:27:19+00:00"
-  },
-  {
-    "title": "Lutnick, Wasserman and Others Caught Up in Epstein Files",
-    "link": "https://www.nytimes.com/2026/02/10/business/dealbook/epstein-lutnick-wasserman-starmer.html",
-    "source": "New York Times",
-    "published": "2026-02-10T15:25:01+00:00"
-  },
-  {
     "title": "Tarique coordinates with party leaders nationwide from Gulshan office ahead of polls",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/tarique-coordinates-party-leaders-nationwide-gulshan-office-ahead-polls",
     "source": "The Business Standard",
     "published": "2026-02-10T15:25:00+00:00"
-  },
-  {
-    "title": "Pride Flag Is Taken Down From Stonewall Monument",
-    "link": "https://www.nytimes.com/2026/02/10/us/pride-flag-stonewall-inn-monument.html",
-    "source": "New York Times",
-    "published": "2026-02-10T15:22:58+00:00"
   },
   {
     "title": "This vintage-looking camera has been updated for shooting the stars",
@@ -120,16 +300,16 @@
     "published": "2026-02-10T15:20:00+00:00"
   },
   {
+    "title": "Drinking Is a \u2018Social Lubricant.\u2019 That\u2019s Not Always a Good Thing.",
+    "link": "https://www.nytimes.com/2026/02/10/health/social-drinking-risks-alcohol.html",
+    "source": "New York Times",
+    "published": "2026-02-10T15:16:31+00:00"
+  },
+  {
     "title": "Adviser stresses integrated capacity building to tackle disasters",
     "link": "https://www.tbsnews.net/bangladesh/adviser-stresses-integrated-capacity-building-tackle-disasters-1357721",
     "source": "The Business Standard",
     "published": "2026-02-10T15:10:00+00:00"
-  },
-  {
-    "title": "Mild 4.0-magnitude earthquake shakes Dhaka, epicentre in Sylhet",
-    "link": "https://www.tbsnews.net/bangladesh/mild-40-magnitude-earthquake-shakes-dhaka-epicentre-sylhet-1357716",
-    "source": "The Business Standard",
-    "published": "2026-02-10T15:05:00+00:00"
   },
   {
     "title": "RAB recovers pistols, sharp weapons from pond in Cumilla",
@@ -138,25 +318,25 @@
     "published": "2026-02-10T15:05:00+00:00"
   },
   {
-    "title": "Susan Collins Runs for Re-election, in One of 2026\u2019s Top Senate Fights",
-    "link": "https://www.nytimes.com/2026/02/10/us/politics/susan-collins-maine-senate-2026.html",
-    "source": "New York Times",
-    "published": "2026-02-10T15:00:10+00:00"
+    "title": "Mild 4.0-magnitude earthquake shakes Dhaka, epicentre in Sylhet",
+    "link": "https://www.tbsnews.net/bangladesh/mild-40-magnitude-earthquake-shakes-dhaka-epicentre-sylhet-1357716",
+    "source": "The Business Standard",
+    "published": "2026-02-10T15:05:00+00:00"
   },
   {
-    "title": "Why Tennyson Feels So Modern",
+    "title": "The Poet Laureate of Madness",
     "link": "https://www.theatlantic.com/magazine/2026/03/alfred-lord-tennyson-psychology-modernism/685760/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-10T15:00:00+00:00"
   },
   {
-    "title": "Romeo is a Dead Man is bizarre, bloody, and exactly what makes Grasshopper special",
+    "title": "Romeo Is a Dead Man is bizarre, bloody, and exactly what makes Grasshopper special",
     "link": "https://www.theverge.com/games/876251/romeo-is-a-dead-man-grasshopper-manufacture-ps5-xbox-steam",
     "source": "The Verge",
     "published": "2026-02-10T15:00:00+00:00"
   },
   {
-    "title": "Mouat & Dodds denied bronze as GB medal wait continues",
+    "title": "Mouat & Dodds denied curling bronze as GB wait goes on",
     "link": "https://www.bbc.com/sport/articles/crl4rl91ge4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T14:58:38+00:00"
@@ -168,10 +348,10 @@
     "published": "2026-02-10T14:47:41+00:00"
   },
   {
-    "title": "Autodesk is suing Google over the name of its Flow AI videomaker",
-    "link": "https://www.theverge.com/tech/876266/autodesk-google-flow-trademark-infringement-lawsuit",
-    "source": "The Verge",
-    "published": "2026-02-10T14:47:14+00:00"
+    "title": "Captain Itoje returns to England XV to face Scotland",
+    "link": "https://www.bbc.com/sport/rugby-union/articles/c2e4knn1mezo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T14:31:08+00:00"
   },
   {
     "title": "CU students lock campus gate demanding buses to travel for voting",
@@ -180,10 +360,10 @@
     "published": "2026-02-10T14:25:00+00:00"
   },
   {
-    "title": "Broadway\u2019s Great Imitators, Now on TikTok",
-    "link": "https://www.nytimes.com/2026/02/10/arts/tiktok-broadway-chicago-groff.html",
-    "source": "New York Times",
-    "published": "2026-02-10T14:02:55+00:00"
+    "title": "Italy races to gold in mixed speed skating relay",
+    "link": "https://www.bbc.com/sport/videos/cx2j50y5q35o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T14:06:52+00:00"
   },
   {
     "title": "Fan who gave Robbie Williams number as teen joins him on stage",
@@ -204,52 +384,10 @@
     "published": "2026-02-10T14:00:00+00:00"
   },
   {
-    "title": "Nintendo keeps filling in the gaps",
-    "link": "https://www.theverge.com/games/875986/nintendo-switch-2-release-schedule-mario-tennis-fever",
-    "source": "The Verge",
-    "published": "2026-02-10T14:00:00+00:00"
-  },
-  {
-    "title": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
-    "link": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
-    "source": "New York Times",
-    "published": "2026-02-10T13:55:33+00:00"
-  },
-  {
-    "title": "Russia Nears Capture of Key Ukrainian Towns After Year of Grinding Assaults",
-    "link": "https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html",
-    "source": "New York Times",
-    "published": "2026-02-10T13:51:43+00:00"
-  },
-  {
     "title": "Six key questions about Keir Starmer's future",
     "link": "https://www.bbc.com/news/articles/c80jrg08rk3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T13:40:57+00:00"
-  },
-  {
-    "title": "BGMEA welcomes Bangladesh\u2013US reciprocal tariff agreement",
-    "link": "https://www.tbsnews.net/economy/bgmea-welcomes-bangladesh-us-reciprocal-tariff-agreement-1357646",
-    "source": "The Business Standard",
-    "published": "2026-02-10T13:40:00+00:00"
-  },
-  {
-    "title": "Private producers to get their dues, Ramadan power won\u2019t be hit: Fouzul",
-    "link": "https://www.tbsnews.net/bangladesh/no-widespread-load-shedding-expected-during-ramadan-energy-adviser-1357651",
-    "source": "The Business Standard",
-    "published": "2026-02-10T13:40:00+00:00"
-  },
-  {
-    "title": "EU election observer mission meets CA Yunus ahead of poll",
-    "link": "https://www.tbsnews.net/bangladesh/eu-election-observer-mission-meets-ca-yunus-ahead-poll-1357656",
-    "source": "The Business Standard",
-    "published": "2026-02-10T13:40:00+00:00"
-  },
-  {
-    "title": "Has Gyokeres finally found form or are stats misleading?",
-    "link": "https://www.bbc.com/sport/football/articles/c8d5jezj7y9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T13:33:45+00:00"
   },
   {
     "title": "Marc Anthony says the way Beckham feud has played out is 'hardly the truth'",
@@ -258,16 +396,10 @@
     "published": "2026-02-10T13:32:09+00:00"
   },
   {
-    "title": "Could the Trump Phone be a good phone?",
-    "link": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
-    "source": "The Verge",
-    "published": "2026-02-10T13:30:00+00:00"
-  },
-  {
-    "title": "Hajj package costs cut, pilgrims to get over Tk3cr refund: AFM Khalid",
-    "link": "https://www.tbsnews.net/bangladesh/hajj-package-costs-cut-pilgrims-get-over-tk3cr-refund-afm-khalid-1357636",
-    "source": "The Business Standard",
-    "published": "2026-02-10T13:25:00+00:00"
+    "title": "Jail for man who rigged house with traps 'inspired by Home Alone' to protect drug den",
+    "link": "https://www.bbc.com/news/articles/cx2r5qzre27o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T13:25:30+00:00"
   },
   {
     "title": "<em>The Atlantic</em>\u2019s March Cover: Josh Tyrangiel on AI and the Future of Work\u2014\u201cWhat\u2019s the Worst That Could Happen?\u201d",
@@ -276,34 +408,10 @@
     "published": "2026-02-10T13:24:16+00:00"
   },
   {
-    "title": "Country\u2019s food grain stock hits a record 2.21 million tonnes: Food adviser",
-    "link": "https://www.tbsnews.net/bangladesh/countrys-food-grain-stock-hits-record-221-million-tonnes-food-adviser-1357626",
-    "source": "The Business Standard",
-    "published": "2026-02-10T13:15:00+00:00"
-  },
-  {
     "title": "American Ben Ogden wins silver, breaking 50 year medal drought for U.S. men's cross-country skiing",
     "link": "https://www.npr.org/2026/02/10/nx-s1-5708670/american-ben-ogden-wins-silver-breaking-50-year-medal-drought-for-u-s-mens-cross-country-skiing",
     "source": "NPR",
     "published": "2026-02-10T13:09:30+00:00"
-  },
-  {
-    "title": "Discord\u2019s age verification mandate is a leap toward a gated internet",
-    "link": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
-    "source": "The Verge",
-    "published": "2026-02-10T13:00:00+00:00"
-  },
-  {
-    "title": "Vibe coding Nothing\u2019s apps is fun, until you try to make them useful",
-    "link": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
-    "source": "The Verge",
-    "published": "2026-02-10T13:00:00+00:00"
-  },
-  {
-    "title": "Political violence, harassment on journos continue to rise ahead of polls: ASK",
-    "link": "https://www.tbsnews.net/bangladesh-election-2026/political-violence-harassment-journos-continue-rise-ahead-polls-ask-1357606",
-    "source": "The Business Standard",
-    "published": "2026-02-10T12:55:00+00:00"
   },
   {
     "title": "A Shift in Chinese Taste for Durian Throws Malaysian Farmers Into Turmoil",
@@ -312,22 +420,10 @@
     "published": "2026-02-10T12:54:39+00:00"
   },
   {
-    "title": "Apple and Google agree to change app stores after 'effective duopoly' claim",
-    "link": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T12:44:43+00:00"
-  },
-  {
     "title": "'Skilled butcher' murdered, cut up and buried partner",
     "link": "https://www.bbc.com/news/articles/cq6qr37z0reo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T12:41:29+00:00"
-  },
-  {
-    "title": "Interim govt releases advisers' wealth statements",
-    "link": "https://www.tbsnews.net/bangladesh/advisers-wealth-statements-released-ca-yunus-declares-tk1562cr-assets-1357591",
-    "source": "The Business Standard",
-    "published": "2026-02-10T12:40:00+00:00"
   },
   {
     "title": "William meets female footballers on Saudi Arabia visit",
@@ -336,34 +432,22 @@
     "published": "2026-02-10T12:32:25+00:00"
   },
   {
-    "title": "Drone flights banned nationwide until 15 Feb",
-    "link": "https://www.tbsnews.net/bangladesh/drone-flights-banned-nationwide-until-15-feb-1357586",
-    "source": "The Business Standard",
-    "published": "2026-02-10T12:30:00+00:00"
-  },
-  {
     "title": "Why British coach is 'game-changer' for Super Bowl winners & NFL",
     "link": "https://www.bbc.com/sport/american-football/articles/c4gq5ze8eqyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T12:11:32+00:00"
-  },
-  {
-    "title": "Why British coach is 'game-changer' for Super Bowl winners & NFL",
-    "link": "https://www.bbc.com/sport/american-football/articles/c4gq5ze8eqyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T12:11:32+00:00"
-  },
-  {
-    "title": "Gabbard\u2019s 2020 Election Claims Put Her Back in Favor With Trump",
-    "link": "https://www.nytimes.com/2026/02/09/us/politics/tulsi-gabbard-2020-election.html",
-    "source": "New York Times",
-    "published": "2026-02-10T12:11:20+00:00"
   },
   {
     "title": "Quad God - the 'otherworldly' figure skating star whose moves have captivated the Games",
     "link": "https://www.bbc.com/sport/articles/ce94jxvny58o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T12:08:59+00:00"
+  },
+  {
+    "title": "US lawmakers accuse justice department of 'inappropriately' redacting Epstein files",
+    "link": "https://www.bbc.com/news/articles/cn5gzepnw4lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-10T12:07:35+00:00"
   },
   {
     "title": "Sepsis mistakes killed our daughter - we fear it could happen again",
@@ -394,12 +478,6 @@
     "link": "https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition",
     "source": "NPR",
     "published": "2026-02-10T12:00:00+00:00"
-  },
-  {
-    "title": "A Campaign to Revoke the Endangerment Finding Appears Near \u2018Total Victory\u2019",
-    "link": "https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html",
-    "source": "New York Times",
-    "published": "2026-02-10T11:54:11+00:00"
   },
   {
     "title": "The End of Arms Control",
@@ -450,12 +528,6 @@
     "published": "2026-02-10T11:12:08+00:00"
   },
   {
-    "title": "Ghislaine Maxwell Refuses to Answer Questions, and Texas Republicans Increase Anti-Muslim Rhetoric",
-    "link": "https://www.nytimes.com/2026/02/10/podcasts/the-headlines/trump-shootings-court-olympics.html",
-    "source": "New York Times",
-    "published": "2026-02-10T11:00:11+00:00"
-  },
-  {
     "title": "America Isn\u2019t Ready for What AI Will Do to Jobs",
     "link": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/?utm_source=feed",
     "source": "The Atlantic",
@@ -474,16 +546,10 @@
     "published": "2026-02-10T11:00:00+00:00"
   },
   {
-    "title": "'Please inform your friends': The quest to make weather warnings universal",
+    "title": "The quest to warn everyone on Earth about deadly weather",
     "link": "https://www.npr.org/2026/02/10/nx-s1-5544181/extreme-weather-warnings-international",
     "source": "NPR",
     "published": "2026-02-10T11:00:00+00:00"
-  },
-  {
-    "title": "Watch: Drones capture incredible footage of athletes in action",
-    "link": "https://www.bbc.com/sport/videos/cx2r5q4w1rro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T10:58:00+00:00"
   },
   {
     "title": "Trump\u2019s Doomed Drive to Rename Penn Station and Dulles Airport",
@@ -502,12 +568,6 @@
     "link": "https://www.nytimes.com/2026/02/10/opinion/china-ai-ev-trump.html",
     "source": "New York Times",
     "published": "2026-02-10T10:02:28+00:00"
-  },
-  {
-    "title": "How Ukrainians Are Coping Without Heat",
-    "link": "https://www.nytimes.com/video/world/europe/100000010689521/how-ukrainians-are-coping-without-heat.html",
-    "source": "New York Times",
-    "published": "2026-02-10T10:02:22+00:00"
   },
   {
     "title": "Without a Border \u2018Invasion,\u2019 Texas G.O.P. Turns to an Old Enemy, Islam",
@@ -534,22 +594,16 @@
     "published": "2026-02-10T10:00:00+00:00"
   },
   {
-    "title": "Immigration officials to testify before House as DHS funding deadline approaches",
+    "title": "Immigration officials testify before House as DHS funding deadline approaches",
     "link": "https://www.npr.org/2026/02/10/g-s1-109330/immigration-oversight-dhs-funding",
     "source": "NPR",
     "published": "2026-02-10T10:00:00+00:00"
   },
   {
-    "title": "Why do we rarely see world records at the Winter Olympics?",
-    "link": "https://www.bbc.com/sport/articles/cvg830kl3lvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T08:43:01+00:00"
-  },
-  {
-    "title": "Maxwell Refuses to Answer Questions About Epstein Crimes in House Deposition",
-    "link": "https://www.nytimes.com/2026/02/09/us/politics/ghislaine-maxwell-house-jeffrey-epstein-trump.html",
+    "title": "They Use MetroCards to Make Art. They\u2019re Starting to Run Out.",
+    "link": "https://www.nytimes.com/2026/02/10/nyregion/metro-card-art-exhibit-nyc.html",
     "source": "New York Times",
-    "published": "2026-02-10T08:17:23+00:00"
+    "published": "2026-02-10T08:00:14+00:00"
   },
   {
     "title": "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout",
@@ -558,31 +612,7 @@
     "published": "2026-02-10T07:12:36+00:00"
   },
   {
-    "title": "Jon Stewart Defends Bad Bunny\u2019s Super Bowl Halftime Show",
-    "link": "https://www.nytimes.com/2026/02/10/arts/television/late-night-bad-bunny.html",
-    "source": "New York Times",
-    "published": "2026-02-10T07:03:36+00:00"
-  },
-  {
-    "title": "Air Canada Cancels Flights to Cuba as Cuba Runs Out of Jet Fuel",
-    "link": "https://www.nytimes.com/2026/02/09/world/americas/air-canada-flight-cancellations-cuba-jet-fuel.html",
-    "source": "New York Times",
-    "published": "2026-02-10T06:34:48+00:00"
-  },
-  {
-    "title": "Buy an island for \u00a3350k... but you must wade across an estuary to reach it",
-    "link": "https://www.bbc.com/news/articles/cdx4xkkly9qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T06:29:36+00:00"
-  },
-  {
-    "title": "Nicaragua Blocks a Route from Cuba to the U.S.",
-    "link": "https://www.nytimes.com/2026/02/10/world/americas/nicaragua-cuba-us-immigration.html",
-    "source": "New York Times",
-    "published": "2026-02-10T05:04:34+00:00"
-  },
-  {
-    "title": "Trump Threatens to Block Opening of Gordie Howe International Bridge to Canada",
+    "title": "Trump Threatens to Block Opening of New Bridge to Canada",
     "link": "https://www.nytimes.com/2026/02/09/us/politics/trump-gordie-howe-bridge-canada.html",
     "source": "New York Times",
     "published": "2026-02-10T02:41:35+00:00"
@@ -604,30 +634,6 @@
     "link": "https://www.nytimes.com/2026/02/09/nyregion/eric-adams-whistles.html",
     "source": "New York Times",
     "published": "2026-02-10T01:57:12+00:00"
-  },
-  {
-    "title": "Savannah Guthrie Says She Believes Her Mom, Nancy, \u2018Is Still Out There\u2019 in New Video",
-    "link": "https://www.nytimes.com/2026/02/09/us/savannah-guthrie-kidnapping-video.html",
-    "source": "New York Times",
-    "published": "2026-02-10T01:08:36+00:00"
-  },
-  {
-    "title": "New Mexico goes to trial to accuse Meta of facilitating child predators",
-    "link": "https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial",
-    "source": "The Verge",
-    "published": "2026-02-10T01:03:49+00:00"
-  },
-  {
-    "title": "U.S. Archbishop Fulton J. Sheen to Be Beatified, One Step Away From Sainthood",
-    "link": "https://www.nytimes.com/2026/02/09/us/archbishop-sheen-beatification-saint.html",
-    "source": "New York Times",
-    "published": "2026-02-10T01:03:20+00:00"
-  },
-  {
-    "title": "Trump's world order hangs over Europe on eve of key defence conference",
-    "link": "https://www.bbc.com/news/articles/cgrzjv1kykxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-10T00:31:21+00:00"
   },
   {
     "title": "Pete Hegseth\u2019s Attack on Harvard",
@@ -654,6 +660,12 @@
     "published": "2026-02-09T20:20:20+00:00"
   },
   {
+    "title": "How Are Health Care Costs Affecting You?",
+    "link": "https://www.nytimes.com/2026/02/09/health/health-care-affordability.html",
+    "source": "New York Times",
+    "published": "2026-02-09T20:11:19+00:00"
+  },
+  {
     "title": "When the Two Sides of the Culture War Meet",
     "link": "https://www.theatlantic.com/newsletters/2026/02/culture-war-bad-bunny-turning-point-usa-super-bowl/685939/?utm_source=feed",
     "source": "The Atlantic",
@@ -670,11 +682,5 @@
     "link": "https://www.theatlantic.com/culture/2026/02/super-bowl-excess-seahawks-patriots/685930/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-09T18:23:00+00:00"
-  },
-  {
-    "title": "Finally, a Halftime Show That Represents Real America!",
-    "link": "https://www.theatlantic.com/newsletters/2026/02/turning-point-usa-halftime-show/685932/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-02-09T17:19:00+00:00"
   }
 ]
