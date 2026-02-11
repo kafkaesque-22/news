@@ -1,5 +1,89 @@
 [
   {
+    "title": "I Left My Job at OpenAI. Putting Ads on ChatGPT Was the Last Straw.",
+    "link": "https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html",
+    "source": "New York Times",
+    "published": "2026-02-11T11:33:12+00:00"
+  },
+  {
+    "title": "Flooding concerns remain but change to colder and wintry weather on way",
+    "link": "https://www.bbc.com/weather/articles/cx2r5p58lqwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-11T11:29:51+00:00"
+  },
+  {
+    "title": "Thanks Olympics. We Needed This.",
+    "link": "https://www.nytimes.com/2026/02/11/opinion/olympics-vonn-malinin.html",
+    "source": "New York Times",
+    "published": "2026-02-11T11:25:28+00:00"
+  },
+  {
+    "title": "Verstappen fastest in first morning of Bahrain test",
+    "link": "https://www.bbc.com/sport/formula1/articles/cvg8x3n0znmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-11T11:22:46+00:00"
+  },
+  {
+    "title": "F.A.A. Halts All Flights at El Paso Airport for 10 Days",
+    "link": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+    "source": "New York Times",
+    "published": "2026-02-11T11:10:03+00:00"
+  },
+  {
+    "title": "Trafficked from Bangladesh 35 years ago, woman moves Lahore HC after being offloaded from Dhaka flight",
+    "link": "https://www.tbsnews.net/world/south-asia/trafficked-bangladesh-35-years-ago-woman-moves-lahore-hc-after-being-offloaded",
+    "source": "The Business Standard",
+    "published": "2026-02-11T11:05:00+00:00"
+  },
+  {
+    "title": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage",
+    "link": "https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-11T11:02:25+00:00"
+  },
+  {
+    "title": "A Deadly Mass Shooting in Canada, and the Latest on the Search for Nancy Guthrie",
+    "link": "https://www.nytimes.com/2026/02/11/podcasts/the-headlines/school-shooting-canada-nancy-guthrie.html",
+    "source": "New York Times",
+    "published": "2026-02-11T11:00:10+00:00"
+  },
+  {
+    "title": "\u2018Shut up and focus on the mission\u2019: Tech workers are frustrated by their companies\u2019 silence about ICE",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
+    "source": "The Verge",
+    "published": "2026-02-11T11:00:00+00:00"
+  },
+  {
+    "title": "CCTV cameras around polling centre removed, vandalised in Narayanganj",
+    "link": "https://www.tbsnews.net/bangladesh/cctv-cameras-around-polling-centre-removed-vandalised-narayanganj-1358531",
+    "source": "The Business Standard",
+    "published": "2026-02-11T10:55:00+00:00"
+  },
+  {
+    "title": "Trump to Meet Netanyahu in Washington Amid Tensions With Iran",
+    "link": "https://www.nytimes.com/2026/02/11/us/politics/trump-netanyahu-israel-iran.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:46:27+00:00"
+  },
+  {
+    "title": "Shootings at school and home in British Columbia, Canada, leave 10 dead",
+    "link": "https://www.npr.org/2026/02/11/g-s1-109591/shootings-british-columbia-canada",
+    "source": "NPR",
+    "published": "2026-02-11T10:45:20+00:00"
+  },
+  {
+    "title": "Jamaat Ameer meets Chinese, Japanese election observer delegations",
+    "link": "https://www.tbsnews.net/bangladesh-election-2026/jamaat-ameer-meets-chinese-japanese-election-observer-delegations-1358506",
+    "source": "The Business Standard",
+    "published": "2026-02-11T10:40:00+00:00"
+  },
+  {
+    "title": "Why Frank at Tottenham was a gamble that ended in bitter failure",
+    "link": "https://www.bbc.com/sport/football/articles/c783jxqlpv9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-11T10:36:01+00:00"
+  },
+  {
     "title": "Trump's EPA plans to end a key climate pollution regulation",
     "link": "https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment",
     "source": "NPR",
@@ -18,22 +102,28 @@
     "published": "2026-02-11T10:23:18+00:00"
   },
   {
+    "title": "What we know so far about the Tumbler Ridge mass shooting",
+    "link": "https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-11T10:18:16+00:00"
+  },
+  {
     "title": "Britain's 'loneliest' sheep gives birth to first lambs",
     "link": "https://www.bbc.com/news/articles/c8018ggeg59o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-11T10:17:02+00:00"
   },
   {
-    "title": "Vested group spreading falsehoods out of fear: Jamaat ameer",
+    "title": "Vested group spreading falsehoods out of fear of Jamaat's growing popularity: Shafiqur",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/vested-group-spreading-falsehoods-out-fear-jamaat-ameer-1358461",
     "source": "The Business Standard",
     "published": "2026-02-11T10:15:00+00:00"
   },
   {
-    "title": "Frank sacked by Spurs after eight months in charge",
-    "link": "https://www.bbc.com/sport/football/articles/ckgzqdzz1zdo?at_medium=RSS&at_campaign=rss",
+    "title": "No balls, a wide & absurd run-out - a wild T20 World Cup finish",
+    "link": "https://www.bbc.com/sport/cricket/videos/ckglng4z5klo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2026-02-11T10:10:17+00:00"
+    "published": "2026-02-11T10:14:51+00:00"
   },
   {
     "title": "Frank sacked by Spurs after eight months in charge",
@@ -48,27 +138,87 @@
     "published": "2026-02-11T10:05:26+00:00"
   },
   {
-    "title": "I Left My Job at OpenAI. Putting Ads on ChatGPT Was the Last Straw.",
-    "link": "https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html",
+    "title": "Iran\u2019s Missile Program Tops Israel\u2019s Concerns as Netanyahu Meets Trump",
+    "link": "https://www.nytimes.com/2026/02/11/us/politics/irans-missile-program-tops-israels-concerns-as-netanyahu-meets-trump.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:04:45+00:00"
+  },
+  {
+    "title": "Bondi Expected to Face Scrutiny Over Release of Epstein Files",
+    "link": "https://www.nytimes.com/2026/02/11/us/politics/bondi-testimony-epstein-files.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:04:45+00:00"
+  },
+  {
+    "title": "Revelations in Epstein Files Lead to Resignations and Investigations Around the World",
+    "link": "https://www.nytimes.com/2026/02/11/world/europe/epstein-files-global-chaos-resignations.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:04:39+00:00"
+  },
+  {
+    "title": "NATO Is Expected to Step Up Arctic Security. Here\u2019s Why.",
+    "link": "https://www.nytimes.com/2026/02/11/world/europe/nato-arctic-russia-military.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:04:29+00:00"
+  },
+  {
+    "title": "U.S. Brings Dozens of Foreign Military Chiefs to Washington",
+    "link": "https://www.nytimes.com/2026/02/11/us/politics/us-caine-military-chiefs.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:04:27+00:00"
+  },
+  {
+    "title": "Unemployment Rate in Focus as Fed Considers When to Restart Rate Cuts",
+    "link": "https://www.nytimes.com/2026/02/11/business/economy/fed-jobs-rates.html",
     "source": "New York Times",
     "published": "2026-02-11T10:03:57+00:00"
   },
   {
-    "title": "Thanks Olympics. We Needed This.",
-    "link": "https://www.nytimes.com/2026/02/11/opinion/olympics-vonn-malinin.html",
+    "title": "Portland Lawsuit Alleges Tear Gas Use by ICE Is a Health Threat",
+    "link": "https://www.nytimes.com/2026/02/11/climate/ice-portland-tear-gas-pollution-health-lawsuit.html",
     "source": "New York Times",
-    "published": "2026-02-11T10:02:43+00:00"
+    "published": "2026-02-11T10:03:14+00:00"
+  },
+  {
+    "title": "Homeland Security Hires Labor Dept. Aide Whose Posts Raised Alarms",
+    "link": "https://www.nytimes.com/2026/02/11/us/politics/trump-administration-social-media-homeland-security.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:03:08+00:00"
+  },
+  {
+    "title": "After a Year of Sluggish Hiring, 2026 Could Be Off to a Stronger Start",
+    "link": "https://www.nytimes.com/2026/02/11/business/economy/after-a-year-of-sluggish-hiring-2026-could-be-off-to-a-stronger-start.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:03:00+00:00"
+  },
+  {
+    "title": "Will Trump\u2019s Order on Housing Help?",
+    "link": "https://www.nytimes.com/video/us/100000010687990/will-trumps-order-on-housing-help.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:02:29+00:00"
+  },
+  {
+    "title": "After Trump\u2019s Cuts, Some Former Federal Workers Are Now Seeking Office",
+    "link": "https://www.nytimes.com/2026/02/11/us/politics/federal-workers-candidates.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:01:02+00:00"
+  },
+  {
+    "title": "Trump Decries a \u2018Nation of Renters\u2019 but His New Policy Promotes One",
+    "link": "https://www.nytimes.com/2026/02/11/business/built-to-rent-investors-trump.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:00:32+00:00"
+  },
+  {
+    "title": "Rachel Scott Wants to Dress the New New York Woman",
+    "link": "https://www.nytimes.com/2026/02/11/style/rachel-scott-proenza-schouler-new-york-fashion-week.html",
+    "source": "New York Times",
+    "published": "2026-02-11T10:00:10+00:00"
   },
   {
     "title": "Assistant presiding officer among 2 killed in Sherpur road crash",
     "link": "https://www.tbsnews.net/bangladesh/districts/assistant-presiding-officer-among-2-killed-sherpur-road-crash-1358436",
     "source": "The Business Standard",
-    "published": "2026-02-11T10:00:00+00:00"
-  },
-  {
-    "title": "The U.S. claims China is conducting secret nuclear tests. Here's what that means",
-    "link": "https://www.npr.org/2026/02/11/nx-s1-5707495/china-us-nuclear-weapons-testing-trump",
-    "source": "NPR",
     "published": "2026-02-11T10:00:00+00:00"
   },
   {
@@ -84,6 +234,18 @@
     "published": "2026-02-11T10:00:00+00:00"
   },
   {
+    "title": "The U.S. claims China is conducting secret nuclear tests. Here's what that means",
+    "link": "https://www.npr.org/2026/02/11/nx-s1-5707495/china-us-nuclear-weapons-testing-trump",
+    "source": "NPR",
+    "published": "2026-02-11T10:00:00+00:00"
+  },
+  {
+    "title": "Students and Teachers Hid in School for Hours During British Columbia Shooting",
+    "link": "https://www.nytimes.com/2026/02/11/world/canada/tumbler-ridge-shooting-school-teacher.html",
+    "source": "New York Times",
+    "published": "2026-02-11T09:49:49+00:00"
+  },
+  {
     "title": "Children bombarded with weight loss drug ads online, says commissioner",
     "link": "https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -94,12 +256,6 @@
     "link": "https://www.npr.org/2026/02/11/nx-s1-5711107/ukrainian-sled-racer-says-he-will-wear-helmet-honoring-slain-soldiers-despite-olympic-ban",
     "source": "NPR",
     "published": "2026-02-11T09:47:27+00:00"
-  },
-  {
-    "title": "F.A.A. Halts All Flights at El Paso Airport for 10 Days",
-    "link": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-    "source": "New York Times",
-    "published": "2026-02-11T09:43:50+00:00"
   },
   {
     "title": "12 things we spotted in the Oscars class photo",
@@ -162,7 +318,7 @@
     "published": "2026-02-11T07:50:00+00:00"
   },
   {
-    "title": "Thakurgaon Jamaat ameer held with Tk50 lakh at Saidpur Airport",
+    "title": "Thakurgaon Jamaat ameer held with Tk74 lakh at Saidpur Airport",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/thakurgaon-jamaat-ameer-held-tk50-lakh-saidpur-airport-1358271",
     "source": "The Business Standard",
     "published": "2026-02-11T07:40:00+00:00"
@@ -222,12 +378,6 @@
     "published": "2026-02-11T06:33:20+00:00"
   },
   {
-    "title": "Late Night Mines Trump\u2019s Million Mentions in the Epstein Files",
-    "link": "https://www.nytimes.com/2026/02/11/arts/television/late-night-trump-epstein.html",
-    "source": "New York Times",
-    "published": "2026-02-11T06:31:05+00:00"
-  },
-  {
     "title": "Nearly 28,000 firearms deposited, 20,288 yet to be surrendered ahead of polls",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/nearly-28000-firearms-deposited-20288-yet-be-surrendered-ahead-polls",
     "source": "The Business Standard",
@@ -252,28 +402,10 @@
     "published": "2026-02-11T06:03:56+00:00"
   },
   {
-    "title": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage",
-    "link": "https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-11T05:55:02+00:00"
-  },
-  {
     "title": "Man Accused of Killing His Father Said He Was on a \u2018Mission From God\u2019",
     "link": "https://www.nytimes.com/2026/02/11/nyregion/henry-mcgowan-murder-trial-ireland.html",
     "source": "New York Times",
     "published": "2026-02-11T05:01:12+00:00"
-  },
-  {
-    "title": "Away From Pomp of Olympics, Homeless Shiver on Streets of Milan",
-    "link": "https://www.nytimes.com/2026/02/11/world/europe/olympics-homeless-milan.html",
-    "source": "New York Times",
-    "published": "2026-02-11T05:01:10+00:00"
-  },
-  {
-    "title": "Trump Wants to Revive Shipping. Investors Are Slow to Back Him.",
-    "link": "https://www.nytimes.com/2026/02/11/business/trump-shipping-investors.html",
-    "source": "New York Times",
-    "published": "2026-02-11T05:01:06+00:00"
   },
   {
     "title": "Dhaka streets largely empty amid tight security as people leave city to vote",
@@ -300,28 +432,10 @@
     "published": "2026-02-11T04:15:18+00:00"
   },
   {
-    "title": "Flooding concerns remain but change is on the horizon",
-    "link": "https://www.bbc.com/weather/articles/cx2r5p58lqwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-11T03:58:15+00:00"
-  },
-  {
     "title": "UK doubles troops in Norway to counter Russian 'threat to Arctic'",
     "link": "https://www.bbc.com/news/articles/ce94jm1pp5xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-11T03:39:02+00:00"
-  },
-  {
-    "title": "House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs",
-    "link": "https://www.nytimes.com/2026/02/10/us/politics/tariffs-house-legislative-day.html",
-    "source": "New York Times",
-    "published": "2026-02-11T03:34:22+00:00"
-  },
-  {
-    "title": "California Man Sentenced to 4 Years for Covert Work on China\u2019s Behalf",
-    "link": "https://www.nytimes.com/2026/02/10/us/california-man-chinese-agent.html",
-    "source": "New York Times",
-    "published": "2026-02-11T03:31:05+00:00"
   },
   {
     "title": "Britney Spears sells rights to entire music catalogue",
@@ -330,52 +444,10 @@
     "published": "2026-02-11T03:26:37+00:00"
   },
   {
-    "title": "Unhealthy air grips Dhaka, ranks second globally",
-    "link": "https://www.tbsnews.net/bangladesh/environment/unhealthy-air-grips-dhaka-ranks-second-globally-1357976",
-    "source": "The Business Standard",
-    "published": "2026-02-11T03:25:00+00:00"
-  },
-  {
-    "title": "Britney Spears Sells Her Song Catalog",
-    "link": "https://www.nytimes.com/2026/02/10/arts/music/britney-spears-catalog-deal.html",
-    "source": "New York Times",
-    "published": "2026-02-11T03:02:51+00:00"
-  },
-  {
     "title": "Are wetter winters and frequent flooding here to stay?",
     "link": "https://www.bbc.com/news/articles/cvgjw0kpd89o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-11T02:59:08+00:00"
-  },
-  {
-    "title": "Bangladesh traded democracy for development over two decades: Study",
-    "link": "https://www.tbsnews.net/bangladesh/bangladesh-traded-democracy-development-over-two-decades-study-1357971",
-    "source": "The Business Standard",
-    "published": "2026-02-11T02:55:00+00:00"
-  },
-  {
-    "title": "F.D.A. Refuses to Review Moderna Flu Vaccine",
-    "link": "https://www.nytimes.com/2026/02/10/health/fda-moderna-mrna-flu-vaccine.html",
-    "source": "New York Times",
-    "published": "2026-02-11T02:49:48+00:00"
-  },
-  {
-    "title": "US lawmakers tell BBC Andrew should testify over Epstein files",
-    "link": "https://www.bbc.com/news/articles/cx2gmde0vjlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-11T02:41:38+00:00"
-  },
-  {
-    "title": "Fire breaks out at multi-storey building in Mirpur, brought under control after 1.5 hour",
-    "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-multi-storey-building-mirpur-brought-under-control-after-15-hour-1357966",
-    "source": "The Business Standard",
-    "published": "2026-02-11T02:40:00+00:00"
-  },
-  {
-    "title": "Ford Says Electric Vehicle Losses Will Continue for 3 More Years",
-    "link": "https://www.nytimes.com/2026/02/10/business/ford-earnings-electric-vehicles.html",
-    "source": "New York Times",
-    "published": "2026-02-11T02:34:58+00:00"
   },
   {
     "title": "The Toyota Highlander is now a three-row electric SUV with 320 miles of range",
@@ -408,12 +480,6 @@
     "published": "2026-02-11T00:37:59+00:00"
   },
   {
-    "title": "Don Lemon Hires Federal Prosecutor Joseph H. Thompson in Minneapolis Church Protest Case",
-    "link": "https://www.nytimes.com/2026/02/10/us/joseph-thompson-don-lemon-minneapolis-protest.html",
-    "source": "New York Times",
-    "published": "2026-02-11T00:28:22+00:00"
-  },
-  {
     "title": "The Grim Paradox of the Nancy Guthrie Case",
     "link": "https://www.theatlantic.com/culture/2026/02/nancy-guthrie-disappearance/685958/?utm_source=feed",
     "source": "The Atlantic",
@@ -424,18 +490,6 @@
     "link": "https://www.bbc.com/news/articles/c07jnmgy8jmo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-11T00:17:37+00:00"
-  },
-  {
-    "title": "Spike in antisemitism reports after synagogue attack",
-    "link": "https://www.bbc.com/news/articles/cjd95r4lyvko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-11T00:10:17+00:00"
-  },
-  {
-    "title": "Disney advert banned for showing 'disturbing' severed body",
-    "link": "https://www.bbc.com/news/articles/ce8n132681no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-11T00:07:54+00:00"
   },
   {
     "title": "What the Crypto Crash Reveals About Trump's Power",
@@ -450,12 +504,6 @@
     "published": "2026-02-11T00:02:33+00:00"
   },
   {
-    "title": "Baboon Sibling Rivalry Suggests Monkeys Feel Jealousy Like People",
-    "link": "https://www.nytimes.com/2026/02/10/science/jealousy-siblings-baboons-monkeys.html",
-    "source": "New York Times",
-    "published": "2026-02-11T00:01:05+00:00"
-  },
-  {
     "title": "Boston Dynamics CEO Robert Playter is stepping down after six years",
     "link": "https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai",
     "source": "The Verge",
@@ -468,24 +516,6 @@
     "published": "2026-02-10T23:34:59+00:00"
   },
   {
-    "title": "Lutnick Acknowledges Traveling to Epstein\u2019s Island",
-    "link": "https://www.nytimes.com/2026/02/10/us/politics/howard-lutnick-jeffrey-epstein-island.html",
-    "source": "New York Times",
-    "published": "2026-02-10T23:24:38+00:00"
-  },
-  {
-    "title": "Federal judge acknowledges 'abusive workplace' in court order",
-    "link": "https://www.npr.org/2026/02/10/nx-s1-5709042/judges-accountability",
-    "source": "NPR",
-    "published": "2026-02-10T23:18:04+00:00"
-  },
-  {
-    "title": "Mexican Cartel\u2019s Seized Ammunition Is Traced to U.S. Army Plant",
-    "link": "https://www.nytimes.com/2026/02/10/world/americas/mexico-cartel-ammunition-us-army.html",
-    "source": "New York Times",
-    "published": "2026-02-10T23:12:14+00:00"
-  },
-  {
     "title": "ChatGPT\u2019s deep research tool adds a built-in document viewer so you can read its reports",
     "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
     "source": "The Verge",
@@ -496,12 +526,6 @@
     "link": "https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26",
     "source": "The Verge",
     "published": "2026-02-10T23:00:00+00:00"
-  },
-  {
-    "title": "Before Trump Blasted U.S.-Canada Bridge, Owner of Competing Span Lobbied Administration",
-    "link": "https://www.nytimes.com/2026/02/10/world/canada/bridge-owner-trump-lutnick.html",
-    "source": "New York Times",
-    "published": "2026-02-10T22:48:25+00:00"
   },
   {
     "title": "Peter Attia\u2019s Ties to Epstein Spark a Backlash From Doctors",
@@ -522,10 +546,10 @@
     "published": "2026-02-10T22:30:46+00:00"
   },
   {
-    "title": "Bad Bunny\u2019s Super Bowl Halftime Show and the Everyday People Who Made It Authentic",
-    "link": "https://www.nytimes.com/2026/02/10/arts/music/bad-bunny-super-bowl-show-everyday-people.html",
+    "title": "Bulgaria Is at the Heart of Europe\u2019s Harsh New Approach to Immigration",
+    "link": "https://www.nytimes.com/2026/02/10/magazine/immigration-detention-europe-busmantsi-bulgaria.html",
     "source": "New York Times",
-    "published": "2026-02-10T22:12:04+00:00"
+    "published": "2026-02-10T21:57:40+00:00"
   },
   {
     "title": "Fitbit\u2019s AI health coach is now available on your iPhone",
@@ -534,28 +558,10 @@
     "published": "2026-02-10T21:42:19+00:00"
   },
   {
-    "title": "A Desperate Father, a Troubled Son and Death in a 5-Star Hotel",
-    "link": "https://www.nytimes.com/2026/02/10/nyregion/henry-mcgowan-ireland-murder.html",
-    "source": "New York Times",
-    "published": "2026-02-10T21:22:26+00:00"
-  },
-  {
-    "title": "Climate Change Is Erased From Reference Manual on Scientific Evidence for Judges",
-    "link": "https://www.nytimes.com/2026/02/10/climate/judge-manual-climate-change-chapter.html",
-    "source": "New York Times",
-    "published": "2026-02-10T21:11:46+00:00"
-  },
-  {
     "title": "Men's ice hockey starts with a high-profile clash - Wednesday's guide",
     "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T21:08:09+00:00"
-  },
-  {
-    "title": "Former Palm Beach Police Chief Said Trump Told Him \u2018Everyone\u2019 Knew About Epstein in 2006",
-    "link": "https://www.nytimes.com/2026/02/10/us/politics/trump-epstein.html",
-    "source": "New York Times",
-    "published": "2026-02-10T20:53:18+00:00"
   },
   {
     "title": "Has Keir Starmer Saved His Job (For Now)?",
@@ -576,34 +582,16 @@
     "published": "2026-02-10T20:48:27+00:00"
   },
   {
-    "title": "My favorite Switch 2 controller is 30 percent off for today only",
-    "link": "https://www.theverge.com/gadgets/876544/easysmx-s10-switch-2-wireless-controller-deal-sale",
-    "source": "The Verge",
-    "published": "2026-02-10T20:27:22+00:00"
-  },
-  {
     "title": "Trump\u2019s Gaza Plans Are Profoundly Unserious",
     "link": "https://www.theatlantic.com/international/2026/02/trump-gaza-real-estate/685948/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-10T20:20:00+00:00"
   },
   {
-    "title": "Behind the E.P.A.\u2019s Rush to Repeal the Endangerment Finding",
-    "link": "https://www.nytimes.com/2026/02/10/climate/epa-endangerment-supreme-court.html",
-    "source": "New York Times",
-    "published": "2026-02-10T20:17:13+00:00"
-  },
-  {
     "title": "Winter Olympics Photo of the Day: Wipeout on the Ice",
     "link": "https://www.theatlantic.com/photography/2026/02/winter-olympics-photo-day-wipeout-ice/685952/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-10T20:14:41+00:00"
-  },
-  {
-    "title": "Epstein Files Reveal Efforts to Build Ties With Russian Officials, Including Putin",
-    "link": "https://www.nytimes.com/2026/02/10/business/epstein-files-russia-putin.html",
-    "source": "New York Times",
-    "published": "2026-02-10T19:29:38+00:00"
   },
   {
     "title": "Skater's emotional tribute to parents who died in plane crash",
@@ -630,6 +618,12 @@
     "published": "2026-02-10T16:00:00+00:00"
   },
   {
+    "title": "The Secret to Happiness May Lie in Our Social Skills",
+    "link": "https://www.nytimes.com/2026/02/10/well/lyubomirsky-reis-how-to-feel-loved.html",
+    "source": "New York Times",
+    "published": "2026-02-10T15:46:22+00:00"
+  },
+  {
     "title": "The New Laser That Can Take Down Aircraft",
     "link": "https://www.theatlantic.com/national-security/2026/02/ukraine-drones-lasers-iron-dome/685944/?utm_source=feed",
     "source": "The Atlantic",
@@ -640,6 +634,12 @@
     "link": "https://www.theatlantic.com/magazine/2026/03/alfred-lord-tennyson-psychology-modernism/685760/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-10T15:00:00+00:00"
+  },
+  {
+    "title": "Marc Jacobs Revisits His Heyday",
+    "link": "https://www.nytimes.com/2026/02/10/style/marc-jacobs-new-york-fashion-week.html",
+    "source": "New York Times",
+    "published": "2026-02-10T14:04:12+00:00"
   },
   {
     "title": "The Novel as Extended Op-Ed",
@@ -676,11 +676,5 @@
     "link": "https://www.bbc.com/news/articles/c3wl6vezydeo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-10T11:44:23+00:00"
-  },
-  {
-    "title": "America Isn\u2019t Ready for What AI Will Do to Jobs",
-    "link": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-02-10T11:00:00+00:00"
   }
 ]
