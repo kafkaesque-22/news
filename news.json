@@ -1,21 +1,99 @@
 [
   {
+    "title": "UK economy grew by 'subdued' 0.1% at end of 2025",
+    "link": "https://www.bbc.com/news/articles/c4gjmm7dlggo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-12T11:16:27+00:00"
+  },
+  {
+    "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
+    "link": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-12T11:10:55+00:00"
+  },
+  {
+    "title": "Anti-Drone Laser Is Said to Have Caused El Paso Airport Chaos, and Bondi Refuses to Apologize to Epstein Victims",
+    "link": "https://www.nytimes.com/2026/02/12/podcasts/the-headlines/el-paso-anti-drone-laser-pam-bondi-epstein.html",
+    "source": "New York Times",
+    "published": "2026-02-12T11:02:32+00:00"
+  },
+  {
     "title": "Ukrainian Olympian Is Disqualified Over Helmet With Images of War Dead",
     "link": "https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html",
     "source": "New York Times",
-    "published": "2026-02-12T10:29:33+00:00"
+    "published": "2026-02-12T11:00:35+00:00"
   },
   {
-    "title": "Russia orders block on WhatsApp in messaging app crackdown",
-    "link": "https://www.bbc.com/news/articles/clygd10pg5lo?at_medium=RSS&at_campaign=rss",
+    "title": "Why the U.S. Hasn\u2019t Yet Struck Iran",
+    "link": "https://www.theatlantic.com/national-security/2026/02/iran-trump-war-us-israel-netanyahu/685970/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-02-12T11:00:00+00:00"
+  },
+  {
+    "title": "Iran Wants Him Arrested. He\u2019s Going Back Anyway.",
+    "link": "https://www.theatlantic.com/podcasts/2026/02/jafar-panahi-iran-oscars/685963/?utm_source=feed",
+    "source": "The Atlantic",
+    "published": "2026-02-12T11:00:00+00:00"
+  },
+  {
+    "title": "ICE is pushing Minneapolis underground",
+    "link": "https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid",
+    "source": "The Verge",
+    "published": "2026-02-12T11:00:00+00:00"
+  },
+  {
+    "title": "Polls close in first election since Gen Z protests ousted Bangladesh leader",
+    "link": "https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2026-02-12T10:15:47+00:00"
+    "published": "2026-02-12T10:56:29+00:00"
+  },
+  {
+    "title": "Dhaka-8 remains in spotlight also on voting day amid war of words between Abbas and Patwary",
+    "link": "https://www.tbsnews.net/bangladesh-election-2026/dhaka-8-remains-spotlight-voting-day-amid-war-words-between-abbas-and",
+    "source": "The Business Standard",
+    "published": "2026-02-12T10:55:00+00:00"
+  },
+  {
+    "title": "Don't sack cabinet secretary until Mandelson files published, Badenoch says",
+    "link": "https://www.bbc.com/news/articles/c98qene0gpdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-12T10:51:24+00:00"
+  },
+  {
+    "title": "Kushtia-1: BNP leader detained for campaigning inside polling centre",
+    "link": "https://www.tbsnews.net/bangladesh-election-2026/kushtia-1-bnp-leader-detained-campaigning-inside-polling-centre-1359686",
+    "source": "The Business Standard",
+    "published": "2026-02-12T10:35:00+00:00"
+  },
+  {
+    "title": "Satellite Pictures Show Snow And Ice Across North America",
+    "link": "https://www.nytimes.com/2026/02/12/weather/ice-great-lakes-satellite-winter.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:30:08+00:00"
   },
   {
     "title": "Results will be accepted if election is free and neutral: Tarique",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/results-will-be-accepted-if-election-free-and-neutral-tarique-1359651",
     "source": "The Business Standard",
     "published": "2026-02-12T10:15:00+00:00"
+  },
+  {
+    "title": "Immigration Officials Set to Testify Before Senate Panel",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/immigration-hearing-ice-dhs.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:08:14+00:00"
+  },
+  {
+    "title": "Push for Body Cameras for D.H.S. Underscores Trump Administration\u2019s Shift",
+    "link": "https://www.nytimes.com/2026/02/12/us/body-cameras-ice-dhs-trump.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:08:14+00:00"
+  },
+  {
+    "title": "Trump\u2019s Director of Election Security Is an Election Denier",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/trump-kurt-olsen-election-denialism.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:08:10+00:00"
   },
   {
     "title": "End ICE Lawlessness",
@@ -30,44 +108,50 @@
     "published": "2026-02-12T10:06:27+00:00"
   },
   {
+    "title": "Ford Will Make a Play for a Different Battery Market",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:03:23+00:00"
+  },
+  {
+    "title": "Why Pennsylvania\u2019s Two Most Powerful Democrats Don\u2019t Speak",
+    "link": "https://www.nytimes.com/2026/02/12/us/politics/john-fetterman-josh-shapiro-pennsylvania.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:03:12+00:00"
+  },
+  {
+    "title": "\u2018Wuthering Heights\u2019 Review: Margot Robbie, Amok on the Moors",
+    "link": "https://www.nytimes.com/2026/02/12/movies/wuthering-heights-review-margot-robbie-amok-on-the-moors.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:03:05+00:00"
+  },
+  {
+    "title": "New Method Can Find Hidden Eggs to Aid in Fertility Treatment",
+    "link": "https://www.nytimes.com/2026/02/12/health/ivf-hidden-eggs-device-ovaready.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:02:44+00:00"
+  },
+  {
+    "title": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:02:26+00:00"
+  },
+  {
     "title": "Jordan Stolz opens his bid for 4 golds by winning the 1,000 meters in speedskating",
     "link": "https://www.npr.org/2026/02/12/g-s1-109752/jordan-stolz-gold-1000-meters",
     "source": "NPR",
     "published": "2026-02-12T10:02:00+00:00"
   },
   {
-    "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
-    "link": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-12T10:01:45+00:00"
+    "title": "Bans on Many CBD Products Loom This Year",
+    "link": "https://www.nytimes.com/2026/02/12/health/bans-on-many-cbd-products-loom-this-year.html",
+    "source": "New York Times",
+    "published": "2026-02-12T10:00:41+00:00"
   },
   {
     "title": "Top immigration officials to testify before Senate as a potential DHS shutdown looms",
     "link": "https://www.npr.org/2026/02/12/nx-s1-5707281/senate-dhs-oversight-hearing",
-    "source": "NPR",
-    "published": "2026-02-12T10:00:00+00:00"
-  },
-  {
-    "title": "US Colleges received more than $5 billion in foreign gifts, contracts in 2025",
-    "link": "https://www.npr.org/2026/02/12/nx-s1-5711359/us-colleges-5-billion-in-foreign-gifts",
-    "source": "NPR",
-    "published": "2026-02-12T10:00:00+00:00"
-  },
-  {
-    "title": "Swing voters in Arizona say they want to see ICE reformed",
-    "link": "https://www.npr.org/2026/02/12/nx-s1-5703368/trump-ice-reforms-arizona-focus-group",
-    "source": "NPR",
-    "published": "2026-02-12T10:00:00+00:00"
-  },
-  {
-    "title": "How the FBI might have gotten inaccessible camera footage from Nancy Guthrie's house",
-    "link": "https://www.npr.org/2026/02/12/nx-s1-5711620/nancy-guthrie-video-footage-fbi",
-    "source": "NPR",
-    "published": "2026-02-12T10:00:00+00:00"
-  },
-  {
-    "title": "Free speech lawsuits mount after Charlie Kirk assassination",
-    "link": "https://www.npr.org/2026/02/12/nx-s1-5667213/free-speech-lawsuits-since-kirk-killing",
     "source": "NPR",
     "published": "2026-02-12T10:00:00+00:00"
   },
@@ -78,10 +162,28 @@
     "published": "2026-02-12T10:00:00+00:00"
   },
   {
-    "title": "UK economy grew by 'subdued' 0.1% at end of 2025",
-    "link": "https://www.bbc.com/news/articles/c4gjmm7dlggo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-12T09:57:26+00:00"
+    "title": "Free speech lawsuits mount after Charlie Kirk assassination",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5667213/free-speech-lawsuits-since-kirk-killing",
+    "source": "NPR",
+    "published": "2026-02-12T10:00:00+00:00"
+  },
+  {
+    "title": "How the FBI might have gotten inaccessible camera footage from Nancy Guthrie's house",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5711620/nancy-guthrie-video-footage-fbi",
+    "source": "NPR",
+    "published": "2026-02-12T10:00:00+00:00"
+  },
+  {
+    "title": "Swing voters in Arizona say they want to see ICE reformed",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5703368/trump-ice-reforms-arizona-focus-group",
+    "source": "NPR",
+    "published": "2026-02-12T10:00:00+00:00"
+  },
+  {
+    "title": "US Colleges received more than $5 billion in foreign gifts, contracts in 2025",
+    "link": "https://www.npr.org/2026/02/12/nx-s1-5711359/us-colleges-5-billion-in-foreign-gifts",
+    "source": "NPR",
+    "published": "2026-02-12T10:00:00+00:00"
   },
   {
     "title": "Sex offenders should tell police about pregnancies, review finds",
@@ -108,10 +210,16 @@
     "published": "2026-02-12T09:11:04+00:00"
   },
   {
-    "title": "Don't sack cabinet secretary until Mandelson files published, Badenoch says",
-    "link": "https://www.bbc.com/news/articles/c98qene0gpdo?at_medium=RSS&at_campaign=rss",
+    "title": "'I didn't hesitate' - Tuchel extends stay in England 'dream job'",
+    "link": "https://www.bbc.com/sport/football/articles/c9dnl94750zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "published": "2026-02-12T09:07:19+00:00"
+    "published": "2026-02-12T09:08:20+00:00"
+  },
+  {
+    "title": "Turkish Nobel Novelist Orhan Pamuk Gets the Netflix Series He Wanted",
+    "link": "https://www.nytimes.com/2026/02/12/world/europe/orhan-pamuk-istanbul-turkey-museum-of-innocence.html",
+    "source": "New York Times",
+    "published": "2026-02-12T09:05:59+00:00"
   },
   {
     "title": "35% voter turnout in Sylhet till 2pm: Returning officer",
@@ -129,7 +237,7 @@
     "title": "Olympic Figure Skaters Are on Thin Ice Over Music Copyright Rules",
     "link": "https://www.nytimes.com/2026/02/12/world/europe/winter-olympics-figure-skating-music-copyright.html",
     "source": "New York Times",
-    "published": "2026-02-12T08:51:14+00:00"
+    "published": "2026-02-12T08:51:15+00:00"
   },
   {
     "title": "House GOP pushes strict proof-of-citizenship requirement for voters",
@@ -138,7 +246,7 @@
     "published": "2026-02-12T08:40:34+00:00"
   },
   {
-    "title": "Ukrainian banned from Winter Olympics over helmet honouring dead athletes",
+    "title": "'Price of dignity' says Ukrainian banned over helmet commemorating killed athletes",
     "link": "https://www.bbc.com/sport/articles/c309pj8d8qqo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-12T08:32:14+00:00"
@@ -156,16 +264,22 @@
     "published": "2026-02-12T08:25:00+00:00"
   },
   {
+    "title": "Woman in ICE Custody for Nearly a Year Suffers Seizure After Falling",
+    "link": "https://www.nytimes.com/2026/02/12/nyregion/leqaa-kordia-columbia-ice.html",
+    "source": "New York Times",
+    "published": "2026-02-12T08:00:23+00:00"
+  },
+  {
+    "title": "Mamdani Reverses Campaign Promise to Expand Rental Assistance",
+    "link": "https://www.nytimes.com/2026/02/12/nyregion/mamdani-rental-vouchers.html",
+    "source": "New York Times",
+    "published": "2026-02-12T08:00:17+00:00"
+  },
+  {
     "title": "Cocktails explode at Munshiganj polling centre",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/cocktails-explode-munshiganj-polling-centre-1359461",
     "source": "The Business Standard",
     "published": "2026-02-12T07:50:00+00:00"
-  },
-  {
-    "title": "Bangladesh Holds First Elections After 2024 Student Protests",
-    "link": "https://www.nytimes.com/2026/02/11/world/asia/bangladesh-election-students.html",
-    "source": "New York Times",
-    "published": "2026-02-12T07:28:54+00:00"
   },
   {
     "title": "Reporter's account: Optimism and concern \u2014 'Let it end as peacefully as it began'",
@@ -178,12 +292,6 @@
     "link": "https://www.tbsnews.net/bangladesh-election-2026/first-time-voters-seek-fairness-corruption-free-governance-next-parliament",
     "source": "The Business Standard",
     "published": "2026-02-12T06:45:00+00:00"
-  },
-  {
-    "title": "James Van Der Beek, \u2018Dawson\u2019s Creek\u2019 Actor, Dies at 48 After Cancer Battle",
-    "link": "https://www.nytimes.com/2026/02/11/arts/television/james-van-der-beek-dead.html",
-    "source": "New York Times",
-    "published": "2026-02-12T06:42:04+00:00"
   },
   {
     "title": "In blunt warning, the U.S. says Peru could lose its sovereignty to China",
@@ -220,12 +328,6 @@
     "link": "https://www.bbc.com/news/articles/ckg2n644l44o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-12T06:00:20+00:00"
-  },
-  {
-    "title": "Lawmakers Question Bondi Over Justice Dept. Under Her Watch",
-    "link": "https://www.nytimes.com/2026/02/11/us/politics/bondi-testimony-epstein-files.html",
-    "source": "New York Times",
-    "published": "2026-02-12T05:53:59+00:00"
   },
   {
     "title": "What We Know About the El Paso Airspace Shutdown",
@@ -282,18 +384,6 @@
     "published": "2026-02-12T04:15:00+00:00"
   },
   {
-    "title": "Starmer tells Sir Jim Ratcliffe to apologise for saying UK 'colonised by immigrants'",
-    "link": "https://www.bbc.com/news/articles/ckglv1n4dzeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-12T04:12:29+00:00"
-  },
-  {
-    "title": "Man Accused of Murdering His Father Once Sought to Seize Stranger\u2019s Baby",
-    "link": "https://www.nytimes.com/2026/02/11/nyregion/henry-mcgowan-ireland-murder-trial.html",
-    "source": "New York Times",
-    "published": "2026-02-12T04:07:30+00:00"
-  },
-  {
     "title": "Voting takes priority over challenges, says Nahid after casting vote",
     "link": "https://www.tbsnews.net/bangladesh-election-2026/voting-takes-priority-over-challenges-nahid-1359116",
     "source": "The Business Standard",
@@ -316,12 +406,6 @@
     "link": "https://www.bbc.com/news/articles/c0mgzr3e18jo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-12T03:13:29+00:00"
-  },
-  {
-    "title": "Bud Cort, Who Starred in 1971\u2019s \u2018Harold and Maude,\u2019 Dies at 77",
-    "link": "https://www.nytimes.com/2026/02/11/movies/bud-cort-dead.html",
-    "source": "New York Times",
-    "published": "2026-02-12T03:13:24+00:00"
   },
   {
     "title": "U.S. Attorney Chosen to Replace Trump Pick Is Quickly Fired by White House",
@@ -348,24 +432,6 @@
     "published": "2026-02-12T02:28:50+00:00"
   },
   {
-    "title": "No irregularities will be tolerated; law enforcement on high alert: EC",
-    "link": "https://www.tbsnews.net/bangladesh-election-2026/no-irregularities-will-be-tolerated-law-enforcement-high-alert-ec-1359011",
-    "source": "The Business Standard",
-    "published": "2026-02-12T02:25:00+00:00"
-  },
-  {
-    "title": "This Comet Stopped Spinning. Then It Started Rotating Backward.",
-    "link": "https://www.nytimes.com/2026/02/11/science/comet-spinning-backwards.html",
-    "source": "New York Times",
-    "published": "2026-02-12T02:19:44+00:00"
-  },
-  {
-    "title": "Trump Says He Will Now Invite Democrats to Governors\u2019 Meeting",
-    "link": "https://www.nytimes.com/2026/02/11/us/politics/trump-governors-meeting-democrats.html",
-    "source": "New York Times",
-    "published": "2026-02-12T02:09:09+00:00"
-  },
-  {
     "title": "Eyeing the Midterms, Kennedy Pivots Toward Food and Away From Vaccines",
     "link": "https://www.nytimes.com/2026/02/11/us/politics/rfk-pivot-food-vaccines.html",
     "source": "New York Times",
@@ -378,28 +444,16 @@
     "published": "2026-02-12T02:03:33+00:00"
   },
   {
-    "title": "Baby, 17 Days Old, Found Dead From Fire That Killed Her Mother",
-    "link": "https://www.nytimes.com/2026/02/11/nyregion/fire-deaths-infant-mother-queens.html",
-    "source": "New York Times",
-    "published": "2026-02-12T01:56:57+00:00"
-  },
-  {
     "title": "Laughing gas canisters explode at waste centres hundreds of times a week, firms say",
     "link": "https://www.bbc.com/news/articles/cz9vl21wpgpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-12T01:55:40+00:00"
   },
   {
-    "title": "Instagram boss: 16 hours of daily use is 'problematic,' not addiction",
+    "title": "Instagram boss says 16 hours of daily use is 'problematic' not addiction",
     "link": "https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-12T01:19:57+00:00"
-  },
-  {
-    "title": "Nurses at 4 N.Y.C. Hospitals Vote to End Strike, but It Continues at One",
-    "link": "https://www.nytimes.com/2026/02/11/nyregion/nyc-nurses-strike-vote.html",
-    "source": "New York Times",
-    "published": "2026-02-12T01:12:20+00:00"
   },
   {
     "title": "Highguard\u2019s developer reportedly lays off \u2018most\u2019 of its staff just over two weeks after launch",
@@ -418,12 +472,6 @@
     "link": "https://www.nytimes.com/2026/02/11/us/politics/trump-canada-tariffs.html",
     "source": "New York Times",
     "published": "2026-02-12T00:07:41+00:00"
-  },
-  {
-    "title": "In His Second Act, James Van Der Beek Starred Online as a Proud Dad and Family Man",
-    "link": "https://www.nytimes.com/2026/02/11/arts/television/james-van-der-beek-dad-kids.html",
-    "source": "New York Times",
-    "published": "2026-02-12T00:06:33+00:00"
   },
   {
     "title": "I died for 40 minutes - here's what it taught me about life",
@@ -474,28 +522,10 @@
     "published": "2026-02-11T23:00:00+00:00"
   },
   {
-    "title": "Casey Wasserman Will Stay as Head of 2028 Olympics Despite Epstein Ties, Organizers Say",
-    "link": "https://www.nytimes.com/2026/02/11/us/wasserman-epstein-la-olympics-2028.html",
-    "source": "New York Times",
-    "published": "2026-02-11T22:59:06+00:00"
-  },
-  {
     "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
     "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
     "source": "The Verge",
     "published": "2026-02-11T22:37:02+00:00"
-  },
-  {
-    "title": "Gallup Will No Longer Track Presidential Approval Ratings",
-    "link": "https://www.nytimes.com/2026/02/11/us/politics/gallup-poll-presidential-approval-ratings-trump.html",
-    "source": "New York Times",
-    "published": "2026-02-11T22:36:16+00:00"
-  },
-  {
-    "title": "LaMonte McLemore, Founding Singer With the 5th Dimension, Dies at 90",
-    "link": "https://www.nytimes.com/2026/02/11/arts/music/lamonte-mclemore-dead.html",
-    "source": "New York Times",
-    "published": "2026-02-11T22:27:21+00:00"
   },
   {
     "title": "Weapons Used to Fight Drones Don\u2019t Mix Well With Civilian Airspace",
@@ -516,6 +546,18 @@
     "published": "2026-02-11T22:00:00+00:00"
   },
   {
+    "title": "U.S. Health Officials Defend Rejection of Moderna\u2019s Flu Vaccine",
+    "link": "https://www.nytimes.com/2026/02/11/health/fda-moderna-flu-vaccine.html",
+    "source": "New York Times",
+    "published": "2026-02-11T21:53:31+00:00"
+  },
+  {
+    "title": "In North Carolina, a Tight Primary Could Upend the Balance of Conservative Power",
+    "link": "https://www.nytimes.com/2026/02/11/us/politics/north-carolina-state-senate-primary-berger-page.html",
+    "source": "New York Times",
+    "published": "2026-02-11T21:41:40+00:00"
+  },
+  {
     "title": "GB start skeleton bid as Kim targets history - Thursday's guide",
     "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -534,12 +576,6 @@
     "published": "2026-02-11T21:23:47+00:00"
   },
   {
-    "title": "When It\u2019s Finally Cold Enough to Race Ice Yachts",
-    "link": "https://www.nytimes.com/2026/02/11/nyregion/ice-yachting-race-navesink-river.html",
-    "source": "New York Times",
-    "published": "2026-02-11T21:23:04+00:00"
-  },
-  {
     "title": "Winter Olympics Photo of the Day: Starting Speed",
     "link": "https://www.theatlantic.com/photography/2026/02/winter-olympics-photo-day-starting-speed/685964/?utm_source=feed",
     "source": "The Atlantic",
@@ -552,22 +588,16 @@
     "published": "2026-02-11T21:15:00+00:00"
   },
   {
-    "title": "Epstein Files Include Grainy Videos From Inside His Florida Home",
-    "link": "https://www.nytimes.com/2026/02/11/us/epstein-files-videos.html",
+    "title": "Under Trump, ICE\u2019s Work Force Grew as Other Immigration Agencies Shrank",
+    "link": "https://www.nytimes.com/2026/02/11/us/ice-agents-hiring-immigration-system.html",
     "source": "New York Times",
-    "published": "2026-02-11T21:13:18+00:00"
+    "published": "2026-02-11T21:10:24+00:00"
   },
   {
     "title": "Apple keeps hitting bumps with its overhauled Siri",
     "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
     "source": "The Verge",
     "published": "2026-02-11T21:08:36+00:00"
-  },
-  {
-    "title": "Thakurgaon Jamaat ameer released after being held with Tk74 lakh in cash at Saidpur Airport",
-    "link": "https://www.tbsnews.net/bangladesh-election-2026/thakurgaon-jamaat-ameer-released-after-being-held-tk74-lakh-cash-saidpur",
-    "source": "The Business Standard",
-    "published": "2026-02-11T20:55:00+00:00"
   },
   {
     "title": "Two More Problems For Keir Starmer?",
@@ -604,12 +634,6 @@
     "link": "https://www.bbc.com/sport/articles/c3v7lp9ygv7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-11T18:33:39+00:00"
-  },
-  {
-    "title": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
-    "link": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
-    "source": "The Verge",
-    "published": "2026-02-11T18:06:36+00:00"
   },
   {
     "title": "How Trump Could Break the 2026 Elections",
