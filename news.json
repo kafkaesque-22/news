@@ -1,5 +1,71 @@
 [
   {
+    "title": "Manhattan Hospital Ends Medical Treatment for Transgender Youth",
+    "link": "https://www.nytimes.com/2026/02/17/nyregion/nyu-hospital-transgender-youth.html",
+    "source": "New York Times",
+    "published": "2026-02-18T04:05:03+00:00"
+  },
+  {
+    "title": "US says it 'supports' UK Chagos Islands deal",
+    "link": "https://www.bbc.com/news/articles/cgrz2v98z0ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T03:55:56+00:00"
+  },
+  {
+    "title": "Trump Bets on Diplomacy Without Diplomats",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/trump-witkoff-kushner-diplomacy.html",
+    "source": "New York Times",
+    "published": "2026-02-18T03:12:44+00:00"
+  },
+  {
+    "title": "2 brothers accused in murder case arrested at Benapole while trying to flee to India",
+    "link": "https://www.tbsnews.net/bangladesh/2-brothers-accused-murder-case-arrested-benapole-while-trying-flee-india-1364671",
+    "source": "The Business Standard",
+    "published": "2026-02-18T03:05:00+00:00"
+  },
+  {
+    "title": "Mamdani Threatens 9.5% Property Tax Increase if Wealth Tax Is Not Passed",
+    "link": "https://www.nytimes.com/2026/02/17/nyregion/budget-mamdani-property-taxes.html",
+    "source": "New York Times",
+    "published": "2026-02-18T03:04:35+00:00"
+  },
+  {
+    "title": "10 Skiers Missing in Avalanche as Storms Slam California",
+    "link": "https://www.nytimes.com/2026/02/17/weather/california-rain-snow-forecast.html",
+    "source": "New York Times",
+    "published": "2026-02-18T03:04:15+00:00"
+  },
+  {
+    "title": "Potomac Sewage Spill Becomes Ecological Disaster and Political Fight",
+    "link": "https://www.nytimes.com/2026/02/17/climate/potomac-river-trump-moore.html",
+    "source": "New York Times",
+    "published": "2026-02-18T02:59:58+00:00"
+  },
+  {
+    "title": "Boneless Wings Are Still Wings, Judge Rules",
+    "link": "https://www.nytimes.com/2026/02/17/us/boneless-chicken-wings-lawsuit-ruling.html",
+    "source": "New York Times",
+    "published": "2026-02-18T02:53:51+00:00"
+  },
+  {
+    "title": "Critically endangered gharial rescued from park in Kushtia along with 3 turtles",
+    "link": "https://www.tbsnews.net/bangladesh/critically-endangered-gharial-rescued-park-kushtia-along-3-turtles-1364666",
+    "source": "The Business Standard",
+    "published": "2026-02-18T02:45:00+00:00"
+  },
+  {
+    "title": "Trump Hails Japan\u2019s First Batch of U.S. Investments",
+    "link": "https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html",
+    "source": "New York Times",
+    "published": "2026-02-18T02:26:45+00:00"
+  },
+  {
+    "title": "Stop dithering on Brazilian butt lift crackdown, say MPs",
+    "link": "https://www.bbc.com/news/articles/cgrz2lg4r9no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T02:03:55+00:00"
+  },
+  {
     "title": "I used to hate my appearance. Here's how I learned to accept it",
     "link": "https://www.bbc.com/news/articles/cre2pelrpwzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -10,12 +76,6 @@
     "link": "https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-18T01:47:12+00:00"
-  },
-  {
-    "title": "10 Skiers Missing in Avalanche as Storms Slam California",
-    "link": "https://www.nytimes.com/2026/02/17/weather/california-rain-snow-forecast.html",
-    "source": "New York Times",
-    "published": "2026-02-18T01:41:04+00:00"
   },
   {
     "title": "Reform plans to keep UK's budget watchdog",
@@ -72,12 +132,6 @@
     "published": "2026-02-18T00:47:23+00:00"
   },
   {
-    "title": "Mamdani Threatens 9.5% Property Tax Increase if Wealth Tax Is Not Passed",
-    "link": "https://www.nytimes.com/2026/02/17/nyregion/budget-mamdani-property-taxes.html",
-    "source": "New York Times",
-    "published": "2026-02-18T00:43:38+00:00"
-  },
-  {
     "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
     "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -96,28 +150,22 @@
     "published": "2026-02-18T00:32:13+00:00"
   },
   {
-    "title": "Trump Hails Japan\u2019s First Batch of U.S. Investments",
-    "link": "https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html",
-    "source": "New York Times",
-    "published": "2026-02-18T00:27:15+00:00"
-  },
-  {
     "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
     "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
     "source": "The Verge",
     "published": "2026-02-18T00:27:08+00:00"
   },
   {
-    "title": "Goldman Sachs to Drop D.E.I. Criteria for Board Members",
-    "link": "https://www.nytimes.com/2026/02/17/business/goldman-sachs-diversity-board.html",
-    "source": "New York Times",
-    "published": "2026-02-18T00:25:02+00:00"
+    "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
+    "link": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T00:20:03+00:00"
   },
   {
-    "title": "Trump Bets on Diplomacy Without Diplomats",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/trump-witkoff-kushner-diplomacy.html",
-    "source": "New York Times",
-    "published": "2026-02-18T00:16:00+00:00"
+    "title": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?",
+    "link": "https://www.bbc.com/news/articles/c1mjrgkk1m8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T00:19:54+00:00"
   },
   {
     "title": "Illegal skin lightening cream being sold in UK butchers, watchdog warns",
@@ -135,13 +183,7 @@
     "title": "California Wealth Tax Opponents Intensify Efforts Before Bernie Sanders Visit",
     "link": "https://www.nytimes.com/2026/02/17/us/california-wealth-tax-opposition-bernie-sanders.html",
     "source": "New York Times",
-    "published": "2026-02-17T23:49:27+00:00"
-  },
-  {
-    "title": "A Holiday High-School Game Is Shattered by a Fatal Assault",
-    "link": "https://www.nytimes.com/2026/02/17/us/rhode-island-hockey-rink-shooting.html",
-    "source": "New York Times",
-    "published": "2026-02-17T23:37:29+00:00"
+    "published": "2026-02-17T23:49:28+00:00"
   },
   {
     "title": "Jesse Jackson\u2019s Death Arrives at a Crucial Moment for Black Political Power",
@@ -153,13 +195,7 @@
     "title": "U.S. and Iran Make \u2018Good Progress\u2019 in Geneva Talks, Foreign Minister Says",
     "link": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
     "source": "New York Times",
-    "published": "2026-02-17T23:18:50+00:00"
-  },
-  {
-    "title": "Potomac Sewage Spill Becomes Ecological Disaster and Political Fight",
-    "link": "https://www.nytimes.com/2026/02/17/climate/potomac-river-trump-moore.html",
-    "source": "New York Times",
-    "published": "2026-02-17T23:17:23+00:00"
+    "published": "2026-02-17T23:18:51+00:00"
   },
   {
     "title": "The U.S. falters again in figure skating, but the women still have time to make it up",
@@ -184,6 +220,12 @@
     "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
     "source": "The Verge",
     "published": "2026-02-17T23:00:00+00:00"
+  },
+  {
+    "title": "I invested \u00a312,000 in Brewdog  - I think I've lost it all",
+    "link": "https://www.bbc.com/news/articles/c795879x08go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-17T22:55:53+00:00"
   },
   {
     "title": "Google\u2019s AI search results will make links more obvious",
@@ -267,7 +309,7 @@
     "title": "Colbert Slams Trump Administration After CBS Pulls Talarico Interview",
     "link": "https://www.nytimes.com/2026/02/17/business/media/colbert-cbs-fcc-talarico-carr.html",
     "source": "New York Times",
-    "published": "2026-02-17T21:12:31+00:00"
+    "published": "2026-02-17T21:12:32+00:00"
   },
   {
     "title": "Nine medals up for grabs - Wednesday's guide",
@@ -309,7 +351,7 @@
     "title": "Peru Votes to Impeach President Jos\u00e9 Jer\u00ed",
     "link": "https://www.nytimes.com/2026/02/17/world/americas/peru-president-jose-jeri-impeachment.html",
     "source": "New York Times",
-    "published": "2026-02-17T20:41:01+00:00"
+    "published": "2026-02-17T20:41:02+00:00"
   },
   {
     "title": "AI Agents Are Taking America by Storm",
@@ -432,18 +474,6 @@
     "published": "2026-02-17T17:49:09+00:00"
   },
   {
-    "title": "The fallout from Labour's local elections U-turn is not over yet",
-    "link": "https://www.bbc.com/news/articles/czx7n9n0xrro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-17T17:28:26+00:00"
-  },
-  {
-    "title": "Jesse Jackson: A life in pictures",
-    "link": "https://www.bbc.com/news/articles/cn0zjz58nzqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-17T17:18:19+00:00"
-  },
-  {
     "title": "A photojournalist details her rebellion against the Syrian regime -- and her father",
     "link": "https://www.npr.org/2026/02/17/nx-s1-5717011/a-photojournalist-details-her-rebellion-against-the-syrian-regime-and-her-father",
     "source": "NPR",
@@ -528,34 +558,10 @@
     "published": "2026-02-17T15:55:00+00:00"
   },
   {
-    "title": "Immediate action needed to improve law and order, stabilise prices: Mir Nasir Hossain",
-    "link": "https://www.tbsnews.net/bangladesh/immediate-action-needed-improve-law-and-order-stabilise-prices-mir-nasir-hossain-1364491",
-    "source": "The Business Standard",
-    "published": "2026-02-17T15:45:00+00:00"
-  },
-  {
-    "title": "Ramadan begins tomorrow in Saudi Arabia",
-    "link": "https://www.tbsnews.net/bangladesh/ramadan-begins-tomorrow-saudi-arabia-1364496",
-    "source": "The Business Standard",
-    "published": "2026-02-17T15:45:00+00:00"
-  },
-  {
-    "title": "The man whose bad break-up gave Madonna her breakthrough hit Like A Virgin",
-    "link": "https://www.bbc.com/news/articles/cvgveqzld59o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-17T14:22:12+00:00"
-  },
-  {
     "title": "Winners of the 2026 Sony World Photography Awards Open Competition",
     "link": "https://www.theatlantic.com/photography/2026/02/winners-2026-sony-world-photography-awards-open-competition/686022/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-17T14:00:00+00:00"
-  },
-  {
-    "title": "USA's Meyers Taylor, 41, becomes oldest individual Olympic champion at a Winter Games",
-    "link": "https://www.bbc.com/sport/articles/cpv84182rp2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-17T13:00:40+00:00"
   },
   {
     "title": "The Republicans Made Peace With Science",
