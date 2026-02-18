@@ -1,5 +1,71 @@
 [
   {
+    "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
+    "link": "https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok",
+    "source": "The Verge",
+    "published": "2026-02-18T21:27:09+00:00"
+  },
+  {
+    "title": "Administration Targets Noncitizen Voting, Despite Finding It Rare",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/voting-trump-immigrants-midterms.html",
+    "source": "New York Times",
+    "published": "2026-02-18T21:19:10+00:00"
+  },
+  {
+    "title": "E.P.A. Faces First Lawsuit Over Its Killing of Major Climate Rule",
+    "link": "https://www.nytimes.com/2026/02/18/climate/epa-endangerment-finding-lawsuit.html",
+    "source": "New York Times",
+    "published": "2026-02-18T21:10:58+00:00"
+  },
+  {
+    "title": "\u2018Billy Preston\u2019 Review: A Unique and Tortured Talent",
+    "link": "https://www.nytimes.com/2026/02/18/movies/billy-preston-thats-the-way-god-planned-it-review.html",
+    "source": "New York Times",
+    "published": "2026-02-18T21:05:14+00:00"
+  },
+  {
+    "title": "Colorado Democrats Push to Rip Up 2028 House Map for an Extra Edge",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/colorado-redistricting-house-map-2028.html",
+    "source": "New York Times",
+    "published": "2026-02-18T21:01:43+00:00"
+  },
+  {
+    "title": "Ring&#8217;s AI-powered Search Party won&#8217;t stop at finding lost dogs, leaked email shows",
+    "link": "https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion",
+    "source": "The Verge",
+    "published": "2026-02-18T21:01:40+00:00"
+  },
+  {
+    "title": "E.P.A. Plans to Loosen Mercury Rules for Coal Plants, Documents Show",
+    "link": "https://www.nytimes.com/2026/02/18/climate/epa-mercury-coal-plants.html",
+    "source": "New York Times",
+    "published": "2026-02-18T20:58:40+00:00"
+  },
+  {
+    "title": "Billionaire Lex Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
+    "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T20:58:35+00:00"
+  },
+  {
+    "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
+    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T20:57:22+00:00"
+  },
+  {
+    "title": "Italian phenomenon Arianna Fontana wins 14th Olympic speed skating medal",
+    "link": "https://www.bbc.com/sport/articles/c20jg2de94go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T20:42:43+00:00"
+  },
+  {
+    "title": "Leslie Wexner Says Epstein \u2018Conned\u2019 Him, but Democrats Are Skeptical",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html",
+    "source": "New York Times",
+    "published": "2026-02-18T20:28:42+00:00"
+  },
+  {
     "title": "Mamdani to Reinstitute Homeless Encampment Sweeps",
     "link": "https://www.nytimes.com/2026/02/18/nyregion/homeless-encampment-mamdani-nyc.html",
     "source": "New York Times",
@@ -24,6 +90,12 @@
     "published": "2026-02-18T20:25:37+00:00"
   },
   {
+    "title": "GB curlers emerge from epic day with medal hopes revived",
+    "link": "https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T20:23:36+00:00"
+  },
+  {
     "title": "How Microbes Got Their Crawl",
     "link": "https://www.nytimes.com/2026/02/18/science/evolution-cells-asgard.html",
     "source": "New York Times",
@@ -36,22 +108,10 @@
     "published": "2026-02-18T20:15:21+00:00"
   },
   {
-    "title": "Administration Increases Scrutiny of Noncitizen Voting, Pursuing a Trump Claim",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/voting-trump-immigrants-midterms.html",
-    "source": "New York Times",
-    "published": "2026-02-18T20:14:10+00:00"
-  },
-  {
     "title": "Fed Minutes Show No Rush to Restart Rate Cuts",
     "link": "https://www.nytimes.com/2026/02/18/business/economy/fed-officials-minutes-interest-rates.html",
     "source": "New York Times",
     "published": "2026-02-18T20:12:02+00:00"
-  },
-  {
-    "title": "Do not give away Diego Garcia, Trump tells UK",
-    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-18T20:07:44+00:00"
   },
   {
     "title": "Here are the best AirPods deals you can get right now",
@@ -72,18 +132,6 @@
     "published": "2026-02-18T19:54:42+00:00"
   },
   {
-    "title": "Everything you need to know about Donald Trump\u2019s Board of Peace",
-    "link": "https://www.bbc.co.uk/sounds/play/p0n1wyl9?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-18T19:46:00+00:00"
-  },
-  {
-    "title": "E.P.A. Plans to Loosen Mercury Rules for Coal Plants, Documents Show",
-    "link": "https://www.nytimes.com/2026/02/18/climate/epa-mercury-coal-plants.html",
-    "source": "New York Times",
-    "published": "2026-02-18T19:41:45+00:00"
-  },
-  {
     "title": "What You Need to Know About Avalanche Safety in the Backcountry",
     "link": "https://www.nytimes.com/article/backcountry-skiing-safety-avalanche.html",
     "source": "New York Times",
@@ -94,6 +142,12 @@
     "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-18T19:37:35+00:00"
+  },
+  {
+    "title": "Marco Rubio Is Failing Western Civ",
+    "link": "https://www.nytimes.com/2026/02/18/opinion/marco-rubio-is-failing-western-civ.html",
+    "source": "New York Times",
+    "published": "2026-02-18T19:35:45+00:00"
   },
   {
     "title": "Mark Zuckerberg defends Meta in landmark social media addiction trial",
@@ -124,12 +178,6 @@
     "link": "https://www.tbsnews.net/bangladesh/govt-appoints-saleh-shibly-pms-press-secretary-ruman-deputy-1365701",
     "source": "The Business Standard",
     "published": "2026-02-18T18:50:00+00:00"
-  },
-  {
-    "title": "Mamdani Fills Out Housing Board in Push to Freeze Rent",
-    "link": "https://www.nytimes.com/2026/02/18/nyregion/zohran-mamdani-rent-guidelines-board-freeze.html",
-    "source": "New York Times",
-    "published": "2026-02-18T18:22:46+00:00"
   },
   {
     "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
@@ -208,12 +256,6 @@
     "link": "https://www.bbc.com/news/articles/clygw74z9dzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-18T17:37:34+00:00"
-  },
-  {
-    "title": "Colorado Democrats Push to Rip Up 2028 House Map for an Extra Edge",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/colorado-redistricting-house-map-2028.html",
-    "source": "New York Times",
-    "published": "2026-02-18T17:34:10+00:00"
   },
   {
     "title": "One Man Stole $660 Million. He\u2019ll Never Pay It Back.",
@@ -306,12 +348,6 @@
     "published": "2026-02-18T16:30:00+00:00"
   },
   {
-    "title": "E.P.A. Faces First Lawsuit Over Its Killing of Major Climate Rule",
-    "link": "https://www.nytimes.com/2026/02/18/climate/epa-endangerment-finding-lawsuit.html",
-    "source": "New York Times",
-    "published": "2026-02-18T16:28:33+00:00"
-  },
-  {
     "title": "I hated my appearance. Here's how I learned to accept it",
     "link": "https://www.bbc.com/news/articles/cre2pelrpwzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -384,28 +420,10 @@
     "published": "2026-02-18T15:47:38+00:00"
   },
   {
-    "title": "Google Pixel 10A preorders come with a $100 gift card",
-    "link": "https://www.theverge.com/gadgets/880610/google-pixel-10a-preorder-deal-sale",
-    "source": "The Verge",
-    "published": "2026-02-18T15:43:53+00:00"
-  },
-  {
-    "title": "Waymo denies using remote drivers after Senate testimony goes viral",
-    "link": "https://www.theverge.com/transportation/880583/waymo-remote-assistance-senate-letter-robotaxi-philippines",
-    "source": "The Verge",
-    "published": "2026-02-18T15:35:33+00:00"
-  },
-  {
     "title": "State Minister Ishraque 'declares war' on hoarders ahead of Ramadan",
     "link": "https://www.tbsnews.net/bangladesh/state-minister-ishraque-declares-war-hoarders-ahead-ramadan-1365601",
     "source": "The Business Standard",
     "published": "2026-02-18T15:35:00+00:00"
-  },
-  {
-    "title": "\u2018Billy Preston\u2019 Review: A Unique and Tortured Talent",
-    "link": "https://www.nytimes.com/2026/02/18/movies/billy-preston-thats-the-way-god-planned-it-review.html",
-    "source": "New York Times",
-    "published": "2026-02-18T15:22:36+00:00"
   },
   {
     "title": "Driver guilty over fatal smart motorway crash",
@@ -426,12 +444,6 @@
     "published": "2026-02-18T15:09:12+00:00"
   },
   {
-    "title": "Kentucky Derby Operator Accused of Regulatory \u2018Freeloading\u2019",
-    "link": "https://www.nytimes.com/2026/02/18/business/churchill-downs-hisa-fees.html",
-    "source": "New York Times",
-    "published": "2026-02-18T15:08:38+00:00"
-  },
-  {
     "title": "How a fatal crash happened on a smart motorway",
     "link": "https://www.bbc.com/news/articles/c4g2d4l1x15o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -442,12 +454,6 @@
     "link": "https://www.nytimes.com/2026/02/18/world/europe/ukraine-russia-peace-talks-demilitarized-zone.html",
     "source": "New York Times",
     "published": "2026-02-18T15:00:25+00:00"
-  },
-  {
-    "title": "Watch: Lindsey Vonn shares her journey home after Olympics crash",
-    "link": "https://www.bbc.com/news/videos/cgk2gj3zm8do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-18T14:56:47+00:00"
   },
   {
     "title": "Govt declares 36-day holiday for primary, secondary schools from Thursday",
@@ -466,12 +472,6 @@
     "link": "https://www.tbsnews.net/bangladesh/bangladesh-bank-sets-ramadan-office-hours-930am-4pm-1365561",
     "source": "The Business Standard",
     "published": "2026-02-18T14:45:00+00:00"
-  },
-  {
-    "title": "Met making 'initial inquiries' into claims about Andrew protection officers",
-    "link": "https://www.bbc.com/news/articles/cy57ry1vne0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-18T14:36:24+00:00"
   },
   {
     "title": "Elon Musk\u2019s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
@@ -540,12 +540,6 @@
     "published": "2026-02-18T12:42:06+00:00"
   },
   {
-    "title": "Viral Videos Helped Mamdani Win. Can They Help Him Govern?",
-    "link": "https://www.nytimes.com/2026/02/18/nyregion/mamdani-social-media.html",
-    "source": "New York Times",
-    "published": "2026-02-18T12:40:35+00:00"
-  },
-  {
     "title": "Europe and Canada Are Like the Kids in an Ugly Divorce",
     "link": "https://www.theatlantic.com/national-security/2026/02/europe-canada-china-carney-xi-jinping/686033/?utm_source=feed",
     "source": "The Atlantic",
@@ -582,10 +576,16 @@
     "published": "2026-02-18T10:30:46+00:00"
   },
   {
-    "title": "How We Resist ICE: Car Pools",
-    "link": "https://www.nytimes.com/2026/02/18/opinion/minneapolis-ice-resistance-minivans.html",
+    "title": "Ethan Hawke on \u2018Blue Moon,\u2019 \u2018Reality Bites\u2019 and the Lessons He\u2019s Learned",
+    "link": "https://www.nytimes.com/2026/02/18/movies/ethan-hawke-blue-moon-interview.html",
     "source": "New York Times",
-    "published": "2026-02-18T10:03:52+00:00"
+    "published": "2026-02-18T10:03:34+00:00"
+  },
+  {
+    "title": "With a New Oscar on the Line, How Do You Judge Casting?",
+    "link": "https://www.nytimes.com/2026/02/18/movies/casting-oscar-marty-supreme.html",
+    "source": "New York Times",
+    "published": "2026-02-18T10:00:59+00:00"
   },
   {
     "title": "Lower food and fuel prices drive inflation down to 3%",
@@ -628,17 +628,5 @@
     "link": "https://www.theatlantic.com/newsletters/2026/02/censorship-free-speech-trump-tv-senators-citizens/686034/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-17T22:26:00+00:00"
-  },
-  {
-    "title": "Is There A Gen Z Jobs Crisis?",
-    "link": "https://www.bbc.co.uk/sounds/play/p0n1p693?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-17T20:43:00+00:00"
-  },
-  {
-    "title": "AI Agents Are Taking America by Storm",
-    "link": "https://www.theatlantic.com/technology/2026/02/post-chatbot-claude-code-ai-agents/686029/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-02-17T20:40:00+00:00"
   }
 ]
