@@ -1,5 +1,65 @@
 [
   {
+    "title": "What You Need to Know About Avalanche Safety in the Backcountry",
+    "link": "https://www.nytimes.com/article/backcountry-skiing-safety-avalanche.html",
+    "source": "New York Times",
+    "published": "2026-02-18T19:38:06+00:00"
+  },
+  {
+    "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+    "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T19:37:35+00:00"
+  },
+  {
+    "title": "Do not give away Diego Garcia, Trump tells UK",
+    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T19:32:24+00:00"
+  },
+  {
+    "title": "Mark Zuckerberg testifies in landmark social media addiction trial",
+    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-18T19:27:53+00:00"
+  },
+  {
+    "title": "Mark Zuckerberg Says Instagram Is Valuable, Not Harmful, in Landmark Tech Addiction Trial",
+    "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
+    "source": "New York Times",
+    "published": "2026-02-18T19:22:46+00:00"
+  },
+  {
+    "title": "Polestar aims to shake off EV doldrums with 4 new models in 3 years",
+    "link": "https://www.theverge.com/transportation/880808/polestar-four-new-models-ev-europe",
+    "source": "The Verge",
+    "published": "2026-02-18T19:21:43+00:00"
+  },
+  {
+    "title": "Nitai Roy for working with new dream to build new Bangladesh",
+    "link": "https://www.tbsnews.net/bangladesh/nitai-roy-working-new-dream-build-new-bangladesh-1365711",
+    "source": "The Business Standard",
+    "published": "2026-02-18T19:10:00+00:00"
+  },
+  {
+    "title": "Meta Begins $65 Million Election Push to Advance A.I. Agenda",
+    "link": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html",
+    "source": "New York Times",
+    "published": "2026-02-18T19:02:27+00:00"
+  },
+  {
+    "title": "F.D.A. Reverses Decision and Agrees to Review Moderna\u2019s Flu Vaccine",
+    "link": "https://www.nytimes.com/2026/02/18/health/fda-moderna-flu-vaccine-mrna.html",
+    "source": "New York Times",
+    "published": "2026-02-18T18:51:00+00:00"
+  },
+  {
+    "title": "Govt appoints Saleh Shibly as PM's press secretary, Ruman as deputy",
+    "link": "https://www.tbsnews.net/bangladesh/govt-appoints-saleh-shibly-pms-press-secretary-ruman-deputy-1365701",
+    "source": "The Business Standard",
+    "published": "2026-02-18T18:50:00+00:00"
+  },
+  {
     "title": "Mamdani to Reinstitute Homeless Encampment Sweeps",
     "link": "https://www.nytimes.com/2026/02/18/nyregion/homeless-encampment-mamdani-nyc.html",
     "source": "New York Times",
@@ -16,6 +76,12 @@
     "link": "https://www.nytimes.com/2026/02/18/nyregion/zohran-mamdani-rent-guidelines-board-freeze.html",
     "source": "New York Times",
     "published": "2026-02-18T18:22:46+00:00"
+  },
+  {
+    "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
+    "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
+    "source": "New York Times",
+    "published": "2026-02-18T18:20:50+00:00"
   },
   {
     "title": "Iran security official appears to fire on crowd at cemetery",
@@ -102,28 +168,22 @@
     "published": "2026-02-18T17:29:02+00:00"
   },
   {
-    "title": "F.D.A. Reverses Decision and Agrees to Review Moderna\u2019s Flu Vaccine",
-    "link": "https://www.nytimes.com/2026/02/18/health/fda-moderna-flu-vaccine-mrna.html",
-    "source": "New York Times",
-    "published": "2026-02-18T17:20:23+00:00"
-  },
-  {
     "title": "Acer\u2019s Chromebook Plus Spin 514 is $200 off, marking a new low price",
     "link": "https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale",
     "source": "The Verge",
     "published": "2026-02-18T17:12:53+00:00"
   },
   {
-    "title": "Zuckerberg arrives to testify in social media addiction trial",
-    "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-18T17:11:52+00:00"
-  },
-  {
     "title": "Teenage girls lured into forced sex by gangs in London, BBC finds",
     "link": "https://www.bbc.com/news/articles/cjd9xnjyy8po?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "published": "2026-02-18T17:01:16+00:00"
+  },
+  {
+    "title": "How Microbes Got Their Crawl",
+    "link": "https://www.nytimes.com/2026/02/18/science/evolution-cells-asgard.html",
+    "source": "New York Times",
+    "published": "2026-02-18T17:00:14+00:00"
   },
   {
     "title": "Are Elon Musk\u2019s Mars plans finally coming back down to Earth?",
@@ -142,12 +202,6 @@
     "link": "https://www.npr.org/2026/02/18/g-s1-110560/australia-bans-a-citizen-with-alleged-is-links-from-returning-from-syria",
     "source": "NPR",
     "published": "2026-02-18T16:53:00+00:00"
-  },
-  {
-    "title": "Methane Hunters Track Swamp Gas That Is Driving Climate Warming",
-    "link": "https://www.nytimes.com/2026/02/18/climate/methane-gas-swamp-climate-warming.html",
-    "source": "New York Times",
-    "published": "2026-02-18T16:51:01+00:00"
   },
   {
     "title": "Brokers congratulate Tarique Rahman and Finance Minister Amir Khasru",
@@ -208,12 +262,6 @@
     "link": "https://www.nytimes.com/2026/02/18/climate/epa-endangerment-finding-lawsuit.html",
     "source": "New York Times",
     "published": "2026-02-18T16:28:33+00:00"
-  },
-  {
-    "title": "Botswana\u2019s \u2018Corn Lady\u2019 Finds Fame With Food Stands",
-    "link": "https://www.nytimes.com/2026/02/18/world/africa/botswana-food-stand-corn.html",
-    "source": "New York Times",
-    "published": "2026-02-18T16:23:54+00:00"
   },
   {
     "title": "I hated my appearance. Here's how I learned to accept it",
@@ -300,12 +348,6 @@
     "published": "2026-02-18T15:43:45+00:00"
   },
   {
-    "title": "Talks on Russia-Ukraine War Enter 2nd Day in Geneva",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/russia-ukraine-us-talks-war.html",
-    "source": "New York Times",
-    "published": "2026-02-18T15:39:23+00:00"
-  },
-  {
     "title": "Waymo denies using remote drivers after Senate testimony goes viral",
     "link": "https://www.theverge.com/transportation/880583/waymo-remote-assistance-senate-letter-robotaxi-philippines",
     "source": "The Verge",
@@ -360,12 +402,6 @@
     "published": "2026-02-18T15:00:25+00:00"
   },
   {
-    "title": "Toyota\u2019s C-HR electric hatchback starts at $38,135",
-    "link": "https://www.theverge.com/transportation/880395/toyota-chr-ev-price-range-specs",
-    "source": "The Verge",
-    "published": "2026-02-18T15:00:00+00:00"
-  },
-  {
     "title": "Watch: Lindsey Vonn shares her journey home after Olympics crash",
     "link": "https://www.bbc.com/news/videos/cgk2gj3zm8do?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -388,12 +424,6 @@
     "link": "https://www.tbsnews.net/bangladesh/bangladesh-bank-sets-ramadan-office-hours-930am-4pm-1365561",
     "source": "The Business Standard",
     "published": "2026-02-18T14:45:00+00:00"
-  },
-  {
-    "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-    "link": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-18T14:38:22+00:00"
   },
   {
     "title": "Met making 'initial inquiries' into claims about Andrew protection officers",
@@ -444,18 +474,6 @@
     "published": "2026-02-18T14:10:00+00:00"
   },
   {
-    "title": "Will protect national interest to last penny, ensure balanced relations with all: FM Khalil",
-    "link": "https://www.tbsnews.net/bangladesh/will-protect-national-interest-last-penny-ensure-balanced-relations-all-fm-khalil-1365506",
-    "source": "The Business Standard",
-    "published": "2026-02-18T14:00:00+00:00"
-  },
-  {
-    "title": "Integrated planning in agriculture, fisheries and livestock to strengthen economy: Amin-ur Rashid",
-    "link": "https://www.tbsnews.net/bangladesh/integrated-planning-agriculture-fisheries-and-livestock-strengthen-economy-amin-ur-rashid",
-    "source": "The Business Standard",
-    "published": "2026-02-18T14:00:00+00:00"
-  },
-  {
     "title": "At These Gaza Schools, \u2018Peace Building\u2019 Is Part of the Curriculum",
     "link": "https://www.nytimes.com/2026/02/18/world/middleeast/gaza-schools-peace-curriculum.html",
     "source": "New York Times",
@@ -484,18 +502,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/02/ai-white-collar-jobs/686031/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-18T13:00:00+00:00"
-  },
-  {
-    "title": "Man who threw corrosive liquid on guest at spiritual retreat and fled country is jailed",
-    "link": "https://www.bbc.com/news/articles/c4g82znj294o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-18T12:59:59+00:00"
-  },
-  {
-    "title": "The A.I. Disruption Has Arrived, and It Sure Is Fun",
-    "link": "https://www.nytimes.com/2026/02/18/opinion/ai-software.html",
-    "source": "New York Times",
-    "published": "2026-02-18T12:50:48+00:00"
   },
   {
     "title": "Mark Zuckerberg faces a jury today. And, the top DHS spokesperson resigns her post",
@@ -552,10 +558,10 @@
     "published": "2026-02-18T10:30:46+00:00"
   },
   {
-    "title": "An Architect of Virginia\u2019s Redistricting Will Run for a New Seat Himself",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/dan-helmer-congress-redistricting-virginia.html",
+    "title": "How We Resist ICE: Car Pools",
+    "link": "https://www.nytimes.com/2026/02/18/opinion/minneapolis-ice-resistance-minivans.html",
     "source": "New York Times",
-    "published": "2026-02-18T10:05:01+00:00"
+    "published": "2026-02-18T10:03:52+00:00"
   },
   {
     "title": "How Jesse Jackson Took King\u2019s Civil Rights Movement to Company Doorsteps",
@@ -600,12 +606,6 @@
     "published": "2026-02-18T01:06:35+00:00"
   },
   {
-    "title": "California Wealth Tax Opponents Intensify Efforts Before Bernie Sanders Visit",
-    "link": "https://www.nytimes.com/2026/02/17/us/california-wealth-tax-opposition-bernie-sanders.html",
-    "source": "New York Times",
-    "published": "2026-02-17T23:49:28+00:00"
-  },
-  {
     "title": "Do Not Be Cynical About Jesse Jackson",
     "link": "https://www.theatlantic.com/ideas/2026/02/jesse-jackson-legacy-race/686030/?utm_source=feed",
     "source": "The Atlantic",
@@ -634,11 +634,5 @@
     "link": "https://www.theatlantic.com/photography/2026/02/winter-olympics-photo-day-in-pursuit/686027/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-17T20:12:28+00:00"
-  },
-  {
-    "title": "An Olympic Trend That Defies Tradition",
-    "link": "https://www.theatlantic.com/health/2026/02/olympics-mixed-gender-ski-mountaineering/686026/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-02-17T19:03:09+00:00"
   }
 ]
