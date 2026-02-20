@@ -1,5 +1,59 @@
 [
   {
+    "title": "The best e-reader to buy right now",
+    "link": "https://www.theverge.com/23769068/best-ebook-readers",
+    "source": "The Verge",
+    "published": "2026-02-20T22:19:29+00:00"
+  },
+  {
+    "title": "Was Anyone at Fault in Sierra Nevada Avalanche Deaths?",
+    "link": "https://www.nytimes.com/2026/02/20/us/tahoe-area-avalanche-deaths-investigation.html",
+    "source": "New York Times",
+    "published": "2026-02-20T22:12:07+00:00"
+  },
+  {
+    "title": "In Berlin, there are movies, there's politics and there's talk about it all",
+    "link": "https://www.npr.org/2026/02/20/nx-s1-5713927/berlin-film-festival-gaza-politics",
+    "source": "NPR",
+    "published": "2026-02-20T22:01:51+00:00"
+  },
+  {
+    "title": "Christopher S. Wren, Times Bureau Chief in Hostile Lands, Dies at 89",
+    "link": "https://www.nytimes.com/2026/02/20/business/media/christopher-wren-dead.html",
+    "source": "New York Times",
+    "published": "2026-02-20T21:55:51+00:00"
+  },
+  {
+    "title": "GB go for men's curling gold and Atkin in halfpipe final - Saturday's guide",
+    "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-20T21:54:34+00:00"
+  },
+  {
+    "title": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
+    "link": "https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out",
+    "source": "The Verge",
+    "published": "2026-02-20T21:29:01+00:00"
+  },
+  {
+    "title": "C.I.A. Retracts Reports Flagged for Bias",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/cia-retracts-reports.html",
+    "source": "New York Times",
+    "published": "2026-02-20T21:25:23+00:00"
+  },
+  {
+    "title": "Government considers removing Andrew from royal line of succession",
+    "link": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "published": "2026-02-20T21:22:01+00:00"
+  },
+  {
+    "title": "Alex Ferreira wins 10th gold medal for Team USA, matching America's highest total in Winter Olympics",
+    "link": "https://www.npr.org/2026/02/20/nx-s1-5721177/alex-ferreira-wins-10th-gold-medal-for-team-usa-matching-most-ever-in-winter-olympics",
+    "source": "NPR",
+    "published": "2026-02-20T21:18:10+00:00"
+  },
+  {
     "title": "'I'm on right side' - Team GB's Kenworthy on death threats after ICE post",
     "link": "https://www.bbc.com/sport/articles/c07j18rgrpxo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -12,10 +66,10 @@
     "published": "2026-02-20T20:58:27+00:00"
   },
   {
-    "title": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
-    "link": "https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out",
-    "source": "The Verge",
-    "published": "2026-02-20T20:52:22+00:00"
+    "title": "Hungary Poses Unexpected Hurdle to Europe\u2019s 90-Billion Euro Loan to Ukraine",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
+    "source": "New York Times",
+    "published": "2026-02-20T20:56:32+00:00"
   },
   {
     "title": "The Supreme Court\u2019s Declaration of Independence",
@@ -36,7 +90,7 @@
     "published": "2026-02-20T20:39:31+00:00"
   },
   {
-    "title": "A Conservative Court Refused to Be a Rubber Stamp",
+    "title": "The Supreme Court Isn\u2019t a Rubber Stamp",
     "link": "https://www.theatlantic.com/ideas/2026/02/scotus-tariff-decision-trump/686087/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-20T20:35:23+00:00"
@@ -96,34 +150,22 @@
     "published": "2026-02-20T20:13:57+00:00"
   },
   {
-    "title": "Christopher S. Wren, Times Bureau Chief in Hostile Lands, Dies at 89",
-    "link": "https://www.nytimes.com/2026/02/20/business/media/christopher-wren-dead.html",
-    "source": "New York Times",
-    "published": "2026-02-20T20:07:06+00:00"
-  },
-  {
     "title": "Web scraper sued by Google claims Google is the one scraping the web",
     "link": "https://www.theverge.com/tech/882300/serpapi-google-lawsuit-web-scraper-motion-to-dismiss",
     "source": "The Verge",
     "published": "2026-02-20T20:06:46+00:00"
   },
   {
-    "title": "Will the Supreme Court\u2019s Tariff Ruling \u2018Destroy the United States of America\u2019?",
-    "link": "https://www.nytimes.com/2026/02/20/opinion/trump-tariff-supreme-court-ruling.html",
+    "title": "Bench Presses, Pull Ups \u2026 Kid Rock? The White House Had a Very Manly Week.",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-hegseth-rfk-manliness.html",
     "source": "New York Times",
-    "published": "2026-02-20T20:02:09+00:00"
+    "published": "2026-02-20T20:05:47+00:00"
   },
   {
     "title": "Trump Calls Justices Who Ruled Against Him \u2018Fools and Lap Dogs\u2019",
     "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-justices-gorsuch-barrett-roberts.html",
     "source": "New York Times",
     "published": "2026-02-20T20:01:26+00:00"
-  },
-  {
-    "title": "Iran Says U.S. Has Not Asked It to Stop Enriching Uranium",
-    "link": "https://www.nytimes.com/2026/02/20/world/middleeast/iran-us-nuclear-uranium.html",
-    "source": "New York Times",
-    "published": "2026-02-20T20:00:44+00:00"
   },
   {
     "title": "Today\u2019s <em>Atlantic </em>Trivia: Mythical Geography",
@@ -136,12 +178,6 @@
     "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html",
     "source": "New York Times",
     "published": "2026-02-20T19:56:29+00:00"
-  },
-  {
-    "title": "You can save $30 on Sony\u2019s DualSense Edge controller by buying refurbished",
-    "link": "https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale",
-    "source": "The Verge",
-    "published": "2026-02-20T19:55:35+00:00"
   },
   {
     "title": "San Jos\u00e9 State University Graduate Is Found Dead in Tree Well at Lake Tahoe Resort",
@@ -186,10 +222,10 @@
     "published": "2026-02-20T19:08:27+00:00"
   },
   {
-    "title": "Government considers removing Andrew from royal line of succession",
-    "link": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-20T19:02:14+00:00"
+    "title": "The Problem With Hot, White Heathcliff in \u2018Wuthering Heights\u2019",
+    "link": "https://www.nytimes.com/2026/02/20/opinion/wuthering-heights-jacob-elordi-bridgerton.html",
+    "source": "New York Times",
+    "published": "2026-02-20T19:04:08+00:00"
   },
   {
     "title": "Tariffs ruling is major blow to Trump's second-term agenda",
@@ -360,12 +396,6 @@
     "published": "2026-02-20T16:00:00+00:00"
   },
   {
-    "title": "As Trump Considers Second Iran Attack, It Could Be Deadlier Than the First",
-    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-iran-risks.html",
-    "source": "New York Times",
-    "published": "2026-02-20T15:58:25+00:00"
-  },
-  {
     "title": "Dog trained to illegally dump rubbish, Italian authorities say",
     "link": "https://www.bbc.com/news/articles/cy57erz57xyo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -474,34 +504,16 @@
     "published": "2026-02-20T14:05:00+00:00"
   },
   {
-    "title": "A New U.S. Blockade Is Strangling Cuba",
-    "link": "https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html",
-    "source": "New York Times",
-    "published": "2026-02-20T14:03:37+00:00"
-  },
-  {
     "title": "Our Olympians Are Being Put in an Impossible Position",
     "link": "https://www.theatlantic.com/ideas/2026/02/winter-olympics-politics-trump-speech-protest/686046/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-20T14:00:00+00:00"
   },
   {
-    "title": "The economy slowed in the last 3 months of the year \u2014 but was still solid in 2025",
-    "link": "https://www.npr.org/2026/02/20/nx-s1-5718214/economy-gdp-tariffs-inflation-consumer-spending",
-    "source": "NPR",
-    "published": "2026-02-20T13:52:51+00:00"
-  },
-  {
     "title": "Police will interrogate teenagers roaming unnecessarily at night: Minister Milon",
     "link": "https://www.tbsnews.net/bangladesh/police-will-interrogate-teenagers-roaming-unnecessarily-night-minister-milon-1366986",
     "source": "The Business Standard",
     "published": "2026-02-20T13:45:00+00:00"
-  },
-  {
-    "title": "Ali Akbar, who's sold newspapers on the streets of Paris for 50 years, is now a knight",
-    "link": "https://www.npr.org/2026/02/20/g-s1-110565/france-paris-newspaper-seller-knighthood-chevalier-ali-akbar",
-    "source": "NPR",
-    "published": "2026-02-20T13:42:37+00:00"
   },
   {
     "title": "Woody and Buzz reunite in trailer for Toy Story 5",
@@ -564,12 +576,6 @@
     "published": "2026-02-20T11:50:00+00:00"
   },
   {
-    "title": "GB's Kenworthy in halfpipe final - Friday's guide",
-    "link": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "published": "2026-02-20T11:36:24+00:00"
-  },
-  {
     "title": "UK Athletics pleads guilty to corporate manslaughter of Paralympian",
     "link": "https://www.bbc.com/sport/articles/c0ljn0z94n5o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -586,12 +592,6 @@
     "link": "https://www.tbsnews.net/bangladesh/acts-vengeance-will-not-be-spared-state-minister-faridul-1366881",
     "source": "The Business Standard",
     "published": "2026-02-20T11:20:00+00:00"
-  },
-  {
-    "title": "Was Anyone at Fault in Sierra Nevada Avalanche Deaths?",
-    "link": "https://www.nytimes.com/2026/02/20/us/tahoe-area-avalanche-deaths-investigation.html",
-    "source": "New York Times",
-    "published": "2026-02-20T10:04:18+00:00"
   },
   {
     "title": "A.I. Isn\u2019t Coming for Every White-Collar Job. At Least Not Yet.",
@@ -634,11 +634,5 @@
     "link": "https://www.theatlantic.com/health/2026/02/rfk-jrs-workout-pants/686071/?utm_source=feed",
     "source": "The Atlantic",
     "published": "2026-02-20T00:06:25+00:00"
-  },
-  {
-    "title": "Does Writing Have to Be Hard?",
-    "link": "https://www.theatlantic.com/newsletters/2026/02/writing-reading-education-technology-ai/686068/?utm_source=feed",
-    "source": "The Atlantic",
-    "published": "2026-02-19T21:33:00+00:00"
   }
 ]
